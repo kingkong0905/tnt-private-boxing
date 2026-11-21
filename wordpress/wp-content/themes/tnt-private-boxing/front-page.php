@@ -1,0 +1,1297 @@
+<?php
+/**
+ * Generated from html-backup/index.html by scripts/build_theme.py. Edit freely.
+ */
+?>
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+
+<head>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>TNT Private Boxing - No.1 Boxing Gym in Downtown Los Angeles</title>
+
+		<!-- All in One SEO 5.0.5.1 - aioseo.com -->
+	<meta name="description" content="Boxing Gym in Los Angeles - Whether you&#039;re looking to get fit or aiming to become a pro boxer, we’ve got the right class for you, led by incredible coaches!" />
+						<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="TNT Private Boxing - No.1 Boxing Gym in Los Angeles, Little Tokyo" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="TNT Private Boxing - No.1 Boxing Gym in Downtown Los Angeles" />
+		<meta property="og:description" content="Boxing Gym in Los Angeles - Whether you&#039;re looking to get fit or aiming to become a pro boxer, we’ve got the right class for you, led by incredible coaches!" />
+																<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v11.3.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+		<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+					<!-- No tracking code set -->
+				<!-- / Google Analytics by MonsterInsights -->
+		<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='hfe-widgets-style-css' href='<?php echo esc_url( content_url( 'plugins/header-footer-elementor/inc/widgets-css/frontend.css' ) ); ?>' media='all' />
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='wp-theme-css' href='<?php echo esc_url( home_url( '/wp-includes/css/dist/theme/design-tokens.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='wp-components-css' href='<?php echo esc_url( home_url( '/wp-includes/css/dist/components/style.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='wp-preferences-css' href='<?php echo esc_url( home_url( '/wp-includes/css/dist/preferences/style.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='<?php echo esc_url( home_url( '/wp-includes/css/dist/block-editor/style.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='popup-maker-block-library-style-css' href='<?php echo esc_url( content_url( 'plugins/popup-maker/dist/packages/block-library-style.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='aioseo/css/src/vue/standalone/blocks/table-of-contents/global.scss-css' href='<?php echo esc_url( content_url( 'plugins/all-in-one-seo-pack/dist/Lite/assets/css/table-of-contents/global.e90f6d47.css' ) ); ?>' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--neve-link-color: var(--nv-primary-accent);--wp--preset--color--neve-link-hover-color: var(--nv-secondary-accent);--wp--preset--color--nv-site-bg: var(--nv-site-bg);--wp--preset--color--nv-light-bg: var(--nv-light-bg);--wp--preset--color--nv-dark-bg: var(--nv-dark-bg);--wp--preset--color--neve-text-color: var(--nv-text-color);--wp--preset--color--nv-text-dark-bg: var(--nv-text-dark-bg);--wp--preset--color--nv-c-1: var(--nv-c-1);--wp--preset--color--nv-c-2: var(--nv-c-2);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-neve-link-color-color{color: var(--wp--preset--color--neve-link-color) !important;}.has-neve-link-hover-color-color{color: var(--wp--preset--color--neve-link-hover-color) !important;}.has-nv-site-bg-color{color: var(--wp--preset--color--nv-site-bg) !important;}.has-nv-light-bg-color{color: var(--wp--preset--color--nv-light-bg) !important;}.has-nv-dark-bg-color{color: var(--wp--preset--color--nv-dark-bg) !important;}.has-neve-text-color-color{color: var(--wp--preset--color--neve-text-color) !important;}.has-nv-text-dark-bg-color{color: var(--wp--preset--color--nv-text-dark-bg) !important;}.has-nv-c-1-color{color: var(--wp--preset--color--nv-c-1) !important;}.has-nv-c-2-color{color: var(--wp--preset--color--nv-c-2) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-neve-link-color-background-color{background-color: var(--wp--preset--color--neve-link-color) !important;}.has-neve-link-hover-color-background-color{background-color: var(--wp--preset--color--neve-link-hover-color) !important;}.has-nv-site-bg-background-color{background-color: var(--wp--preset--color--nv-site-bg) !important;}.has-nv-light-bg-background-color{background-color: var(--wp--preset--color--nv-light-bg) !important;}.has-nv-dark-bg-background-color{background-color: var(--wp--preset--color--nv-dark-bg) !important;}.has-neve-text-color-background-color{background-color: var(--wp--preset--color--neve-text-color) !important;}.has-nv-text-dark-bg-background-color{background-color: var(--wp--preset--color--nv-text-dark-bg) !important;}.has-nv-c-1-background-color{background-color: var(--wp--preset--color--nv-c-1) !important;}.has-nv-c-2-background-color{background-color: var(--wp--preset--color--nv-c-2) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-neve-link-color-border-color{border-color: var(--wp--preset--color--neve-link-color) !important;}.has-neve-link-hover-color-border-color{border-color: var(--wp--preset--color--neve-link-hover-color) !important;}.has-nv-site-bg-border-color{border-color: var(--wp--preset--color--nv-site-bg) !important;}.has-nv-light-bg-border-color{border-color: var(--wp--preset--color--nv-light-bg) !important;}.has-nv-dark-bg-border-color{border-color: var(--wp--preset--color--nv-dark-bg) !important;}.has-neve-text-color-border-color{border-color: var(--wp--preset--color--neve-text-color) !important;}.has-nv-text-dark-bg-border-color{border-color: var(--wp--preset--color--nv-text-dark-bg) !important;}.has-nv-c-1-border-color{border-color: var(--wp--preset--color--nv-c-1) !important;}.has-nv-c-2-border-color{border-color: var(--wp--preset--color--nv-c-2) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='cf7apps-honeypot-frontend-css' href='<?php echo esc_url( content_url( 'plugins/contact-form-7-honeypot/legacy-honeypot/includes/css/honeypot-frontend.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='<?php echo esc_url( content_url( 'plugins/contact-form-7/includes/css/styles.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='<?php echo esc_url( home_url( '/wp-includes/css/dashicons.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='to-top-css' href='<?php echo esc_url( content_url( 'plugins/to-top/public/css/to-top-public.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='hfe-style-css' href='<?php echo esc_url( content_url( 'plugins/header-footer-elementor/assets/css/header-footer-elementor.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/frontend.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='elementor-post-18-css' href='<?php echo esc_url( content_url( 'uploads/elementor/css/post-18.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='widget-video-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/widget-video.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/widget-heading.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/widget-image.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='swiper-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/conditionals/e-swiper.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='widget-image-carousel-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/widget-image-carousel.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/widget-social-icons.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/conditionals/apple-webkit.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='widget-google_maps-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/widget-google_maps.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='ekit-widget-common-css' href='<?php echo esc_url( content_url( 'plugins/elementskit-lite/widgets/init/assets/css/common.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='ekit-faq-css' href='<?php echo esc_url( content_url( 'plugins/elementskit-lite/widgets/init/assets/css/faq.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='elementor-post-2-css' href='<?php echo esc_url( content_url( 'uploads/elementor/css/post-2.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='elementor-post-304-css' href='<?php echo esc_url( content_url( 'uploads/elementor/css/post-304.css' ) ); ?>' media='all' />
+<style id="nfd-wonder-blocks-utilities-inline-css">
+.nfd-relative{position:relative!important}.-nfd-bottom-1{bottom:-.25rem!important}.-nfd-top-0\.5{top:-.125rem!important}.-nfd-top-1{top:-.25rem!important}.nfd-top-10{top:2.5rem!important}.nfd-col-start-1{grid-column-start:1!important}.nfd-col-start-2{grid-column-start:2!important}.nfd-col-start-3{grid-column-start:3!important}.nfd-col-start-4{grid-column-start:4!important}.nfd-col-start-5{grid-column-start:5!important}.nfd-col-start-6{grid-column-start:6!important}.nfd-col-start-7{grid-column-start:7!important}.nfd-col-end-10{grid-column-end:10!important}.nfd-col-end-11{grid-column-end:11!important}.nfd-col-end-12{grid-column-end:12!important}.nfd-col-end-13{grid-column-end:13!important}.nfd-col-end-7{grid-column-end:7!important}.nfd-col-end-8{grid-column-end:8!important}.nfd-col-end-9{grid-column-end:9!important}.nfd-row-start-1{grid-row-start:1!important}.-nfd-mx-2:not([style*=margin]){margin-left:-.5rem!important;margin-right:-.5rem!important}.nfd-my-0:not([style*=margin]){margin-bottom:0!important;margin-top:0!important}.nfd-mb-8:not([style*=margin]){margin-bottom:2rem!important}.nfd-mt-2:not([style*=margin]){margin-top:.5rem!important}.nfd-mt-8:not([style*=margin]){margin-top:2rem!important}.nfd-mt-\[-100px\]:not([style*=margin]){margin-top:-100px!important}.nfd-grid{display:grid!important}.nfd-h-full{height:100%!important}.nfd-w-full{width:100%!important}.nfd-shrink-0{flex-shrink:0!important}.nfd-grow{flex-grow:1!important}.nfd-grid-cols-11{grid-template-columns:repeat(11,minmax(0,1fr))!important}.nfd-grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))!important}.nfd-grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))!important}.nfd-grid-rows-1{grid-template-rows:repeat(1,minmax(0,1fr))!important}.nfd-items-center{align-items:center!important}.nfd-gap-y-10{row-gap:2.5rem!important}.nfd-overflow-hidden{overflow:hidden!important}.nfd-border-b{border-bottom-width:1px!important}.nfd-border-dashed{border-style:dashed!important}.nfd-p-0:not([style*=padding]){padding:0!important}.nfd-p-10:not([style*=padding]){padding:2.5rem!important}.nfd-p-2:not([style*=padding]){padding:.5rem!important}.nfd-p-4:not([style*=padding]){padding:1rem!important}.nfd-p-8:not([style*=padding]){padding:2rem!important}.nfd-px-0:not([style*=padding]){padding-left:0!important;padding-right:0!important}.nfd-px-4:not([style*=padding]){padding-left:1rem!important;padding-right:1rem!important}.nfd-px-8:not([style*=padding]){padding-left:2rem!important;padding-right:2rem!important}.nfd-py-0:not([style*=padding]){padding-bottom:0!important;padding-top:0!important}.nfd-py-4:not([style*=padding]){padding-bottom:1rem!important;padding-top:1rem!important}.nfd-py-5:not([style*=padding]){padding-bottom:1.25rem!important;padding-top:1.25rem!important}.nfd-pt-0:not([style*=padding]){padding-top:0!important}.nfd-text-left{text-align:left!important}.nfd-wc-products{self-align:flex-start!important;flex-grow:0!important}.nfd-wc-products>ul{row-gap:calc(var(--wndb--gap--2xl)*var(--wndb--gap--scale-factor))!important}.nfd-wc-products .wc-block-grid__product-image{overflow:hidden!important}.nfd-wc-products .wc-block-grid__product-image img{transition:transform .6s ease-in-out!important}.nfd-wc-products .wc-block-grid__product-image img:hover{transform:scale(1.1)!important}.nfd-wc-products .wc-block-components-product-sale-badge{backdrop-filter:blur(4px)!important;background:hsla(0,0%,100%,.5)!important;border:1px solid hsla(0,0%,100%,.2)!important;border-radius:999px!important;font-size:.8125rem!important;font-weight:700!important;margin:6px!important;padding:4px 12px!important}.nfd-wc-products .wc-block-components-product-sale-badge>span{background:transparent!important}.nfd-wc-products .wc-block-components-product-price{color:inherit!important}.nfd-wc-search .wp-block-search__inside-wrapper{background-color:var(--wndb--color--borders)!important;border:2px solid var(--wndb--color--subtle)!important;border-radius:999px!important;max-width:100%!important;padding:0!important;width:25rem!important}.nfd-wc-search .wp-block-search__inside-wrapper input[type=search]{background:none!important;border:none!important;border-bottom-left-radius:999px!important;border-top-left-radius:999px!important;color:var(--wndb--color--text--contrast)!important;font-size:1.25rem!important;font-weight:500!important;min-height:3.75rem!important;padding-inline:24px!important}.nfd-wc-search .wp-block-search__inside-wrapper:has(button:focus),.nfd-wc-search .wp-block-search__inside-wrapper:has(input[type=search]:focus){outline:2px solid var(--wndb--color--text--contrast)!important;outline-offset:2px!important}.nfd-wc-search .wp-block-search__button{aspect-ratio:1/1!important;background:var(--wndb-gray-800)!important;border-radius:999px!important;height:100%!important;margin-left:0!important;margin-right:2px!important;margin-top:2px!important}.nfd-wc-search .wp-block-search__button:focus,.nfd-wc-search .wp-block-search__button:hover{background:var(--wndb-gray-900)!important;filter:none!important;outline:2px solid var(--wndb-gray-900)!important;outline-offset:2px!important}.nfd-wc-search .wp-block-search__inside-wrapper input[type=search]::-moz-placeholder{color:var(--wndb--color--text--faded)!important}.nfd-wc-search .wp-block-search__inside-wrapper input[type=search]::placeholder{color:var(--wndb--color--text--faded)!important}.nfd-commerce-icons{align-items:center!important;display:flex!important;flex-direction:row!important;gap:8px!important}.nfd-commerce-icons .wc-block-cart-link__text{display:none!important}.nfd-commerce-icons .wp-block-search__button svg,.nfd-commerce-icons svg.wc-block-customer-account__account-icon,.nfd-commerce-icons svg.wc-block-mini-cart__icon{height:28px!important;width:28px!important}.nfd-commerce-icons .wp-block-search__button-only .wp-block-search__button.has-icon{align-items:center!important;background:none!important;color:currentcolor!important;display:flex!important;padding:0!important}.nfd-commerce-icons .wp-block-search__button-only .wp-block-search__input{margin-right:.5em!important}.nfd-commerce-icons .wp-block-woocommerce-customer-account a{padding:0!important}:root{--wndb-mask-color:rgba(0,0,0,.15);--wndb-mask-position:50% 50% at 50% 20%;--wndb-mask-opacity:0.35}[class*=nfd-bg-effect]{isolation:isolate!important;position:relative!important}[class*=nfd-wb-header] [class*=nfd-bg-effect]{z-index:1!important}.has-modal-open [class*=nfd-bg-effect]{isolation:unset!important}.nfd-bg-effect-position-center{--wndb-mask-position:50% 50% at 50% 50%}[class*=nfd-bg-effect]:after{content:""!important;inset:0!important;-webkit-mask-image:radial-gradient(ellipse var(--wndb-mask-position),#000 70%,rgba(0,0,0,.3) 100%)!important;mask-image:radial-gradient(ellipse var(--wndb-mask-position),#000 70%,rgba(0,0,0,.3) 100%)!important;opacity:var(--wndb-mask-opacity)!important;pointer-events:none!important;position:absolute!important;z-index:-1!important}.nfd-bg-effect-dots:after{--wndb-mask-opacity:1;background:radial-gradient(var(--wndb-mask-color) 1px,transparent 1px)!important;background-size:20px 20px!important}.nfd-bg-effect-grid:after{background-image:linear-gradient(to right,var(--wndb-mask-color) 1px,transparent 1px),linear-gradient(to bottom,var(--wndb-mask-color) 1px,transparent 1px)!important;background-size:50px 50px!important}.nfd-bg-effect-grid-perspective{perspective:1000px!important}.has-modal-open .nfd-bg-effect-grid-perspective{perspective:unset!important}.nfd-bg-effect-grid-perspective:after{--wndb-mask-opacity:0.6;background-size:100px 100px!important;transform:rotateX(-60deg) translateZ(0)!important;transform-origin:top!important;transform-style:preserve-3d!important}.nfd-bg-effect-grid-2:after,.nfd-bg-effect-grid-perspective:after{background-image:linear-gradient(to right,var(--wndb-mask-color) 1px,transparent 1px),linear-gradient(to bottom,var(--wndb-mask-color) 1px,transparent 1px)!important}.nfd-bg-effect-grid-2:after{background-size:14px 32px!important}.nfd-bg-effect-grid-3{overflow:hidden!important}.nfd-bg-effect-grid-3:after{background-image:linear-gradient(to right,var(--wndb-mask-color) 1px,transparent 1px),linear-gradient(to bottom,var(--wndb-mask-color) 1px,transparent 1px)!important;background-size:32px 80px!important;right:-40%!important;top:-20%!important;transform:scale(1.5) skew(-30deg,30deg)!important}.nfd-bg-effect-lines:after{--wndb-mask-opacity:0.4;background-image:linear-gradient(to right,var(--wndb-mask-color) 1px,transparent 1px)!important;background-size:48px!important}.nfd-bg-effect-lines-2{--wndb-mask-opacity:0.45;overflow:hidden!important;perspective:1000px!important}.has-modal-open .nfd-bg-effect-lines-2{perspective:unset!important}.nfd-bg-effect-lines-2:after{background-image:linear-gradient(to right,var(--wndb-mask-color) 1px,transparent 1px)!important;background-size:30px!important;right:-40%!important;top:-20%!important;transform:rotateX(-45deg) skew(-16deg) translateZ(0)!important;transform-origin:right!important;transform-style:preserve-3d!important}.nfd-mask-opacity-0:after{--wndb-mask-opacity:0.8}:where(:root){--wndb--max-w--prose:min(65ch,1100px)}.nfd-max-w-prose:not(.nfd-max-w-full),:where(.nfd-text-balance:not(.nfd-max-w-full)){max-width:var(--wndb--max-w--prose)!important}.nfd-max-w-prose:not(.nfd-max-w-full).has-text-align-center,:where(.nfd-text-balance:not(.nfd-max-w-full)).has-text-align-center{margin-inline:auto!important}.nfd-max-w-prose:not(.nfd-max-w-full).has-text-align-right,:where(.nfd-text-balance:not(.nfd-max-w-full)).has-text-align-right{margin-inline-start:auto!important}:where(.nfd-text-balance){text-wrap:balance!important}.nfd-text-balance>h1,.nfd-text-balance>h2,.nfd-text-balance>h3,.nfd-text-balance>h4,.nfd-text-balance>p{text-wrap:balance!important}.nfd-text-pretty,.nfd-text-pretty>h1,.nfd-text-pretty>h2,.nfd-text-pretty>h3,.nfd-text-pretty>h4,.nfd-text-pretty>p{text-wrap:pretty!important}.wp-block-image figcaption{font-weight:400!important;margin-inline:auto!important;max-width:64ch!important;padding-block-start:.5em!important;text-wrap:balance!important}.wp-block-quote>.nfd-text-pretty{font-weight:550;margin-block:.25em}:where(:root){--wndb--text-scale-factor:1;--wndb--text--xs:0.75rem;--wndb--text--sm:0.875rem;--wndb--text--base:1rem;--wndb--text--md:1.125rem;--wndb--text--lg:1.5rem;--wndb--text--xl:2.375rem;--wndb--text--huge:clamp(2.75rem,1.4688rem + 2.5vw,3.5rem);--wndb--text-giga:clamp(3.25rem,2.546875rem + 2.25vw,4.375rem)}.nfd-text-xs:not([class*=font-size]):not([style*=font-size]){font-size:calc(var(--wndb--text--xs)*var(--wndb--text-scale-factor))!important}.nfd-text-xs:not([style*=letter-spacing]){letter-spacing:.05em!important}.nfd-text-sm:not([class*=font-size]):not([style*=font-size]){font-size:calc(var(--wndb--text--sm)*var(--wndb--text-scale-factor))!important}.nfd-text-base:not([class*=font-size]):not([style*=font-size]){font-size:calc(var(--wndb--text--base)*var(--wndb--text-scale-factor))!important}.nfd-text-md:not([class*=font-size]):not([style*=font-size]){font-size:calc(var(--wndb--text--md)*var(--wndb--text-scale-factor))!important}.nfd-text-base:not([style*=line-height]),.nfd-text-md:not([style*=line-height]){line-height:1.6!important}.nfd-text-lg:not([class*=font-size]):not([style*=font-size]){font-size:calc(var(--wndb--text--lg)*var(--wndb--text-scale-factor))!important}.nfd-text-lg:not([style*=line-height]){line-height:1.4!important}.nfd-text-lg:not([style*=letter-spacing]){letter-spacing:0!important}.nfd-text-lg:not([style*=font-weight]){font-weight:500!important}.nfd-text-xl:not([class*=font-size]):not([style*=font-size]){font-size:var(--wndb--text--xl)!important}.nfd-text-xl:not([style*=line-height]){line-height:1.25!important}.nfd-text-xl:not([style*=letter-spacing]){letter-spacing:-.01em!important}.nfd-text-xl:not([style*=font-weight]){font-weight:500!important}:where(.nfd-text-huge:not([class*=font-size]):not([style*=font-size])){font-size:calc(var(--wndb--text--huge)*var(--wndb--text-scale-factor))!important;max-width:var(--wndb--max-w--prose)!important;text-wrap:balance!important}:where(.nfd-text-huge:not([class*=font-size]):not([style*=font-size]).nfd-max-w-container){max-width:var(--wndb--container)!important}:where(.nfd-text-giga:not([class*=font-size]):not([style*=font-size])).has-text-align-center,:where(.nfd-text-huge:not([class*=font-size]):not([style*=font-size])).has-text-align-center{margin-inline:auto!important}:where(.nfd-text-giga:not([class*=font-size]):not([style*=font-size])).has-text-align-right,:where(.nfd-text-huge:not([class*=font-size]):not([style*=font-size])).has-text-align-right{margin-inline-start:auto!important}.nfd-text-huge:not([style*=line-height]){line-height:1.1!important}.nfd-text-huge:not([style*=letter-spacing]){letter-spacing:-.025em!important}.nfd-text-huge:not([style*=font-weight]){font-weight:500!important}:where(.nfd-text-giga:not([class*=font-size]):not([style*=font-size])){font-size:calc(var(--wndb--text-giga)*var(--wndb--text-scale-factor))!important;max-width:var(--wndb--max-w--prose)!important;text-wrap:balance!important}:where(.nfd-text-giga:not([class*=font-size]):not([style*=font-size]).nfd-max-w-container){max-width:var(--wndb--container)!important}.nfd-text-giga:not([style*=line-height]){line-height:1.1!important}.nfd-text-giga:not([style*=letter-spacing]){letter-spacing:-.04em!important}.nfd-text-giga:not([style*=font-weight]){font-weight:500!important}:root{--nfd-wb-anim-transition-duration:1400ms;--nfd-wb-anim-transition-delay:50ms;--nfd-wb-anim-transition-easing-function:cubic-bezier(0.4,1,0.65,1);--nfd-wb-anim-transition:all var(--nfd-wb-anim-transition-duration) var(--nfd-wb-anim-transition-easing-function) var(--nfd-wb-anim-transition-delay)}@media (prefers-reduced-motion:reduce){.nfd-wb-animate{transition:none!important}.nfd-wb-twist-in,[class*=nfd-wb-]{clip-path:none!important;opacity:1!important;transform:none!important}}@media (max-width:782px){body:not(.nfd-wb-editor-animations) .nfd-wb-animate{transition:none!important}body:not(.nfd-wb-editor-animations) .nfd-wb-twist-in,body:not(.nfd-wb-editor-animations) [class*=nfd-wb-]{clip-path:none!important;opacity:1!important;transform:none!important}}.nfd-wb-animate[data-replay-animation]{transition:none!important}[class*=nfd-wb-fade-in]{--nfd-wb-anim-transition:opacity var(--nfd-wb-anim-transition-duration) var(--nfd-wb-anim-transition-easing-function) var(--nfd-wb-anim-transition-delay),transform var(--nfd-wb-anim-transition-duration) var(--nfd-wb-anim-transition-easing-function) var(--nfd-wb-anim-transition-delay);transition:var(--nfd-wb-anim-transition)}.nfd-wb-fade-in-bottom{--nfd-wb-anim-transition-duration:1200ms;opacity:0;transform:translate3d(0,90px,0);transition:var(--nfd-wb-anim-transition)}.nfd-wb-fade-in-bottom-short{transform:translate3d(0,32px,0)}.nfd-wb-fade-in-bottom-short,.nfd-wb-fade-in-top-short{--nfd-wb-anim-transition-duration:600ms;opacity:0;transition:var(--nfd-wb-anim-transition)}.nfd-wb-fade-in-top-short{transform:translate3d(0,-32px,0)}.nfd-wb-fade-in-left-short{transform:translate3d(-32px,0,0)}.nfd-wb-fade-in-left-short,.nfd-wb-fade-in-right-short{--nfd-wb-anim-transition-duration:600ms;opacity:0;transition:var(--nfd-wb-anim-transition)}.nfd-wb-fade-in-right-short{transform:translate3d(32px,0,0)}.nfd-wb-animated-in:not([data-replay-animation])[class*=nfd-wb-fade-in]{opacity:1;transform:translateZ(0)}.nfd-wb-zoom-in{--nfd-wb-anim-transition-duration:1200ms;--nfd-wb-anim-transition:opacity var(--nfd-wb-anim-transition-duration) var(--nfd-wb-anim-transition-easing-function) var(--nfd-wb-anim-transition-delay),transform var(--nfd-wb-anim-transition-duration) var(--nfd-wb-anim-transition-easing-function) var(--nfd-wb-anim-transition-delay);transform:scale3d(.4,.4,.4)}.nfd-wb-zoom-in,.nfd-wb-zoom-in-short{opacity:0;transition:var(--nfd-wb-anim-transition)}.nfd-wb-zoom-in-short{--nfd-wb-anim-transition-duration:600ms;--nfd-wb-anim-transition:opacity var(--nfd-wb-anim-transition-duration) var(--nfd-wb-anim-transition-easing-function) var(--nfd-wb-anim-transition-delay),transform var(--nfd-wb-anim-transition-duration) var(--nfd-wb-anim-transition-easing-function) var(--nfd-wb-anim-transition-delay);transform:scale3d(.92,.92,.92)}.nfd-wb-animated-in:not([data-replay-animation])[class*=nfd-wb-zoom-]{opacity:1;transform:scaleX(1)}div:has(>.nfd-wb-twist-in){perspective:1200px}.nfd-wb-twist-in{--nfd-wb-anim-transition-duration:1000ms;--nfd-wb-anim-transition:opacity var(--nfd-wb-anim-transition-duration) var(--nfd-wb-anim-transition-easing-function) var(--nfd-wb-anim-transition-delay),transform var(--nfd-wb-anim-transition-duration) var(--nfd-wb-anim-transition-easing-function) var(--nfd-wb-anim-transition-delay);opacity:0;transform:translateY(40px) scale(.8) rotateY(30deg) rotate(-12deg) translateZ(0);transition:var(--nfd-wb-anim-transition)}.nfd-wb-animated-in:not([data-replay-animation]).nfd-wb-twist-in{opacity:1;transform:translateY(0) scale(1) rotateY(0deg) rotate(0deg) translateZ(0)}.nfd-wb-reveal-right{--nfd-wb-anim-transition-duration:1500ms;--nfd-wb-anim-transition-easing-function:cubic-bezier(0.4,0,0,1);--nfd-wb-anim-transition:clip-path var(--nfd-wb-anim-transition-duration) var(--nfd-wb-anim-transition-easing-function) var(--nfd-wb-anim-transition-delay);clip-path:inset(0 100% 0 0);transition:var(--nfd-wb-anim-transition)}.nfd-wb-animated-in>.nfd-wb-reveal-right:not([data-replay-animation]){clip-path:inset(0 0 0 0)!important}.nfd-delay-50{--nfd-wb-anim-transition-delay:50ms}.nfd-delay-150{--nfd-wb-anim-transition-delay:150ms}.nfd-delay-300{--nfd-wb-anim-transition-delay:300ms}.nfd-delay-450{--nfd-wb-anim-transition-delay:450ms}.nfd-delay-600{--nfd-wb-anim-transition-delay:600ms}.nfd-delay-750{--nfd-wb-anim-transition-delay:750ms}.nfd-delay-900{--nfd-wb-anim-transition-delay:900ms}.nfd-delay-1050{--nfd-wb-anim-transition-delay:1050ms}.nfd-delay-1200{--nfd-wb-anim-transition-delay:1200ms}.nfd-delay-1350{--nfd-wb-anim-transition-delay:1350ms}.nfd-delay-1500{--nfd-wb-anim-transition-delay:1500ms}:where(:root){--wndb--container:1200px;--wndb--container--wide:1340px}body .is-layout-constrained:has(.nfd-container.is-layout-constrained)>.nfd-container.is-layout-constrained{max-width:unset!important;width:100%!important}.is-layout-constrained.has-global-padding:has(.nfd-container.is-layout-constrained)>.nfd-container.is-layout-constrained{margin-left:calc(var(--wp--style--root--padding-left)*-1)!important;margin-right:calc(var(--wp--style--root--padding-right)*-1)!important;max-width:unset!important;width:unset!important}.editor-styles-wrapper .nfd-container:is(.is-layout-constrained)>:where(:not(.alignleft):not(.alignright):not(.alignfull):not(.alignwide)),.editor-styles-wrapper .nfd-container>:where(.wp-block-cover-is-layout-constrained:not(.alignleft):not(.alignright):not(.alignfull):not(.alignwide)):not([style*=margin]),.nfd-container:is(.is-layout-constrained)>:where(:not(.alignleft):not(.alignright):not(.alignfull):not(.alignwide)),.nfd-container:is(.nfd-my-0)>div,.nfd-container>:where(.wp-block-cover-is-layout-constrained:not(.alignleft):not(.alignright):not(.alignfull):not(.alignwide)){max-width:var(--wndb--container);width:100%}.editor-styles-wrapper .nfd-container:is(.is-layout-constrained)>.alignwide,.nfd-container:is(.is-layout-constrained).alignwide>:where(:not(.alignleft):not(.alignright):not(.alignfull)):not([style*=margin]),.nfd-container:is(.is-layout-constrained)>.alignwide,.nfd-container:is(.nfd-my-0)>.alignwide{max-width:var(--wndb--container--wide);width:100%}.nfd-container:not(.alignfull){padding-inline:var(--wndb--p)!important}.nfd-container:is(.nfd-my-0)>div:not([style*=margin]){margin-inline:auto!important}[class*=nfd-divider-]{position:relative;z-index:13}[class*=nfd-divider-]~[class*=nfd-divider-]{z-index:12!important}[class*=nfd-divider-]~[class*=nfd-divider-]~[class*=nfd-divider-]{z-index:11!important}[class*=nfd-divider-]:before{background:inherit!important;bottom:calc(var(--wndb--divider-size)*-1)!important;content:""!important;height:var(--wndb--divider-size)!important;left:0!important;pointer-events:none!important;position:absolute!important;width:100%!important;z-index:10!important}.nfd-divider-arrow{--wndb--divider-size:16px}.nfd-divider-arrow:before{bottom:calc(var(--wndb--divider-size)*-1)!important;height:calc(var(--wndb--divider-size)*2)!important;left:50%!important;transform:translateX(-50%) rotate(45deg)!important;width:calc(var(--wndb--divider-size)*2)!important}.nfd-divider-clouds{--wndb--divider-size:150px}.nfd-divider-clouds:after,.nfd-divider-clouds:before{background:inherit!important;background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='xMidYMax slice' viewBox='0 0 283.5 27.8'%3E%3Cpath fill='%23fff' d='M0 0v6.7c1.9-.8 4.7-1.4 8.5-1 9.5 1.1 11.1 6 11.1 6s2.1-.7 4.3-.2c2.1.5 2.8 2.6 2.8 2.6s.2-.5 1.4-.7 1.7.2 1.7.2 0-2.1 1.9-2.8 3.6.7 3.6.7.7-2.9 3.1-4.1 4.7 0 4.7 0 1.2-.5 2.4 0 1.7 1.4 1.7 1.4h1.4c.7 0 1.2.7 1.2.7s.8-1.8 4-2.2c3.5-.4 5.3 2.4 6.2 4.4q.6-.6 1.8-.9c2.8-.7 4 .7 4 .7s1.7-5 11.1-6c9.5-1.1 12.3 3.9 12.3 3.9s1.2-4.8 5.7-5.7 6.8 1.8 6.8 1.8.6-.6 1.5-.9c.9-.2 1.9-.2 1.9-.2s5.2-6.4 12.6-3.3c7.3 3.1 4.7 9 4.7 9s1.9-.9 4 0 2.8 2.4 2.8 2.4 1.9-1.2 4.5-1.2 4.3 1.2 4.3 1.2.2-1 1.4-1.7 2.1-.7 2.1-.7-.5-3.1 2.1-5.5 5.7-1.4 5.7-1.4 1.5-2.3 4.2-1.1 1.7 5.2 1.7 5.2.3-.1 1.3.5c.5.4.8.8.9 1.1.5-1.4 2.4-5.8 8.4-4 7.1 2.1 3.5 8.9 3.5 8.9s.8-.4 2 0 1.1 1.1 1.1 1.1 1.1-1.1 2.3-1.1 2.1.5 2.1.5 1.9-3.6 6.2-1.2 1.9 6.4 1.9 6.4 2.6-2.4 7.4 0c3.4 1.7 3.9 4.9 3.9 4.9s3.3-6.9 10.4-7.9 11.5 2.6 11.5 2.6.8 0 1.2.2.9.9.9.9 4.4-3.1 8.3.2c1.9 1.7 1.5 5 1.5 5s.3-1.1 1.6-1.4 2.3.2 2.3.2-.1-1.2.5-1.9 1.9-.9 1.9-.9-4.7-9.3 4.4-13.4c5.6-2.5 9.2.9 9.2.9s5-6.2 15.9-6.2 16.1 8.1 16.1 8.1.7-.2 1.6-.4V0z'/%3E%3C/svg%3E")!important;background-repeat:repeat-x!important;background-size:cover!important;content:""!important;height:var(--wndb--divider-size)!important;left:0!important;pointer-events:none!important;position:absolute!important;top:0!important;width:100%!important;z-index:10!important}.nfd-divider-clouds:after{bottom:0!important;top:auto!important;transform:rotate(180deg)!important}.nfd-divider-ellipse{--wndb--divider-size:50px}.nfd-divider-ellipse:before{clip-path:ellipse(50% var(--wndb--divider-size) at 50% 0)!important}.nfd-divider-rounded:not([style*=-radius]){--wndb--divider-size:50px}.nfd-divider-rounded:before:not([style*=-radius]){border-bottom-left-radius:var(--wndb--divider-size)!important;border-bottom-right-radius:var(--wndb--divider-size)!important}.nfd-divider-slant,.nfd-divider-slant-invert{--wndb--divider-size:80px}.nfd-divider-slant:before{bottom:calc(var(--wndb--divider-size)*-1 + 1px)!important;clip-path:polygon(0 0,100% 0,0 100%)!important}.nfd-divider-slant-invert:before{bottom:calc(var(--wndb--divider-size)*-1 + 1px)!important;clip-path:polygon(0 0,100% 0,100% 100%)!important}.nfd-divider-triangle{--wndb--divider-size:80px}.nfd-divider-triangle:before{bottom:calc(var(--wndb--divider-size)*-1 + 1px)!important;clip-path:polygon(0 0,100% 0,50% 100%)!important}.nfd-divider-zigzag{--wndb--divider-size:8px}.nfd-divider-zigzag:before{-webkit-mask:conic-gradient(from -45deg at bottom,#0000,#000 1deg 89deg,#0000 90deg) 50% /calc(var(--wndb--divider-size)*2) 100%!important;mask:conic-gradient(from -45deg at bottom,#0000,#000 1deg 89deg,#0000 90deg) 50% /calc(var(--wndb--divider-size)*2) 100%!important}:where(:root){--wndb--divider-size:0px}:where(:root){--nfd-opacity-preview:0.3}@media (min-width:1025px){body:not(.block-editor-page) :not(.is-desktop-preview) .nfd-hide-desktop{display:none!important}}@media (max-width:767px){body:not(.block-editor-page) :not(.is-mobile-preview) .nfd-hide-mobile{display:none!important}.nfd-align-mobile-left{text-align:left!important}.nfd-align-mobile-center{text-align:center!important}.nfd-align-mobile-right{text-align:right!important}.nfd-align-mobile-justify{text-align:justify!important}.wp-block-group-is-layout-flex.is-vertical p[class^=nfd-align-mobile-]{width:100%!important}}@media (min-width:768px) and (max-width:1024px){body:not(.block-editor-page) :not(.is-tablet-preview) .nfd-hide-tablet{display:none!important}.nfd-align-tablet-left{text-align:left!important}.nfd-align-tablet-center{text-align:center!important}.nfd-align-tablet-right{text-align:right!important}.nfd-align-tablet-justify{text-align:justify!important}.wp-block-group-is-layout-flex.is-vertical p[class^=nfd-align-tablet-]{width:100%!important}}.is-root-container.is-desktop-preview .nfd-hide-desktop,.is-root-container.is-mobile-preview .nfd-hide-mobile,.is-root-container.is-tablet-preview .nfd-hide-tablet{opacity:var(--nfd-opacity-preview)!important}@media (max-width:767px){.nfd-swiper-enabled{display:flex!important;flex-wrap:nowrap!important;gap:12px!important;margin-right:calc(var(--wp--style--root--padding-right, 0px)*-1)!important;overflow-x:auto!important;overflow-y:hidden!important;width:calc(100% + var(--wp--style--root--padding-right, 0px))!important;-webkit-overflow-scrolling:touch!important;padding-left:16px!important;padding-right:0!important;scroll-snap-type:x mandatory!important;scrollbar-width:none!important}.nfd-swiper-enabled::-webkit-scrollbar{display:none!important}.nfd-swiper-enabled.wp-block-column>*,.nfd-swiper-enabled.wp-block-columns>.wp-block-column{flex:0 0 calc(75% - 6px)!important;min-width:260px!important;scroll-snap-align:start!important;scroll-snap-stop:always!important}.nfd-swiper-enabled .wp-block-column,.nfd-swiper-enabled .wp-block-cover,.nfd-swiper-enabled .wp-block-image,.nfd-swiper-enabled figure{margin:0!important}.nfd-swiper-enabled [style*="min-width:"],.nfd-swiper-enabled [style*="width:"]{max-width:100%!important}}.nfd-grid-cols-1-2-1{grid-template-columns:1fr 2fr 1fr!important}:where(:root){--wndb--padding-factor:1;--wndb--p:2.375rem;--wndb--p--xs:0.75rem;--wndb--p--sm:1.5rem;--wndb--p--md:2rem;--wndb--p--lg:clamp(3.5rem,7vw,6.25rem);--wndb--p--square:2.5rem;--wndb--p--square-lg:4rem}.nfd-p-card-sm:not([style*=padding]){padding:calc(var(--wndb--p--xs)*var(--wndb--padding-factor)) calc(var(--wndb--p--sm)*var(--wndb--padding-factor))!important}.nfd-p-card-md:not([style*=padding]){padding:calc(var(--wndb--p--sm)*var(--wndb--padding-factor)) calc(var(--wndb--p--md)*var(--wndb--padding-factor))!important}.nfd-p-card-lg:not([style*=padding]){padding:calc(var(--wndb--p--md)*var(--wndb--padding-factor)) calc(var(--wndb--p--md)*var(--wndb--padding-factor))!important}@media screen and (min-width:782px){.nfd-p-card-lg:not([style*=padding]){padding:calc(var(--wndb--p--md)*var(--wndb--padding-factor)) calc(var(--wndb--p--md)*1.5*var(--wndb--padding-factor))!important}}.nfd-p-card-square-lg:not([style*=padding]),.nfd-p-card-square:not([style*=padding]){padding:calc(var(--wndb--p--square)*var(--wndb--padding-factor))!important}@media screen and (min-width:782px){.nfd-p-card-square-lg:not([style*=padding]){padding:calc(var(--wndb--p--square-lg)*var(--wndb--padding-factor))!important}}.nfd-p-xs:not([style*=padding]){padding:calc(var(--wndb--p--xs)*var(--wndb--padding-factor))!important}.nfd-py-xs:not([style*=padding]){padding-block:calc(var(--wndb--p--xs)*var(--wndb--padding-factor))!important}.nfd-pt-xs:not([style*=padding]){padding-block-start:calc(var(--wndb--p--xs)*var(--wndb--padding-factor))!important}.nfd-px-xs:not([style*=padding]){padding-inline:calc(var(--wndb--p--xs)*var(--wndb--padding-factor))!important}.nfd-p-sm:not([style*=padding]){padding:calc(var(--wndb--p--sm)*var(--wndb--padding-factor))!important}.nfd-px-sm:not([style*=padding]){padding-inline:calc(var(--wndb--p--sm)*var(--wndb--padding-factor))!important}.nfd-py-sm:not([style*=padding]){padding-block:calc(var(--wndb--p--sm)*var(--wndb--padding-factor))!important}.nfd-pt-sm:not([style*=padding]){padding-block-start:calc(var(--wndb--p--sm)*var(--wndb--padding-factor))!important}.nfd-pb-sm:not([style*=padding]){padding-block-end:calc(var(--wndb--p--sm)*var(--wndb--padding-factor))!important}.nfd-pl-sm:not([style*=padding]){padding-left:calc(var(--wndb--p--sm)*var(--wndb--padding-factor))!important}.nfd-p-md:not([style*=padding]){padding:calc(var(--wndb--p--md)*var(--wndb--padding-factor))!important}.nfd-px-md:not([style*=padding]){padding-inline:calc(var(--wndb--p--md)*var(--wndb--padding-factor))!important}.nfd-py-md:not([style*=padding]){padding-block:calc(var(--wndb--p--md)*var(--wndb--padding-factor))!important}.nfd-pt-md:not([style*=padding]){padding-block-start:calc(var(--wndb--p--md)*var(--wndb--padding-factor))!important}.nfd-pb-md:not([style*=padding]){padding-block-end:calc(var(--wndb--p--md)*var(--wndb--padding-factor))!important}.nfd-p-lg:not([style*=padding]){padding:calc(var(--wndb--p--lg)*var(--wndb--padding-factor)) calc(var(--wndb--p--md)*var(--wndb--padding-factor))!important}.nfd-py-lg:not([style*=padding]){padding-block:calc(var(--wndb--p--lg)*var(--wndb--padding-factor))!important}.nfd-pt-lg:not([style*=padding]){padding-block-start:calc(var(--wndb--p--lg)*var(--wndb--padding-factor))!important}.nfd-pb-lg:not([style*=padding]){padding-block-end:calc(var(--wndb--p--lg)*var(--wndb--padding-factor))!important}.nfd-pl-offset-md:not([style*=padding]){margin-left:calc(var(--wndb--p--md)*var(--wndb--padding-factor)*-1)!important;padding-left:calc(var(--wndb--p--md)*var(--wndb--padding-factor) - 3px)!important}.editor-styles-wrapper .nfd-overlap-x,.nfd-overlap-x{gap:0}.nfd-overlap-x>:not(:first-child){margin-inline-start:-1.275rem!important}@media (min-width:768px){.-nfd-translate-y-1\/2{margin-bottom:-100px!important;transform:translateY(-50%)!important}.-nfd-translate-y-1\/3{margin-bottom:-100px!important;transform:translateY(-33%)!important}.nfd-overlap-x-lg{transform:translateX(-150px)!important;width:calc(100% + 150px)!important}}.nfd-pseudo-play-icon{align-items:center!important;display:flex!important;justify-content:center!important;position:relative!important}.nfd-pseudo-play-icon>a{inset:0!important;position:absolute!important}:not(.is-root-container) .nfd-pseudo-play-icon>a{text-indent:-9999px!important}.nfd-pseudo-play-icon:before{backdrop-filter:blur(3px)!important;background:hsla(0,0%,100%,.1)!important;border-radius:100%!important;content:""!important;height:3rem!important;left:50%!important;opacity:1!important;pointer-events:none!important;position:absolute!important;top:50%!important;transform:translate(-50%,-50%)!important;transition:all .2s ease!important;width:3rem!important}.nfd-pseudo-play-icon:has(a:hover):before{background:hsla(0,0%,100%,.3)!important;height:4rem!important;width:4rem!important}.nfd-pseudo-play-icon:after{border-style:solid!important;border-bottom:10px solid transparent!important;border-left:16px solid!important;border-right:0!important;border-top:10px solid transparent!important;content:""!important;height:16px!important;height:0!important;left:50%!important;margin-left:2px!important;pointer-events:none!important;position:absolute!important;top:50%!important;transform:translate(-50%,-50%)!important;width:16px!important;width:0!important}.entry-content>.wp-block-group.has-background+.wp-block-group.has-background:not([style*=margin-top]),.entry-content>.wp-block-group.has-background+[class*=nfd-theme-]:not([style*=margin-top]),.entry-content>[class*=nfd-theme-]+.wp-block-group.has-background:not([style*=margin-top]),.entry-content>[class*=nfd-theme-]+[class*=nfd-theme-]:not([style*=margin-top]){margin-block-start:0!important}:where(:root){--wndb--gap--scale-factor:1;--wndb--gap--xs:0.25rem;--wndb--gap--sm:0.5rem;--wndb--gap--md:1rem;--wndb--gap--lg:1.5rem;--wndb--gap--xl:2rem;--wndb--gap--2xl:2.5rem;--wndb--gap--3xl:3.5rem;--wndb--gap--4xl:6rem}.editor-styles-wrapper .nfd-gap-0,.nfd-gap-0{gap:0}.editor-styles-wrapper .nfd-gap-xs,.nfd-gap-xs{gap:calc(var(--wndb--gap--xs)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-sm,.nfd-gap-sm{gap:calc(var(--wndb--gap--sm)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-md,.nfd-gap-md{gap:calc(var(--wndb--gap--md)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-lg,.nfd-gap-lg{gap:calc(var(--wndb--gap--lg)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-xl,.nfd-gap-xl{gap:calc(var(--wndb--gap--xl)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-2xl,.nfd-gap-2xl{gap:calc(var(--wndb--gap--2xl)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-3xl,.nfd-gap-3xl{gap:calc(var(--wndb--gap--3xl)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-4xl,.nfd-gap-4xl{gap:calc(var(--wndb--gap--4xl)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-x-4xl,.nfd-gap-x-4xl{-moz-column-gap:calc(var(--wndb--gap--4xl)*var(--wndb--gap--scale-factor));column-gap:calc(var(--wndb--gap--4xl)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-x-lg,.nfd-gap-x-lg{-moz-column-gap:calc(var(--wndb--gap--lg)*var(--wndb--gap--scale-factor));column-gap:calc(var(--wndb--gap--lg)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-y-lg,.nfd-gap-y-lg{row-gap:calc(var(--wndb--gap--lg)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-y-xl,.nfd-gap-y-xl{row-gap:calc(var(--wndb--gap--xl)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-y-2xl,.nfd-gap-y-2xl{row-gap:calc(var(--wndb--gap--2xl)*var(--wndb--gap--scale-factor))}.editor-styles-wrapper .nfd-gap-y-3xl,.nfd-gap-y-3xl{row-gap:calc(var(--wndb--gap--3xl)*var(--wndb--gap--scale-factor))}.nfd-border-2{border-bottom-width:2px!important}.nfd-border-strong:not([style*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color]):not(.has-border-color){border-color:var(--wndb-color--borders-strong)!important}.nfd-border-light:not([style*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color]):not(.has-border-color){border-color:var(--wndb--color--borders-light)!important}:where(:root){--wndb--button--outline-width:0px;--wndb--button-sm--font-size:1rem;--wndb--button-lg-x:2rem;--wndb--button-lg-y:0.75rem;--wndb--button-lg--font-size:1.125rem;--wndb--button-xl-x:3rem;--wndb--button-xl-y:1rem;--wndb--button-xl--font-size:1.125rem}[class*=nfd-btn].is-style-outline{--wndb--button--outline-width:2px}[class*=nfd-btn]>.wp-block-button__link:not([style*=padding]){padding:calc(.625rem - var(--wndb--button--outline-width)) calc(1.125rem - var(--wndb--button--outline-width))!important}.nfd-btn-sm>.wp-block-button__link:not([style*=padding]){padding:calc(.375rem - var(--wndb--button--outline-width)) calc(1rem - var(--wndb--button--outline-width))!important}.nfd-btn-sm:not(.has-custom-font-size)>.wp-block-button__link:not([style*=font-size]){font-size:var(--wndb--button-sm--font-size)!important}.nfd-btn-lg>.wp-block-button__link:not([style*=padding]){padding:calc(var(--wndb--button-lg-y) - var(--wndb--button--outline-width)) var(--wndb--button-lg-x)!important}.nfd-btn-lg:not(.has-custom-font-size)>.wp-block-button__link:not([style*=font-size]){font-size:var(--wndb--button-lg--font-size)!important}.nfd-btn-lg:not([style*=font-weight])>.wp-block-button__link{font-weight:600!important}.nfd-btn-xl>.wp-block-button__link:not([style*=padding]){padding:calc(var(--wndb--button-xl-y) - var(--wndb--button--outline-width)) var(--wndb--button-xl-x)!important}.nfd-btn-xl:not(.has-custom-font-size)>.wp-block-button__link:not([style*=font-size]){font-size:var(--wndb--button-xl--font-size)!important}.nfd-btn-xl:not([style*=font-weight])>.wp-block-button__link{font-weight:600!important}.nfd-btn-wide>.wp-block-button__link:not([style*=padding]){padding:calc(.625rem - var(--wndb--button--outline-width)) calc(2rem - var(--wndb--button--outline-width))!important}[class*=nfd-btn]:is(.is-style-outline)>.wp-block-button__link:not(.has-text-color){color:var(--wndb--color--text--contrast)!important}.nfd-btn:is(.is-style-outline)>.wp-block-button__link:not(.has-text-color):hover{--wndb--color--text--contrast:var(--wndb-gray-900);border-color:var(--wndb-white)!important}[class*=nfd-button]>.wp-block-button__link:not(.has-background):hover{filter:brightness(.8)!important}.nfd-theme-primary [class*=nfd-btn]:not(.is-style-outline):not(.nfd-btn-secondary):not(.nfd-btn-tertiary)>.wp-block-button__link:not(.has-background){background-color:var(--wndb-gray-800)!important}.nfd-theme-primary
+	[class*=nfd-btn]:not(.is-style-outline):not(.nfd-btn-secondary):not(.nfd-btn-tertiary)>.wp-block-button__link:not(.has-background):hover{background-color:var(--wndb-gray-900)!important}.nfd-theme-primary
+	[class*=nfd-btn]:is(.is-style-outline):not(.nfd-btn-secondary):not(.nfd-btn-tertiary)>.wp-block-button__link:not(.has-background):not(.has-text-color):hover{background-color:var(--wndb-white)!important;border-color:var(--wndb-white)!important;color:var(--wndb-gray-900)!important}.nfd-btn-secondary:is(.is-style-outline)>.wp-block-button__link:not(.has-text-color):hover{--wndb--color--text--contrast:var(--wndb-gray-900);border-color:var(--wndb-white)!important}.nfd-btn-secondary:not(.is-style-outline)>.wp-block-button__link:not(.has-text-color){color:var(--wndb-white)!important}.nfd-btn-secondary:not(.is-style-outline)>.wp-block-button__link:not(.has-background){background-color:var(--wndb-gray-800)!important}.nfd-btn-secondary:not(.is-style-outline)>.wp-block-button__link:not(.has-background):hover{background-color:var(--wndb-gray-900)!important}.nfd-theme-dark .nfd-btn-secondary:not(.is-style-outline)>.wp-block-button__link:not(.has-background),.nfd-theme-darker .nfd-btn-secondary:not(.is-style-outline)>.wp-block-button__link:not(.has-background){background-color:var(--wndb-white)!important}.nfd-theme-dark .nfd-btn-secondary:not(.is-style-outline)>.wp-block-button__link:not(.has-text-color),.nfd-theme-darker .nfd-btn-secondary:not(.is-style-outline)>.wp-block-button__link:not(.has-text-color){color:var(--wndb-gray-900)!important}.nfd-theme-dark .nfd-btn-secondary:not(.is-style-outline)>.wp-block-button__link:not(.has-background):hover,.nfd-theme-darker .nfd-btn-secondary:not(.is-style-outline)>.wp-block-button__link:not(.has-background):hover{background-color:var(--wndb-white)!important;color:var(--wndb-gray-900)!important;filter:brightness(.8)!important}.nfd-btn-tertiary:is(.is-style-outline)>.wp-block-button__link:not(.has-text-color):hover{--wndb--color--text--contrast:var(--wndb-gray-900)}.nfd-btn-tertiary:is(.is-style-outline)>.wp-block-button__link:not([class*=-border-color]){border-color:var(--wndb--color--subtle)!important}.nfd-btn-tertiary:not(.is-style-outline)>.wp-block-button__link:not(.has-text-color){color:var(--wndb--color--text--contrast)!important}.nfd-btn-tertiary:not(.is-style-outline)>.wp-block-button__link:not(.has-background){background-color:var(--wndb--color--borders)!important}.nfd-btn-tertiary:not(.is-style-outline)>.wp-block-button__link:not(.has-background):hover{--wndb--color--borders:var(--wndb--color--subtle)}:where(:root){--wndb--shadow--xs:0 1px 2px 0 rgba(18,18,23,.065);--wndb--shadow--sm:0 1px 3px 0 rgba(18,18,23,.1),0 1px 2px 0 rgba(18,18,23,.06)}.nfd-shadow-xs:not([style*=box-shadow]){box-shadow:var(--wndb--shadow--xs)!important}.nfd-shadow-sm:not([style*=box-shadow]){box-shadow:var(--wndb--shadow--sm)!important}.nfd-bg-subtle.nfd-shadow-xs:not([style*=box-shadow]),.nfd-theme-light .nfd-shadow-xs:not([style*=box-shadow]){--wndb--shadow--xs:none}:where(:root){--wndb--rounded--scale-factor:1;--wndb--border--radius--sm:0.25rem;--wndb--border--radius--md:0.5rem;--wndb--border--radius--lg:0.75rem;--wndb--border--radius--xl:1rem}[class*=nfd-rounded]:not([style*=-radius]),[class*=nfd-rounded]:not([style*=-radius])>.components-resizable-box__container>img:not([style*=-radius]),[class*=nfd-rounded]:not([style*=-radius])>.wp-element-button:not([style*=-radius]),[class*=nfd-rounded]:not([style*=-radius])>a>img,[class*=nfd-rounded]:not([style*=-radius])>img{border-radius:calc(var(--wndb--border--radius)*var(--wndb--rounded--scale-factor))!important}[class*=nfd-rounded-t-]:not([style*=-radius]),[class*=nfd-rounded-t-]:not([style*=-radius])>.components-resizable-box__container>img:not([style*=-radius]),[class*=nfd-rounded-t-]:not([style*=-radius])>.wp-element-button:not([style*=-radius]),[class*=nfd-rounded-t-]:not([style*=-radius])>a>img,[class*=nfd-rounded-t-]:not([style*=-radius])>img{border-radius:calc(var(--wndb--border--radius)*var(--wndb--rounded--scale-factor)) calc(var(--wndb--border--radius)*var(--wndb--rounded--scale-factor)) 0 0!important}.nfd-overflow-hidden.nfd-rounded-xl iframe:not([style*=-radius]){border-radius:calc(var(--wndb--border--radius--md)*var(--wndb--rounded--scale-factor))!important}.nfd-rounded-none:not([style*=-radius]){--wndb--border--radius:0}.nfd-rounded-sm:not([style*=-radius]){--wndb--border--radius:var(--wndb--border--radius--sm)}.nfd-rounded,.nfd-rounded-md,.nfd-rounded-t-md:not([style*=-radius]){--wndb--border--radius:var(--wndb--border--radius--md)}.nfd-rounded-lg,.nfd-rounded-t-lg:not([style*=-radius]){--wndb--border--radius:var(--wndb--border--radius--lg)}.nfd-rounded-t-xl:not([style*=-radius]),.nfd-rounded-xl{--wndb--border--radius:var(--wndb--border--radius--xl)}.nfd-rounded-full:not([style*=-radius]){--wndb--border--radius:9999px}:where(:root){--wndb-gray:#6c6c89;--wndb-gray-50:#f7f7f8;--wndb-gray-100:#ebebef;--wndb-gray-150:#e5e5e9;--wndb-gray-200:#d1d1db;--wndb-gray-300:#a9a9bc;--wndb-gray-400:#8a8aa3;--wndb-gray-500:#6c6c89;--wndb-gray-600:#55556d;--wndb-gray-700:#3f3f50;--wndb-gray-800:#1d1d22;--wndb-gray-900:#121217;--wndb-white:#fff;--wndb-white-50:hsla(0,0%,100%,.05);--wndb-white-100:hsla(0,0%,100%,.1);--wndb-white-150:hsla(0,0%,100%,.15);--wndb-white-200:hsla(0,0%,100%,.2);--wndb-white-300:hsla(0,0%,100%,.3);--wndb-white-400:hsla(0,0%,100%,.4);--wndb-white-500:hsla(0,0%,100%,.5);--wndb-white-600:hsla(0,0%,100%,.6);--wndb-white-700:hsla(0,0%,100%,.7);--wndb-white-800:hsla(0,0%,100%,.8);--wndb-white-900:hsla(0,0%,100%,.9);--wndb--color--primary:#00f;--wndb--color--secondary:#00f;--wndb--color--surface:var(--wndb-gray-50);--wndb--color--text:var(--wndb-gray-800);--wndb--color--text--contrast:var(--wndb-gray-900);--wndb--color--text--faded:var(--wndb-gray-600);--wndb--color--borders:var(--wndb-gray-150);--wndb--color--borders-light:var(--wndb-gray-100);--wndb--color--borders-strong:var(--wndb--color--text--faded);--wndb--color--subtle:var(--wndb-gray-200);--wndb--color--links:var(--wndb--color--primary);--wndb--color--body:var(--wndb--color--surface)}.is-style-nfd-theme-white,.nfd-theme-white:not([class*=is-style-nfd-theme]){--wndb--color--borders:var(--wndb-gray-150);--wndb--color--borders-light:var(--wndb-gray-100);--wndb--color--links:var(--wndb--color--primary);--wndb--color--subtle:var(--wndb-gray-200);--wndb--color--surface:var(--wndb-white);--wndb--color--text--contrast:var(--wndb-gray-900);--wndb--color--text--faded:var(--wndb-gray-700);--wndb--color--text:var(--wndb-gray-800)}.is-style-nfd-theme-light,.nfd-theme-light:not([class*=is-style-nfd-theme]){--wndb--color--borders:var(--wndb-gray-150);--wndb--color--borders-light:var(--wndb-gray-150);--wndb--color--links:var(--wndb--color--primary);--wndb--color--subtle:var(--wndb-gray-200);--wndb--color--surface:var(--wndb-gray-50);--wndb--color--text--contrast:var(--wndb-gray-900);--wndb--color--text--faded:var(--wndb-gray-700);--wndb--color--text:var(--wndb-gray-800)}.is-style-nfd-theme-dark,.nfd-theme-dark:not([class*=is-style-nfd-theme]){--wndb--color--borders:var(--wndb-white-100);--wndb--color--borders-light:var(--wndb--color--borders);--wndb--color--subtle:var(--wndb-white-200);--wndb--color--surface:var(--wndb-gray-800);--wndb--color--text--contrast:var(--wndb-white);--wndb--color--text--faded:var(--wndb-white-800);--wndb--color--text:var(--wndb-white);--wndb--shadow--sm:none;--wndb--shadow--xs:none;--wndb-mask-color:hsla(0,0%,100%,.12)}.is-style-nfd-theme-darker,.nfd-theme-darker:not([class*=is-style-nfd-theme]){--wndb--color--borders:var(--wndb-white-100);--wndb--color--borders-light:var(--wndb--color--borders);--wndb--color--subtle:var(--wndb-white-200);--wndb--color--surface:var(--wndb-gray-900);--wndb--color--text--contrast:var(--wndb-white);--wndb--color--text--faded:var(--wndb-white-800);--wndb--color--text:var(--wndb-white);--wndb--shadow--sm:none;--wndb--shadow--xs:none;--wndb-mask-color:hsla(0,0%,100%,.12)}.is-style-nfd-theme-primary,.nfd-theme-primary:not([class*=is-style-nfd-theme]){--wndb--color--borders:var(--wndb-white-100);--wndb--color--borders-light:var(--wndb--color--borders);--wndb--color--subtle:var(--wndb-white-200);--wndb--color--surface:var(--wndb--color--primary);--wndb--color--text--contrast:var(--wndb-white);--wndb--color--text--faded:var(--wndb-white-900);--wndb--color--text:var(--wndb-white);--wndb--color--links:var(--wndb-white);--wndb--shadow--sm:none;--wndb--shadow--xs:none;--wndb-mask-color:hsla(0,0%,100%,.12)}.is-style-nfd-theme-primary-15,.nfd-theme-primary-15:not([class*=is-style-nfd-theme]){--wndb--color--borders:color-mix(in srgb,var(--wndb--color--primary) 25%,#fff);--wndb--color--borders-light:color-mix(in srgb,var(--wndb--color--primary) 15%,#fff);--wndb--color--subtle:color-mix(in srgb,var(--wndb--color--primary) 30%,#fff);--wndb--color--surface:color-mix(in srgb,var(--wndb--color--primary) 15%,#fff)}.nfd-bg-surface:not(.has-background),[class*=is-style-nfd-theme]:not(.has-background){background-color:var(--wndb--color--surface)!important}.nfd-bg-surface:not(.has-text-color),[class*=is-style-nfd-theme]:not(.has-text-color){color:var(--wndb--color--text)!important}.nfd-text-faded p:not(.has-text-color):not(.has-link-color):not(.has-background):not(.nfd-text-primary),.nfd-text-faded time:not(.has-text-color):not(.has-background),.nfd-text-faded>a:not(.has-text-color):not(.has-link-color):not(.has-background),ol.nfd-text-faded:not(.has-text-color):not(.has-link-color):not(.has-background):not(.nfd-text-primary),p.nfd-text-faded:not(.has-text-color):not(.has-link-color):not(.has-background),ul.nfd-text-faded:not(.has-text-color):not(.has-link-color):not(.has-background):not(.nfd-text-primary){color:var(--wndb--color--text--faded)!important}.editor-styles-wrapper div .nfd-text-contrast:where(:not(.has-text-color)),.editor-styles-wrapper div :where(.nfd-text-contrast:not(.has-text-color):not(.wp-element-button)) a:where(:not(:hover)),.wp-site-blocks .nfd-text-contrast:where(:not(.has-text-color)),.wp-site-blocks .nfd-text-contrast:where(:not(.has-text-color)) a:where(:not(:hover)){color:var(--wndb--color--text--contrast)}.nfd-bg-surface .wp-block-separator:not(.has-background):not(.has-text-color):not(.nfd-border-strong),.nfd-bg-surface [style*=border]:not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color]):not(.nfd-border-strong),.nfd-bg-surface [style*=border]:not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color])>img:not(.has-border-color):not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color]),.nfd-bg-surface [style*=border]:not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color])>img:not(.has-border-color):not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color])>.components-resizable-box__container>img:not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color]),.nfd-bg-surface:not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color]):not(.has-border-color):not(.nfd-border-strong),[class*=is-style-nfd-theme] .wp-block-separator:not(.has-background):not(.has-text-color):not(.nfd-border-strong),[class*=is-style-nfd-theme] [style*=border]:not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color]):not(.nfd-border-strong),[class*=is-style-nfd-theme] [style*=border]:not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color])>img:not(.has-border-color):not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color]),[class*=is-style-nfd-theme] [style*=border]:not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color])>img:not(.has-border-color):not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color])>.components-resizable-box__container>img:not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color]),[class*=is-style-nfd-theme]:not([class*=border-color]):not([style*=border-top-color]):not([style*=border-right-color]):not([style*=border-bottom-color]):not([style*=border-left-color]):not(.has-border-color):not(.nfd-border-strong){border-color:var(--wndb--color--borders)!important}.nfd-bg-surface .wp-block-separator:not(.has-background):not(.has-text-color):not(.nfd-border-2),[class*=is-style-nfd-theme] .wp-block-separator:not(.has-background):not(.has-text-color):not(.nfd-border-2){border-width:2px 0 0!important}.nfd-border-bg{--wndb--color--borders:var(--wndb--color--surface)}.nfd-border-primary{--wndb--color--borders:var(--wndb--color--primary)}.nfd-border-inherit{--wndb--color--borders:inherit}.nfd-bg-accent:not(.has-background),.nfd-bg-primary:not(.has-background),.wp-block-cover.nfd-bg-accent>.wp-block-cover__background:not([class*=background-color]),.wp-block-cover.nfd-bg-primary>.wp-block-cover__background:not([class*=background-color]){background-color:var(--wndb--color--primary)!important}.nfd-bg-secondary:not(.has-background),.wp-block-cover.nfd-bg-secondary>.wp-block-cover__background:not([class*=background-color]){background-color:var(--wndb--color--secondary)!important}.nfd-bg-accent:not(.has-text-color),.nfd-bg-primary:not(.has-text-color),.nfd-bg-secondary:not(.has-text-color){color:var(--wndb--color--white)!important}.nfd-bg-subtle:not(.has-background):not(.wp-block-button),.nfd-bg-subtle:not(.has-background)>.wp-block-button__link:not(.has-background){background-color:var(--wndb--color--borders-light)!important;color:var(--wndb--color--text--contrast)!important}.nfd-text-primary:not(.has-text-color),.wp-block-button.wndb-text-primary>a:not(.has-text-color){color:var(--wndb--color--primary)!important}.nfd-text-secondary:not(.has-text-color),.wp-block-button.wndb-text-secondary>a:not(.has-text-color){color:var(--wndb--color--secondary)!important}[class*=nfd-theme-primary] .nfd-text-primary:not(.has-text-color),[class*=nfd-theme-primary] .nfd-text-secondary:not(.has-text-color),[class*=nfd-theme-primary] .wp-block-button.wndb-text-primary>a:not(.has-text-color),[class*=nfd-theme-secondary] .wp-block-button.wndb-text-secondary>a:not(.has-text-color){color:var(--wndb--color--contrast)!important}[class*=nfd-theme-dark] .nfd-text-primary:not(.has-text-color),[class*=nfd-theme-darker] .nfd-text-primary:not(.has-text-color){color:var(--wndb--color--secondary)!important}.nfd-text-subtle:not(.has-text-color){color:var(--wndb--color--subtle)!important}.editor-styles-wrapper div .nfd-text-current:where(:not(.has-text-color)),.editor-styles-wrapper div :where(.nfd-text-current:not(.has-text-color):not(.wp-element-button)) a:where(:not(:hover)),.wp-site-blocks .nfd-text-current:where(:not(.has-text-color)),.wp-site-blocks .nfd-text-current:where(:not(.has-text-color)) a:where(:not(:hover)){color:currentColor}[class*=nfd-theme-] .wp-block-social-links.is-style-logos-only:not(.has-icon-color) .wp-block-social-link{color:var(--wndb--color--text--faded)!important;fill:var(--wndb--color--text--faded)!important}[class*=nfd-theme-] .wp-block-social-links.is-style-logos-only:not(.has-icon-color) .wp-block-social-link:hover{color:var(--wndb--color--text)!important;fill:var(--wndb--color--text)!important}.nfd-container.is-position-sticky:not([class*=nfd-bg-surface]):not([class*=is-style-nfd-]):not(.has-background){background-color:var(--wndb--color--body)!important}.nfd-container .has-secondary-color{color:var(--wndb--color--secondary)!important}.nfd-bg-gray-100:not(.has-background),.nfd-bg-gray-800:not(.has-background){background-color:var(--wndb--color--surface)!important}.nfd-bg-gray-100:not(.has-text-color),.nfd-bg-gray-800:not(.has-text-color){color:var(--wndb--color--text)!important}.nfd-bg-gray-800{--wndb--color--surface:var(--wndb-gray-800);--wndb--color--text:var(--wndb-white);--wndb--color--borders:var(--wndb-white-100);--wndb--color--text--faded:var(--wndb-white-700)}.nfd-bg-gray-100{--wndb--color--surface:var(--wndb-gray-50);--wndb--color--text:var(--wndb-gray-700);--wndb--color--borders:var(--wndb-gray-100)}.nfd-text-opacity-80 p:not(.has-text-color):not(.has-link-color):not(.has-background),.nfd-text-opacity-80 time:not(.has-text-color):not(.has-background),p.nfd-text-opacity-80:not(.has-text-color):not(.has-link-color):not(.has-background){opacity:.8!important}:where(:root){--wndb--slider-height:100lvh}.nfd-scroll-slider-horizontal,.nfd-scroll-slider-vertical{flex-wrap:nowrap!important;height:var(--wndb--slider-height)!important;overflow-y:auto!important;scroll-snap-type:y mandatory!important;-ms-overflow-style:none!important;scrollbar-width:none!important}.nfd-scroll-slider-horizontal::-webkit-scrollbar,.nfd-scroll-slider-vertical::-webkit-scrollbar{display:none!important}.nfd-scroll-slider-vertical{height:100vh!important;overflow-y:auto!important;scroll-snap-type:y mandatory!important}.nfd-scroll-slider-vertical>*{scroll-snap-align:start!important;width:100%!important}.nfd-scroll-slider-horizontal{flex-direction:row!important;overflow-x:auto!important;scroll-snap-type:x mandatory!important}.nfd-scroll-slider-horizontal>*{flex-shrink:0!important;scroll-snap-align:start!important}.nfd-scroll-slider-horizontal>.wp-block-cover{width:100vw!important}.nfd-container.alignfull .nfd-scroll-slider-horizontal{--half-container:calc(50vw - var(--wndb--container)/2);padding-left:var(--half-container)!important;padding-right:var(--half-container)!important;scroll-padding:var(--half-container)!important}.nfd-scroll-slider-horizontal.nfd-scroll-slider-animate>.wp-block-cover:first-child{animation:scroll-slider-slide 1s ease 1s forwards}@keyframes scroll-slider-slide{0%{margin-left:0}to{margin-left:-100vw}}.block-editor-block-preview__content-iframe .is-root-container{min-height:8rem!important}.block-editor-block-preview__content-iframe figure:has([style*="aspect-ratio: 16 / 9"]){width:100%!important}.block-editor-block-preview__content-iframe [style*="min-height: 100vh"],.block-editor-block-preview__content-iframe [style*="min-height:100vh"]{min-height:800px!important}.block-editor-block-preview__content-iframe [style*="min-height: 70vh"],.block-editor-block-preview__content-iframe [style*="min-height:70vh"]{min-height:560px!important}.block-editor-block-preview__content-iframe [style*="min-height: 60vh"],.block-editor-block-preview__content-iframe [style*="min-height:60vh"]{min-height:480px!important}.block-editor-block-preview__content-iframe [style*="min-height: 50vh"],.block-editor-block-preview__content-iframe [style*="min-height:50vh"]{min-height:400px!important}.block-editor-block-preview__content-iframe [style*="min-height: 40vh"],.block-editor-block-preview__content-iframe [style*="min-height:40vh"]{min-height:320px!important}.block-editor-block-preview__content-iframe [style*="min-height: 35vh"],.block-editor-block-preview__content-iframe [style*="min-height:35vh"]{min-height:280px!important}.block-editor-block-preview__content-iframe [style*="min-height: 30vh"],.block-editor-block-preview__content-iframe [style*="min-height:30vh"]{min-height:240px!important}.block-editor-block-preview__content-iframe [style*="min-height: 10vh"],.block-editor-block-preview__content-iframe [style*="min-height:10vh"]{min-height:80px!important}.block-editor-block-preview__content-iframe [style*="min-height: 5vh"],.block-editor-block-preview__content-iframe [style*="min-height:5vh"]{min-height:40px!important}.nfd-wba-modal *{box-sizing:border-box!important}.block-editor-block-preview__content-iframe .nfd-wb-animate{clip-path:none!important;opacity:1!important;transform:none!important;transition:none!important}.block-editor-block-preview__content-iframe .block-editor-warning:not(.wp-block-missing .block-editor-warning){display:none!important}.block-editor-block-preview__content-iframe .is-root-container>.nfd-container:not([class*=nfd-p-]):not([class*=nfd-py-]):not([class*=nfd-pt-]):not([class*=nfd-pb-]):not([style*=padding]){padding-block:var(--wndb--p)!important}.block-editor-block-preview__content-iframe [class*=nfd-rounded]:not([style*=-radius])>div>img:not([style*=-radius]){border-radius:calc(var(--wndb--border--radius)*var(--wndb--rounded--scale-factor))!important}ol.nfd-gap-sm:not(.is-layout-flex) li:not(:last-child),ul.nfd-gap-sm:not(.is-layout-flex) li:not(:last-child){margin-bottom:.5em!important}ol.nfd-gap-md:not(.is-layout-flex) li:not(:last-child),ul.nfd-gap-md:not(.is-layout-flex) li:not(:last-child){margin-bottom:1em!important}ul.nfd-list-check{list-style-type:none!important;padding-inline-start:1em!important}ul.nfd-list-check li:before{content:"✓";display:inline-block;margin-inline-end:8px}[class*=nfd-query-loop-] :where(.wp-block-post-author__avatar img){border-radius:999px;display:block}[class*=nfd-query-loop-] :where(.avatar-48){height:36px!important;width:36px!important}[class*=nfd-query-loop-] :where(.wp-block-post-author__content){display:flex;flex-direction:column;gap:4px;justify-content:center}[class*=nfd-query-loop-] .wp-block-post-author__avatar{margin-right:12px!important}.nfd-query-loop-1 :where(.wp-block-cover){aspect-ratio:2/1.1}.nfd-query-loop-1 :where(.wp-block-post-author__content){align-items:center!important;flex-direction:row!important}.nfd-query-loop-1 :where(.wp-block-post-author__byline){font-size:1em!important;opacity:.8!important}[class*=nfd-query-loop-] :where(.wp-block-categories){display:flex;gap:8px;list-style:none;padding:0}[class*=nfd-query-loop-] :where(.wp-block-categories a){color:inherit!important}.nfd-query-loop-2 .wp-block-cover__background{-webkit-mask-image:linear-gradient(180deg,transparent 25%,#000 75%)!important;mask-image:linear-gradient(180deg,transparent 25%,#000 75%)!important}.nfd-query-loop-3 :where(.wp-block-post-author__name){display:none!important}.nfd-form-items-grow>div:not(.wp-block-jetpack-button){flex-grow:1!important}.nfd-jp-form.nfd-text-center .consent{text-align:center!important}.nfd-jp-form .contact-form-submission .go-back-message .link{color:currentColor!important;text-decoration:underline!important}.nfd-jp-form .contact-form-submission .go-back-message{margin-top:0!important}.nfd-jp-form .contact-form-submission{border-color:currentColor!important;padding:calc(var(--wndb--p--md)*.5) 0!important}.nfd-jp-form textarea{resize:vertical!important}.nfd-jp-form .wp-block-button__link{padding-block-end:10px!important;padding-block-start:10px!important}.nfd-jp-form .consent,.nfd-jp-form .jetpack-field-checkbox .jetpack-field-label .jetpack-field-label__input,.nfd-jp-form .jetpack-field-consent .jetpack-field-label .jetpack-field-label__input{font-size:.875rem!important;line-height:1.5em!important;text-transform:none!important;text-wrap:balance!important}.nfd-jp-form input[type=checkbox]{padding:0!important}.nfd-jp-subscribe-form .wp-block-jetpack-label{display:none!important}.nfd-jp-subscribe-form .wp-block-jetpack-input{height:100%!important;margin:0!important}.nfd-heading-styles-panel{border-top:0!important;padding:0!important}.nfd-heading-styles-control .components-h-stack>.components-base-control.components-range-control{flex:1 1 40%!important}.wp-block-heading.is-style-nfd-heading-boxed{align-items:center!important;display:flex!important;gap:2.5rem!important;white-space:nowrap!important}.wp-block-heading.is-style-nfd-heading-boxed:after,.wp-block-heading.is-style-nfd-heading-boxed:before{border-bottom:var(--nfd-heading-border-size,3px) var(--nfd-heading-border-style,solid) var(--nfd-heading-border,#e8d833)!important;content:""!important}.wp-block-heading.is-style-nfd-heading-boxed{justify-content:center!important}.wp-block-heading.is-style-nfd-heading-boxed:after,.wp-block-heading.is-style-nfd-heading-boxed:before{flex:1 1 0!important}.wp-block-heading.is-style-nfd-heading-boxed.has-text-align-left{justify-content:flex-start!important}.wp-block-heading.is-style-nfd-heading-boxed.has-text-align-left:before{flex:0 0 0!important}.wp-block-heading.is-style-nfd-heading-boxed.has-text-align-left:after{flex:1 1 0!important}.wp-block-heading.is-style-nfd-heading-boxed.has-text-align-right{justify-content:flex-end!important}.wp-block-heading.is-style-nfd-heading-boxed.has-text-align-right:before{flex:1 1 0!important}.wp-block-heading.is-style-nfd-heading-boxed.has-text-align-right:after{flex:0 0 0!important}.wp-block-heading.is-style-nfd-heading-boxed.has-text-align-center{justify-content:center!important}.wp-block-heading.is-style-nfd-heading-boxed.has-text-align-center:after,.wp-block-heading.is-style-nfd-heading-boxed.has-text-align-center:before{flex:1 1 0!important}.wp-block-heading.is-style-nfd-heading-boxed.left-only:after,.wp-block-heading.is-style-nfd-heading-boxed.right-only:before{flex:0 0 0!important}.is-style-nfd-heading-highlight .nfd-heading-highlight__text{--hl-color:var(--nfd-heading-border,#ffeb3b);--hl-height:var(--nfd-heading-border-size,12px);box-decoration-break:clone!important;-webkit-box-decoration-break:clone!important;position:relative!important;text-decoration:none!important;z-index:1!important}.is-style-nfd-heading-highlight[style*="--nfd-heading-border-style: solid"] .nfd-heading-highlight__text,.is-style-nfd-heading-highlight[style*="--nfd-heading-border-style:solid"] .nfd-heading-highlight__text{background-image:linear-gradient(var(--hl-color),var(--hl-color))!important;background-position:left 100%!important;background-repeat:no-repeat!important;background-size:100% var(--hl-height)!important}.is-style-nfd-heading-highlight[style*="--nfd-heading-border-style: dashed"] .nfd-heading-highlight__text:after,.is-style-nfd-heading-highlight[style*="--nfd-heading-border-style: dotted"] .nfd-heading-highlight__text:after,.is-style-nfd-heading-highlight[style*="--nfd-heading-border-style:dashed"] .nfd-heading-highlight__text:after,.is-style-nfd-heading-highlight[style*="--nfd-heading-border-style:dotted"] .nfd-heading-highlight__text:after{bottom:0!important;content:""!important;height:var(--hl-height)!important;left:0!important;pointer-events:none!important;position:absolute!important;right:0!important;z-index:-1!important}.is-style-nfd-heading-highlight[style*="--nfd-heading-border-style: dotted"] .nfd-heading-highlight__text:after,.is-style-nfd-heading-highlight[style*="--nfd-heading-border-style:dotted"] .nfd-heading-highlight__text:after{background:radial-gradient(circle,var(--hl-color) 60%,transparent 61%) 0 100% /calc(var(--hl-height)*1.2) var(--hl-height) repeat-x!important}.is-style-nfd-heading-highlight[style*="--nfd-heading-border-style: dashed"] .nfd-heading-highlight__text:after,.is-style-nfd-heading-highlight[style*="--nfd-heading-border-style:dashed"] .nfd-heading-highlight__text:after{background:repeating-linear-gradient(to right,var(--hl-color) 0 calc(var(--hl-height)*1.4),transparent calc(var(--hl-height)*1.4) calc(var(--hl-height)*2.2)) 0 100% /100% var(--hl-height) no-repeat!important}.is-style-nfd-heading-underline.wp-block-heading{text-decoration-color:var(--nfd-heading-border,#e8d833)!important;text-decoration-line:underline!important;text-decoration-thickness:var(--nfd-heading-border-size,3px)!important;text-underline-offset:.25em!important}.is-style-nfd-heading-underline.wp-block-heading[style*="--nfd-heading-border-style: solid"],.is-style-nfd-heading-underline.wp-block-heading[style*="--nfd-heading-border-style:solid"]{text-decoration-style:solid!important}.is-style-nfd-heading-underline.wp-block-heading[style*="--nfd-heading-border-style: dashed"],.is-style-nfd-heading-underline.wp-block-heading[style*="--nfd-heading-border-style:dashed"]{text-decoration-style:dashed!important}.is-style-nfd-heading-underline.wp-block-heading[style*="--nfd-heading-border-style: dotted"],.is-style-nfd-heading-underline.wp-block-heading[style*="--nfd-heading-border-style:dotted"]{text-decoration-style:dotted!important}.nfd-mask-fade-to-b>.wp-block-cover__background{-webkit-mask-image:linear-gradient(180deg,transparent 50%,#000 120%)!important;mask-image:linear-gradient(180deg,transparent 50%,#000 120%)!important}.nfd-mask-radial-center>.wp-block-cover__background{-webkit-mask-image:radial-gradient(circle,transparent -40%,rgba(0,0,0,.9) 58%)!important;mask-image:radial-gradient(circle,transparent -40%,rgba(0,0,0,.9) 58%)!important}p[style*=text-decoration]>a{color:inherit!important;text-decoration:inherit!important}.is-style-dots.nfd-text-left:before{padding-left:0!important}.nfd-h-full,.nfd-h-full>.components-resizable-box__container>img,.nfd-h-full>img{height:100%!important}.nfd-w-full,.nfd-w-full>.components-resizable-box__container>img,.nfd-w-full>img{width:100%!important}.nfd-backdrop-blur-sm{backdrop-filter:blur(4px)!important}.nfd-backdrop-blur-md{backdrop-filter:blur(8px)!important}:not(.editor-styles-wrapper) header:has(.nfd-absolute-header){position:sticky!important;top:0!important;z-index:1!important}.nfd-absolute-header:not([style*=margin]){margin:0!important}:not(.editor-styles-wrapper) .nfd-absolute-header:not([style*=padding]):not([class*=nfd-px-]):not([style*=padding]){padding-inline:var(--wndb--p)!important}body:not(.editor-styles-wrapper) .wp-site-blocks .nfd-transparent-header,body:not(.editor-styles-wrapper) .wp-site-blocks header:has(>:first-child.nfd-transparent-header){min-width:100%!important;position:absolute!important;z-index:1!important}body:not(.editor-styles-wrapper) .nfd-transparent-header{background-color:transparent!important}.editor-styles-wrapper .nfd-transparent-header{background-color:rgba(0,0,0,.2)!important}.wp-site-blocks .nfd-transparent-header+:not([style*=margin]),.wp-site-blocks>header:has(>:first-child.nfd-transparent-header)+:not([style*=margin]){margin-top:0!important}:is([style*="min-height:100vh"]){min-height:calc(100vh - var(--wp-admin--admin-bar--height))!important}@supports (height:100dvh){:is([style*="height:100vh"]){min-height:calc(100dvh - var(--wp-admin--admin-bar--height, 0px))!important}}.nfd-wk-search .wp-block-search__input{font-size:inherit!important;min-height:50px!important;padding:8px 16px!important}:where(.wp-block-search__input){border-radius:var(--wndb--border--radius--sm)!important}.nfd-stretch-cover-child,.nfd-stretch-cover-child .wp-block-cover__inner-container{display:flex!important;flex-direction:column!important}.nfd-stretch-cover-child .wp-block-cover__inner-container,.nfd-stretch-cover-child .wp-block-cover__inner-container>.nfd-pseudo-play-icon,.nfd-stretch-cover-child .wp-block-cover__inner-container>.wp-block-group{align-items:inherit!important;flex-grow:1!important;justify-content:inherit!important}.nfd-stretch-cover-child .wp-block-cover__inner-container>.wp-block-group,.nfd-stretch-cover-child .wp-block-cover__inner-container>p{width:100%!important}.nfd-container summary{line-height:1.5!important;padding-right:32px!important;position:relative!important}.nfd-container summary::marker{content:none!important}.nfd-container summary:before{align-items:center!important;background-color:var(--wndb--color--borders)!important;background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1wbHVzIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik01IDEyaDE0TTEyIDV2MTQiLz48L3N2Zz4=")!important;background-position:50%!important;background-repeat:no-repeat!important;background-size:13px!important;border-radius:999px!important;content:""!important;display:flex!important;height:1em!important;justify-content:center!important;opacity:.6!important;position:absolute!important;right:0!important;top:50%!important;transform:translateY(-50%)!important;width:1em!important}.nfd-container [open] summary{font-weight:700!important}.nfd-container [open] summary:before{opacity:1!important;transform:translateY(-50%) rotate(45deg)!important}.nfd-container summary:hover:before{opacity:1!important}.is-style-wide.wp-block-separator{width:100%!important}.nfd-aspect-video{aspect-ratio:16/9!important}.nfd-img-object-left img{-o-object-position:left!important;object-position:left!important}.nfd-img-object-right img{-o-object-position:right!important;object-position:right!important}.editor-styles-wrapper .wp-block-image.nfd-h-full>div{aspect-ratio:unset!important;height:100%!important;max-height:unset!important}.nfd-img-floating-photo{border:10px solid #fff!important;border-radius:8px!important;box-shadow:6px 6px 20px rgba(0,0,0,.2)!important;transform:rotate(5deg)!important}.nfd-yoast-toc ul li{list-style-type:disc!important}.nfd-yoast-toc{line-height:1.5!important}[class*=is-style-nfd-dots],[class*=is-style-nfd-waves]{padding-block:var(--wndb--p--sm)!important;position:relative!important}[class*=is-style-nfd-waves]{padding-block:var(--wndb--p--md)!important}.is-style-nfd-dots-bottom-right,.is-style-nfd-dots-top-right{padding-inline-end:var(--wndb--p--sm)!important}.is-style-nfd-dots-bottom-left,.is-style-nfd-dots-top-left{padding-inline-start:var(--wndb--p--sm)!important}.is-style-nfd-waves-bottom-right,.is-style-nfd-waves-top-right{padding-inline-end:var(--wndb--p--md)!important;padding-inline-start:var(--wndb--p--xs)!important}.is-style-nfd-waves-bottom-left,.is-style-nfd-waves-top-left{padding-inline-end:var(--wndb--p--xs)!important;padding-inline-start:var(--wndb--p--md)!important}[class*=is-style-nfd-dots]>img[class^=wp-image-],[class*=is-style-nfd-waves]>img[class^=wp-image-]{position:relative!important}[class*=is-style-nfd-dots]:before{background-image:radial-gradient(var(--wndb--color--primary) 2px,transparent 2px)!important;background-size:16px 16px!important;height:106px!important;opacity:1!important;width:106px!important}[class*=is-style-nfd-dots]:before,[class*=is-style-nfd-waves]:before{content:""!important;display:block!important;position:absolute!important}[class*=is-style-nfd-waves]:before{--wndb--wave-width:380px;--wndb--wave-spacing:16px;--wndb--wave-thickness:8px;--wndb--wave-curve:0.85;background:color-mix(in srgb,var(--wndb--color--tertiary) 60%,#fff)!important;width:var(--wndb--wave-width)!important;z-index:1!important;--wndb--wave-radius:calc(var(--wndb--wave-spacing)*sqrt(var(--wndb--wave-curve) * var(--wndb--wave-curve) + 1) + var(--wndb--wave-thickness)/2);--wndb--wave-height:calc(var(--wndb--wave-spacing) + var(--wndb--wave-thickness));--wndb--wave-gap:14px;height:calc(var(--wndb--wave-height)*3 + var(--wndb--wave-gap)*2)!important;--wndb--y1:0px;--wndb--y2:calc(var(--wndb--wave-height) + var(--wndb--wave-gap));--wndb--y3:calc((var(--wndb--wave-height) + var(--wndb--wave-gap))*2);--wndb--wave-gradient:#0000 calc(99% - var(--wndb--wave-thickness)),#000 calc(101% - var(--wndb--wave-thickness)) 99%,#0000 101%;--wndb--mask-stripe-1-top:radial-gradient(var(--wndb--wave-radius) at left 50% top calc(var(--wndb--wave-curve)*-1*var(--wndb--wave-spacing)),var(--wndb--wave-gradient)) 50% calc(var(--wndb--y1) + var(--wndb--wave-spacing)/2 + var(--wndb--wave-thickness)/2) /calc(var(--wndb--wave-spacing)*4) calc(var(--wndb--wave-spacing) + var(--wndb--wave-thickness)) repeat-x;--wndb--mask-stripe-1-bottom:radial-gradient(var(--wndb--wave-radius) at left 50% bottom calc(var(--wndb--wave-curve)*-1*var(--wndb--wave-spacing)),var(--wndb--wave-gradient)) calc(50% - var(--wndb--wave-spacing)*2) calc(var(--wndb--y1) - var(--wndb--wave-spacing)/2 - var(--wndb--wave-thickness)/2) /calc(var(--wndb--wave-spacing)*4) calc(var(--wndb--wave-spacing) + var(--wndb--wave-thickness)) repeat-x;--wndb--mask-stripe-2-top:radial-gradient(var(--wndb--wave-radius) at left 50% top calc(var(--wndb--wave-curve)*-1*var(--wndb--wave-spacing)),var(--wndb--wave-gradient)) 50% calc(var(--wndb--y2) + var(--wndb--wave-spacing)/2 + var(--wndb--wave-thickness)/2) /calc(var(--wndb--wave-spacing)*4) calc(var(--wndb--wave-spacing) + var(--wndb--wave-thickness)) repeat-x;--wndb--mask-stripe-2-bottom:radial-gradient(var(--wndb--wave-radius) at left 50% bottom calc(var(--wndb--wave-curve)*-1*var(--wndb--wave-spacing)),var(--wndb--wave-gradient)) calc(50% - var(--wndb--wave-spacing)*2) calc(var(--wndb--y2) - var(--wndb--wave-spacing)/2 - var(--wndb--wave-thickness)/2) /calc(var(--wndb--wave-spacing)*4) calc(var(--wndb--wave-spacing) + var(--wndb--wave-thickness)) repeat-x;--wndb--mask-stripe-3-top:radial-gradient(var(--wndb--wave-radius) at left 50% top calc(var(--wndb--wave-curve)*-1*var(--wndb--wave-spacing)),var(--wndb--wave-gradient)) 50% calc(var(--wndb--y3) + var(--wndb--wave-spacing)/2 + var(--wndb--wave-thickness)/2) /calc(var(--wndb--wave-spacing)*4) calc(var(--wndb--wave-spacing) + var(--wndb--wave-thickness)) repeat-x;--wndb--mask-stripe-3-bottom:radial-gradient(var(--wndb--wave-radius) at left 50% bottom calc(var(--wndb--wave-curve)*-1*var(--wndb--wave-spacing)),var(--wndb--wave-gradient)) calc(50% - var(--wndb--wave-spacing)*2) calc(var(--wndb--y3) - var(--wndb--wave-spacing)/2 - var(--wndb--wave-thickness)/2) /calc(var(--wndb--wave-spacing)*4) calc(var(--wndb--wave-spacing) + var(--wndb--wave-thickness)) repeat-x;mask:var(--wndb--mask-stripe-1-bottom),var(--wndb--mask-stripe-1-top),var(--wndb--mask-stripe-2-bottom),var(--wndb--mask-stripe-2-top),var(--wndb--mask-stripe-3-bottom),var(--wndb--mask-stripe-3-top)!important;-webkit-mask:var(--wndb--mask-stripe-1-bottom),var(--wndb--mask-stripe-1-top),var(--wndb--mask-stripe-2-bottom),var(--wndb--mask-stripe-2-top),var(--wndb--mask-stripe-3-bottom),var(--wndb--mask-stripe-3-top)!important;mask-repeat:repeat-x!important;-webkit-mask-repeat:repeat-x!important}.is-style-nfd-dots-bottom-right:before,.is-style-nfd-waves-bottom-right:before{bottom:0!important;right:0!important}.is-style-nfd-dots-bottom-left:before,.is-style-nfd-waves-bottom-left:before{bottom:0!important;left:0!important}.is-style-nfd-dots-top-left:before,.is-style-nfd-waves-top-left:before{left:0!important;top:0!important}.is-style-nfd-dots-top-right:before,.is-style-nfd-waves-top-right:before{right:0!important;top:0!important}.nfd-hover-settings .components-heading{width:100%!important}.nfd-hoverable{transition:color .15s ease,background-color .15s ease,text-decoration-color .15s ease!important}.nfd-hoverable.nfd-hover-text:hover{color:var(--nfd-hover-text)!important}.nfd-hoverable.nfd-hover-bg:hover{background-color:var(--nfd-hover-bg)!important}@media (max-width:782px){.md\:nfd-order-2{order:2!important}.md\:nfd-my-0:not([style*=margin]){margin-bottom:0!important;margin-top:0!important}.md\:nfd-flex{display:flex!important}.md\:nfd-hidden{display:none!important}.md\:nfd-basis-full{flex-basis:100%!important}.md\:nfd-grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))!important}.md\:nfd-flex-col{flex-direction:column!important}.md\:nfd-flex-wrap{flex-wrap:wrap!important}.md\:nfd-items-start{align-items:flex-start!important}.md\:nfd-justify-start{justify-content:flex-start!important}.md\:nfd-justify-end{justify-content:flex-end!important}.md\:nfd-justify-center{justify-content:center!important}.md\:nfd-gap-0{gap:0!important}.md\:nfd-gap-4{gap:1rem!important}.md\:nfd-gap-5{gap:1.25rem!important}.md\:nfd-gap-8{gap:2rem!important}.md\:nfd-self-start{align-self:flex-start!important}.md\:nfd-rounded-lg:not([style*=-radius]){border-radius:.5rem!important}.md\:nfd-border-none{border-style:none!important}.md\:nfd-p-0:not([style*=padding]){padding:0!important}.md\:nfd-p-4:not([style*=padding]){padding:1rem!important}.md\:nfd-px-0:not([style*=padding]){padding-left:0!important;padding-right:0!important}.md\:nfd-py-0:not([style*=padding]){padding-bottom:0!important;padding-top:0!important}.md\:nfd-text-left{text-align:left!important}.md\:nfd-text-center{text-align:center!important}}
+/*# sourceURL=nfd-wonder-blocks-utilities-inline-css */
+</style>
+<link rel='stylesheet' id='neve-style-css' href='<?php echo esc_url( content_url( 'themes/neve/style-main-new.min.css' ) ); ?>' media='all' />
+<style id="neve-style-inline-css">
+h1 {font-family: var(--h1fontfamily);}.is-menu-sidebar .header-menu-sidebar { visibility: visible; }.is-menu-sidebar.menu_sidebar_slide_left .header-menu-sidebar { transform: translate3d(0, 0, 0); left: 0; }.is-menu-sidebar.menu_sidebar_slide_right .header-menu-sidebar { transform: translate3d(0, 0, 0); right: 0; }.is-menu-sidebar.menu_sidebar_pull_right .header-menu-sidebar, .is-menu-sidebar.menu_sidebar_pull_left .header-menu-sidebar { transform: translateX(0); }.is-menu-sidebar.menu_sidebar_dropdown .header-menu-sidebar { height: auto; }.is-menu-sidebar.menu_sidebar_dropdown .header-menu-sidebar-inner { max-height: 400px; padding: 20px 0; }.is-menu-sidebar.menu_sidebar_full_canvas .header-menu-sidebar { opacity: 1; }.header-menu-sidebar .menu-item-nav-search:not(.floating) { pointer-events: none; }.header-menu-sidebar .menu-item-nav-search .is-menu-sidebar { pointer-events: unset; }@media screen and (max-width: 960px) { .builder-item.cr .item--inner { --textalign: center; --justify: center; } }
+.nv-meta-list li.meta:not(:last-child):after { content:"/" }.nv-meta-list .no-mobile{
+			display:none;
+		}.nv-meta-list li.last::after{
+			content: ""!important;
+		}@media (min-width: 769px) {
+			.nv-meta-list .no-mobile {
+				display: inline-block;
+			}
+			.nv-meta-list li.last:not(:last-child)::after {
+		 		content: "/" !important;
+			}
+		}
+:root{ --container: 748px;--postwidth:100%; --primarybtnbg: var(--nv-primary-accent); --primarybtnhoverbg: var(--nv-secondary-accent); --secondarybtnhoverbg: var(--nv-light-bg); --primarybtncolor: #fff; --secondarybtncolor: var(--nv-primary-accent); --primarybtnhovercolor: #fff; --secondarybtnhovercolor: var(--nv-secondary-accent);--primarybtnborderradius:3px;--secondarybtnborderradius:3px;--secondarybtnborderwidth:3px;--btnpadding:13px 15px;--primarybtnpadding:13px 15px;--secondarybtnpadding:calc(13px - 3px) calc(15px - 3px); --bodyfontfamily: "Aoboshi One"; --bodyfontsize: 15px; --bodylineheight: 1.6; --bodyletterspacing: 0px; --bodyfontweight: 400; --h1fontfamily: Impact,Charcoal,sans-serif; --h1fontsize: 36px; --h1fontweight: 700; --h1lineheight: 1.2em; --h1letterspacing: 0px; --h1texttransform: none; --h2fontsize: 28px; --h2fontweight: 700; --h2lineheight: 1.3; --h2letterspacing: 0px; --h2texttransform: none; --h3fontsize: 24px; --h3fontweight: 700; --h3lineheight: 1.4; --h3letterspacing: 0px; --h3texttransform: none; --h4fontsize: 20px; --h4fontweight: 700; --h4lineheight: 1.6; --h4letterspacing: 0px; --h4texttransform: none; --h5fontsize: 16px; --h5fontweight: 700; --h5lineheight: 1.6; --h5letterspacing: 0px; --h5texttransform: none; --h6fontsize: 14px; --h6fontweight: 700; --h6lineheight: 1.6; --h6letterspacing: 0px; --h6texttransform: none;--formfieldborderwidth:2px;--formfieldborderradius:3px; --formfieldbgcolor: var(--nv-site-bg); --formfieldbordercolor: #8c8c8c; --formfieldcolor: var(--nv-text-color);--formfieldpadding:10px 12px; } .nv-index-posts{ --borderradius:0px; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:718px } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .nv-post-cover{ --height: 250px;--padding:40px 15px;--justify: flex-start; --textalign: left; --valign: center; } .nv-post-cover .nv-title-meta-wrap, .nv-page-title-wrap, .entry-header{ --textalign: left; } .nv-is-boxed.nv-title-meta-wrap{ --padding:40px 15px; --bgcolor: var(--nv-dark-bg); } .nv-overlay{ --opacity: 50; --blendmode: normal; } .nv-is-boxed.nv-comments-wrap{ --padding:20px; } .nv-is-boxed.comment-respond{ --padding:20px; } .single:not(.single-product), .page{ --c-vspace:0 0 0 0;; } .scroll-to-top{ --color: var(--nv-text-dark-bg);--padding:8px 10px; --borderradius: 3px; --bgcolor: var(--nv-primary-accent); --hovercolor: var(--nv-text-dark-bg); --hoverbgcolor: var(--nv-primary-accent);--size:16px; } .global-styled{ --bgcolor: var(--nv-site-bg); } .header-top{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .header-main{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .header-bottom{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .header-menu-sidebar-bg{ --justify: flex-start; --textalign: left;--flexg: 1;--wrapdropdownwidth: auto; --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .header-menu-sidebar{ width: 360px; } .builder-item--logo{ --maxwidth: 120px; --fs: 24px;--padding:10px 0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--nav-icon,.header-menu-sidebar .close-sidebar-panel .navbar-toggle{ --borderradius:0; } .builder-item--nav-icon{ --label-margin:0 5px 0 0;;--padding:10px 15px;--margin:0; } .builder-item--primary-menu{ --hovercolor: var(--nv-secondary-accent); --hovertextcolor: var(--nv-text-color); --activecolor: var(--nv-primary-accent); --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontsize: 1em; --lineheight: 1.6; --letterspacing: 0px; --fontweight: 500; --texttransform: none; --iconsize: 1em; } .hfg-is-group.has-primary-menu .inherit-ff{ --inheritedfw: 500; } .footer-top-inner .row{ grid-template-columns:1fr 1fr 1fr; --valign: flex-start; } .footer-top{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .footer-main-inner .row{ grid-template-columns:1fr 1fr 1fr; --valign: flex-start; } .footer-main{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .footer-bottom-inner .row{ grid-template-columns:1fr 1fr 1fr; --valign: flex-start; } .footer-bottom{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-dark-bg); --bgcolor: var(--nv-dark-bg); } @media(min-width: 576px){ :root{ --container: 992px;--postwidth:50%;--btnpadding:13px 15px;--primarybtnpadding:13px 15px;--secondarybtnpadding:calc(13px - 3px) calc(15px - 3px); --bodyfontsize: 16px; --bodylineheight: 1.6; --bodyletterspacing: 0px; --h1fontsize: 38px; --h1lineheight: 1.2em; --h1letterspacing: 0px; --h2fontsize: 30px; --h2lineheight: 1.2; --h2letterspacing: 0px; --h3fontsize: 26px; --h3lineheight: 1.4; --h3letterspacing: 0px; --h4fontsize: 22px; --h4lineheight: 1.5; --h4letterspacing: 0px; --h5fontsize: 18px; --h5lineheight: 1.6; --h5letterspacing: 0px; --h6fontsize: 14px; --h6lineheight: 1.6; --h6letterspacing: 0px; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:962px } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .nv-post-cover{ --height: 320px;--padding:60px 30px;--justify: flex-start; --textalign: left; --valign: center; } .nv-post-cover .nv-title-meta-wrap, .nv-page-title-wrap, .entry-header{ --textalign: left; } .nv-is-boxed.nv-title-meta-wrap{ --padding:60px 30px; } .nv-is-boxed.nv-comments-wrap{ --padding:30px; } .nv-is-boxed.comment-respond{ --padding:30px; } .single:not(.single-product), .page{ --c-vspace:0 0 0 0;; } .scroll-to-top{ --padding:8px 10px;--size:16px; } .header-menu-sidebar-bg{ --justify: flex-start; --textalign: left;--flexg: 1;--wrapdropdownwidth: auto; } .header-menu-sidebar{ width: 360px; } .builder-item--logo{ --maxwidth: 120px; --fs: 24px;--padding:10px 0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--nav-icon{ --label-margin:0 5px 0 0;;--padding:10px 15px;--margin:0; } .builder-item--primary-menu{ --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontsize: 1em; --lineheight: 1.6; --letterspacing: 0px; --iconsize: 1em; } }@media(min-width: 960px){ :root{ --container: 1170px;--postwidth:33.333333333333%;--btnpadding:13px 15px;--primarybtnpadding:13px 15px;--secondarybtnpadding:calc(13px - 3px) calc(15px - 3px); --bodyfontsize: 16px; --bodylineheight: 1.7; --bodyletterspacing: 0px; --h1fontsize: 40px; --h1lineheight: 1.1em; --h1letterspacing: 0px; --h2fontsize: 32px; --h2lineheight: 1.2; --h2letterspacing: 0px; --h3fontsize: 28px; --h3lineheight: 1.4; --h3letterspacing: 0px; --h4fontsize: 24px; --h4lineheight: 1.5; --h4letterspacing: 0px; --h5fontsize: 20px; --h5lineheight: 1.6; --h5letterspacing: 0px; --h6fontsize: 16px; --h6lineheight: 1.6; --h6letterspacing: 0px; } body:not(.single):not(.archive):not(.blog):not(.search):not(.error404) .neve-main > .container .col, body.post-type-archive-course .neve-main > .container .col, body.post-type-archive-llms_membership .neve-main > .container .col{ max-width: 100%; } body:not(.single):not(.archive):not(.blog):not(.search):not(.error404) .nv-sidebar-wrap, body.post-type-archive-course .nv-sidebar-wrap, body.post-type-archive-llms_membership .nv-sidebar-wrap{ max-width: 0%; } .neve-main > .archive-container .nv-index-posts.col{ max-width: 100%; } .neve-main > .archive-container .nv-sidebar-wrap{ max-width: 0%; } .neve-main > .single-post-container .nv-single-post-wrap.col{ max-width: 70%; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:789px } .container-fluid.single-post-container .alignfull > [class*="__inner-container"], .container-fluid.single-post-container .alignwide > [class*="__inner-container"]{ max-width:calc(70% + 15px) } .neve-main > .single-post-container .nv-sidebar-wrap{ max-width: 30%; } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .nv-post-cover{ --height: 400px;--padding:60px 40px;--justify: flex-start; --textalign: left; --valign: center; } .nv-post-cover .nv-title-meta-wrap, .nv-page-title-wrap, .entry-header{ --textalign: left; } .nv-is-boxed.nv-title-meta-wrap{ --padding:60px 40px; } .nv-is-boxed.nv-comments-wrap{ --padding:40px; } .nv-is-boxed.comment-respond{ --padding:40px; } .single:not(.single-product), .page{ --c-vspace:0 0 0 0;; } .scroll-to-top{ --padding:8px 10px;--size:16px; } .header-menu-sidebar-bg{ --justify: flex-start; --textalign: left;--flexg: 1;--wrapdropdownwidth: auto; } .header-menu-sidebar{ width: 360px; } .builder-item--logo{ --maxwidth: 153px; --fs: 24px;--padding:10px 0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--nav-icon{ --label-margin:0 5px 0 0;;--padding:10px 15px;--margin:0; } .builder-item--primary-menu{ --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontsize: 1em; --lineheight: 1.6; --letterspacing: 0px; --iconsize: 1em; } }.nv-content-wrap .elementor a:not(.button):not(.wp-block-file__button){ text-decoration: none; }.scroll-to-top {right: 20px; border: none; position: fixed; bottom: 30px; display: none; opacity: 0; visibility: hidden; transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out; align-items: center; justify-content: center; z-index: 999; } @supports (-webkit-overflow-scrolling: touch) { .scroll-to-top { bottom: 74px; } } .scroll-to-top.image { background-position: center; } .scroll-to-top .scroll-to-top-image { width: 100%; height: 100%; } .scroll-to-top .scroll-to-top-label { margin: 0; padding: 5px; } .scroll-to-top:hover { text-decoration: none; } .scroll-to-top.scroll-to-top-left {left: 20px; right: unset;} .scroll-to-top.scroll-show-mobile { display: flex; } @media (min-width: 960px) { .scroll-to-top { display: flex; } }.scroll-to-top { color: var(--color); padding: var(--padding); border-radius: var(--borderradius); background: var(--bgcolor); } .scroll-to-top:hover, .scroll-to-top:focus { color: var(--hovercolor); background: var(--hoverbgcolor); } .scroll-to-top-icon, .scroll-to-top.image .scroll-to-top-image { width: var(--size); height: var(--size); } .scroll-to-top-image { background-image: var(--bgimage); background-size: cover; }:root{--nv-primary-accent:#fef6e5;--nv-secondary-accent:#fef6e5;--nv-site-bg:#000000;--nv-light-bg:#f4f5f7;--nv-dark-bg:#121212;--nv-text-color:#fef6e5;--nv-text-dark-bg:#ffffff;--nv-c-1:#9463ae;--nv-c-2:#be574b;--nv-fallback-ff:Arial, Helvetica, sans-serif;}
+:root{--e-global-color-nvprimaryaccent:#fef6e5;--e-global-color-nvsecondaryaccent:#fef6e5;--e-global-color-nvsitebg:#000000;--e-global-color-nvlightbg:#f4f5f7;--e-global-color-nvdarkbg:#121212;--e-global-color-nvtextcolor:#fef6e5;--e-global-color-nvtextdarkbg:#ffffff;--e-global-color-nvc1:#9463ae;--e-global-color-nvc2:#be574b;}
+/*# sourceURL=neve-style-inline-css */
+</style>
+<link rel='stylesheet' id='hfe-elementor-icons-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='hfe-icons-list-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/widget-icon-list.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='hfe-social-icons-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/css/widget-social-icons.min.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-brands-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/lib/font-awesome/css/brands.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/lib/font-awesome/css/fontawesome.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-icons-css' href='<?php echo esc_url( content_url( 'plugins/elementor/assets/lib/font-awesome/css/solid.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='neve-google-font-aoboshi-one-css' href='//fonts.googleapis.com/css?family=Aoboshi+One%3A400%2C700%2C500&#038;display=swap&#038;ver=4.2.19' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='<?php echo esc_url( content_url( 'uploads/elementor/google-fonts/css/roboto.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='<?php echo esc_url( content_url( 'uploads/elementor/google-fonts/css/robotoslab.css' ) ); ?>' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-aoboshione-css' href='<?php echo esc_url( content_url( 'uploads/elementor/google-fonts/css/aoboshione.css' ) ); ?>' media='all' />
+<script type='text/javascript'>
+		var elementskit = {
+			resturl: '/wp-json/elementskit/v1/',
+		}
+
+		</script><script id="jquery-core-js" src="<?php echo esc_url( home_url( '/wp-includes/js/jquery/jquery.min.js' ) ); ?>"></script>
+<script id="jquery-migrate-js" src="<?php echo esc_url( home_url( '/wp-includes/js/jquery/jquery-migrate.min.js' ) ); ?>"></script>
+<script id="jquery-js-after">
+!function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
+!function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);
+//# sourceURL=jquery-js-after
+</script>
+<script id="nfd-wonder-blocks-utilities-js-after">
+(()=>{var c=class{constructor({clientId:a,...n}={}){this.options={activeClass:"nfd-wb-animated-in",root:null,rootMargin:"0px",threshold:0,...n}}observeElements(a,n=null,t=!1){if(!("IntersectionObserver"in window)||!a?.length||document.documentElement.classList.contains("block-editor-block-preview__content-iframe"))return;function o(s,r){this._mutationCallback(s,r,n)}let i=new IntersectionObserver(this._handleIntersection.bind(this),this.options),f=new MutationObserver(o.bind(this)),d=new MutationObserver(this._handleClassMutation.bind(this));a.forEach(s=>{let r=s;s.classList.contains("nfd-wb-reveal-right")&&(r=s.parentElement),i.observe(r),t&&(d.observe(r,{attributes:!0,attributeFilter:["class"]}),f.observe(r,{attributes:!0,attributeFilter:["class"]}))})}_handleIntersection(a,n){a.forEach(t=>{t.isIntersecting&&(t.target.classList.add(this.options.activeClass),t.target.querySelectorAll(".nfd-wb-animate").forEach(o=>{o.classList.add(this.options.activeClass)}),n.unobserve(t.target))})}_handleClassMutation(a){a.forEach(n=>{if(n?.type==="attributes"){let t=n.target;t.classList.contains("nfd-wb-animated-in")||t.classList.add("nfd-wb-animated-in")}})}_mutationCallback(a,n,t=null){a.forEach(o=>{if(o?.type==="attributes"){let i=o.target;t&&t===i.getAttribute("data-block")&&(i.getAttribute("data-replay-animation")===null&&(i.setAttribute("data-replay-animation",!0),requestAnimationFrame(()=>{i.removeAttribute("data-replay-animation")})),n.disconnect())}})}};var w={"nfd-wb-fade-in-bottom":{from:{opacity:0,transform:"translate3d(0, 90px, 0)"},duration:1200},"nfd-wb-fade-in-bottom-short":{from:{opacity:0,transform:"translate3d(0, 32px, 0)"},duration:600},"nfd-wb-fade-in-top-short":{from:{opacity:0,transform:"translate3d(0, -32px, 0)"},duration:600},"nfd-wb-fade-in-left-short":{from:{opacity:0,transform:"translate3d(-32px, 0, 0)"},duration:600},"nfd-wb-fade-in-right-short":{from:{opacity:0,transform:"translate3d(32px, 0, 0)"},duration:600},"nfd-wb-zoom-in":{from:{opacity:0,transform:"scale3d(0.4, 0.4, 0.4)"},duration:1200},"nfd-wb-zoom-in-short":{from:{opacity:0,transform:"scale3d(0.92, 0.92, 0.92)"},duration:600},"nfd-wb-twist-in":{from:{opacity:0,transform:"translateY(40px) scale(0.8) rotateY(30deg) rotateZ(-12deg)"},duration:1e3},"nfd-wb-reveal-right":{from:{clipPath:"inset(0 100% 0 0)"},to:{clipPath:"inset(0 0 0 0)"},duration:1500,easing:"cubic-bezier(0.4, 0, 0, 1)"}};["DOMContentLoaded","wonder-blocks/toolbar-button-added","wonder-blocks/block-order-changed"].forEach(e=>document.addEventListener(e,()=>l()));document.addEventListener("wonder-blocks/animation-changed",e=>l(e?.detail?.clientId));window.onload=()=>l();document.readyState!=="loading"&&l();var b=!1;function l(e=null){document.documentElement.classList.contains("block-editor-block-preview__content-iframe")||(window.parent!==window?h():y(e))}var m=e=>e.split(/\s+/).find(a=>a in w)||"";function u(e){e.style.transition="none",e.classList.add("nfd-wb-animated-in"),requestAnimationFrame(()=>{e.style.transition=""})}function p(e,a){let n=w[a];n&&e.animate([n.from,n.to||{opacity:1,transform:"none"}],{duration:n.duration,easing:n.easing||"cubic-bezier(0.4, 1, 0.65, 1)"})}function h(){if(document.body&&document.body.classList.add("nfd-wb-editor-animations"),requestAnimationFrame(()=>{document.querySelectorAll(".nfd-wb-animate:not(.nfd-wb-animated-in)").forEach(t=>t.classList.add("nfd-wb-animated-in"))}),b)return;b=!0;let e=t=>{t.querySelectorAll&&t.querySelectorAll(".nfd-wb-animate:not(.nfd-wb-animated-in)").forEach(u),t.classList?.contains("nfd-wb-animate")&&!t.classList.contains("nfd-wb-animated-in")&&u(t)},a=new MutationObserver(t=>{for(let o of t){if(o.type==="childList"){for(let s of o.addedNodes)s.nodeType===1&&e(s);continue}if(o.type!=="attributes"||o.attributeName!=="class")continue;let i=o.target;if(!i.classList.contains("nfd-wb-animate")||i.classList.contains("nfd-wb-animated-in")||i.hasAttribute("data-replay-animation"))continue;let f=m(o.oldValue||""),d=m([...i.classList].join(" "));f!==d&&d?(i.classList.add("nfd-wb-animated-in"),p(i,d)):u(i)}}),n=()=>{if(!document.body){requestAnimationFrame(n);return}document.body.classList.add("nfd-wb-editor-animations"),a.observe(document.body,{attributes:!0,attributeFilter:["class"],attributeOldValue:!0,childList:!0,subtree:!0})};n()}function y(e=null){let a=document.body?.classList.contains("block-editor-page")||!!e,n=a?document.querySelector(".interface-interface-skeleton__content"):null,t=new c({root:n,threshold:0});requestAnimationFrame(()=>{t.observeElements(Array.from(document.getElementsByClassName("nfd-wb-animate")),e,a)})}})();
+
+//# sourceURL=nfd-wonder-blocks-utilities-js-after
+</script>
+<script id='pixel-script-poptin' src='https://cdn.popt.in/pixel.js?id=da0ea7e2c6643' async='true'></script> <style type="text/css" id="simple-css-output">h1, h2, h3 { font-family: var(--h1fontfamily) !important; margin: 0; padding: 0;}p { font-family: var(--bodyfontfamily), var(--nv-fallback-ff) !important; padding: 0; margin: 0;}html {zoom: 100%;overflow-x: hidden;}/** password **/.post-password-form { text-align: center; padding: 50px 20px;}.post-password-form input[type=submit]{ color: #000; font-weight: normal;}/**post **/#comments, .nv-meta-list .vcard{display: none;}.single-post .nv-content-wrap img { margin-top: 40px;}.ekit-wid-con img:not([draggable]) { max-width: 100%; height: 200px; object-fit: cover;}.single-post-container h1, .single-post-container h2, .single-post-container ul, .single-post-container p{text-align: center;}.nv-single-post-wrap>div:not(:last-child) {margin-bottom: 30px;}.single-post main::after {content: '';background: #fff;max-width: 767px;height: 1px;width: 95%;display: block;margin: auto;}.single-post p {font-size: 20px;}.single-post h1 {text-transform: uppercase !important;} .single-post main{ max-width: 800px;margin: auto !important; } .neve-main > .single-post-container .nv-single-post-wrap.col { max-width: 100%; }@media (max-width: 959px) { .single-post main{padding: 0 30px; }.nv-single-post-wrap>div:first-child { margin-top: 20px;}.nv-index-posts, .nv-single-post-wrap { margin-bottom: 30px;}}@media (max-width: 500px) { .single-post main{padding: 0 20px; }.single-post p {font-size: 17px;}}.post-ctn .btn-wraper {text-align:center !important;}.premium-blog-content-wrapper {text-align:center !important;}.premium-blog-content-wrapper h2 {padding-bottom: 10px;}.premium-blog-align-left .premium-blog-inner-container { align-items: center;}/** header **/.site-header .header--row-inner { padding: 0 20px;}.top { height: 520px;}.top h1 { -webkit-text-stroke: 2px #fff; text-stroke: 2px #fff; color: transparent !important;} .video { position: absolute; margin-top: -350px; z-index: -1; } .e-hosted-video{ height: 1000px !important; width: 100% !important; object-fit: cover !important; } .e-hosted-video .elementor-video { -o-object-fit: cover; object-fit: cover; height: 1000px !important; width: 100% !important;}.header-top, .header-main { background: transparent !important; --bgcolor: #00000000;}.top br, #champion br { display: none;}.nav-ul li a { text-transform: uppercase;}.bgheading h2 { font-size: 100px !important;}.txtovertxt { margin-top: -95px; text-transform: uppercase; font-size: 30px;}.swiper-slide img, .swiper-slide figure{ height: 250px; object-fit: cover; width: 100%;}.locationhd h3{ font-size: 35px !important;}@media (max-width:956px) { .e-hosted-video{ height: 700px !important; } .e-hosted-video .elementor-video { height: 700px !important;} .video { margin-top: -230px; } .top { height: 380px;}.header-menu-sidebar .nav-ul { margin-left: 10px;}}@media (max-width:767px) { .e-hosted-video{ height: 600px !important; } .e-hosted-video .elementor-video { height: 600px !important;} .video { margin-top: -180px; } .top { height: 340px;}.site-logo img { max-width: 80px;}#champion br { display: block;}}@media (max-width:600px) { .bgheading h2 { font-size: 70px !important; display: flex; justify-content: center;} .txtovertxt { margin-top: -75px; font-size: 25px;}.swiper-slide img, .swiper-slide figure { height: 200px;}}@media (max-width:520px) { .top br { display: block;}}/** other toppage **/ #class h3 { border-top: 1px solid #fff; border-bottom: 1px solid #fff; padding: 10px 0px; } #class .txt { max-width: 500px; margin: auto; font-size: 20px; } @media (max-width:850px) { #class .txt { font-size: 17px; } } @media (max-width:767px) { #class .txt { font-size: 17px; width: 100%; } #coach .reverse { display: flex; flex-direction: column-reverse; } } .membership .e-con{ background-color: #ffffff6a; box-shadow: 5px 5px 0px #fff; padding: 25px 20px 20px 20px; }/**contact **/.wpcf7 form.sent .wpcf7-response-output { border-color: transparent;}.wpcf7 form .wpcf7-response-output { margin: 2em 0em 0em; padding: 0.2em 0em; border: 0px;} .inquiry { margin-bottom: 0px; width: 100%; } .inquiry input, .inquiry textarea { width: 100%; background: #ffffff; border-radius: 0; border: 1px solid #fff; padding: 10px; color: #fff !important; } .inquiry input[type="text"], .inquiry input[type="email"], .inquiry textarea, .inquiry input[type="tel"] { color: #000 !important; font-size: 17px; } .inquiry::placeholder { color: #fff; opacity: 1; } .inquiry td { padding: 0 0 10px; border-bottom: 0px; } .inquiry td input{ border-radius: 0;background: #fff; } #contact input[type=submit] { border-radius: 0px !important; color: #000; font-weight: normal; text-transform: uppercase; padding: 10px 30px; text-align: center; margin-left: 80px;} } .wpcf7 form.sent .wpcf7-response-output { border-color: transparent; text-align: center; text-transform: uppercase; font-size: 20px;}/**subpage**/.subpage.video img{ object-fit: cover; width: 100%; height: 600px; opacity: 0.3; } .top.subpage { height: 250px; } .e-grid.subpage.secondrow { margin: 10px auto 0; width: 66%; } @media (max-width:1024px) { .e-grid.subpage.secondrow { width: 100%; } } @media (max-width:767px) { .subpage.video img{ height: 400px; } .top.subpage { height: 200px; } }/** footer **/.footer a, .footer span{ font-family: var(--bodyfontfamily), var(--nv-fallback-ff) !important; color: #fff;}.footer a { text-transform:uppercase;}.footer .elementor-widget-image{margin: auto;}@media (max-width:767px) {.footer li { font-size: 14px !important;padding: 0px !important;}.footer a {padding: 10px 8px !important;}}</style>			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="<?php echo esc_url( content_url( 'uploads/2024/10/cropped-logo-32x32.png' ) ); ?>" sizes="32x32" />
+<link rel="icon" href="<?php echo esc_url( content_url( 'uploads/2024/10/cropped-logo-192x192.png' ) ); ?>" sizes="192x192" />
+<link rel="apple-touch-icon" href="<?php echo esc_url( content_url( 'uploads/2024/10/cropped-logo-180x180.png' ) ); ?>" />
+
+	
+<?php wp_head(); ?>
+</head>
+<body  class="home wp-singular page-template page-template-page-templates page-template-template-pagebuilder-full-width page-template-page-templatestemplate-pagebuilder-full-width-php page page-id-2 wp-theme-neve ehf-footer ehf-template-neve ehf-stylesheet-neve  nv-blog-grid nv-sidebar-full-width menu_sidebar_slide_left elementor-default elementor-template-full-width elementor-kit-18 elementor-page elementor-page-2" id="neve_body"  >
+<?php wp_body_open(); ?>
+<div class="wrapper">
+	
+	<a class="neve-skip-link show-on-focus" href="#content" >
+		Skip to content	</a>
+
+		<header class="header"  >
+		<div id="header-grid"  class="hfg_header site-header">
+	<div class="header--row header-top hide-on-mobile hide-on-tablet layout-full-contained has-center header--row"
+	data-row-id="top" data-show-on="desktop">
+
+	<div
+		class="header--row-inner header-top-inner">
+		<div class="container">
+			<div
+				class="row row--wrapper"
+				data-section="hfg_header_layout_top" >
+				<div class="hfg-slot left"></div><div class="hfg-slot center"><div class="builder-item desktop-left"><div class="item--inner builder-item--logo"
+		data-section="title_tagline"
+		data-item-id="logo">
+	
+<div class="site-logo">
+	<a class="brand" href="<?php echo esc_url( home_url( '/' ) ); ?>" aria-label="TNT Private Boxing No.1 Boxing Gym in Los Angeles, Little Tokyo" rel="home"><img fetchpriority="high" width="750" height="673" src="<?php echo esc_url( content_url( 'uploads/2024/10/logo.png' ) ); ?>" class="neve-site-logo skip-lazy" alt="" data-variant="logo" decoding="async" srcset="<?php echo esc_url( content_url( 'uploads/2024/10/logo.png' ) ); ?> 750w, <?php echo esc_url( content_url( 'uploads/2024/10/logo-300x269.png' ) ); ?> 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></div>
+	</div>
+
+</div></div><div class="hfg-slot right"></div>							</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="header--row header-main hide-on-mobile hide-on-tablet layout-full-contained nv-navbar has-center header--row"
+	data-row-id="main" data-show-on="desktop">
+
+	<div
+		class="header--row-inner header-main-inner">
+		<div class="container">
+			<div
+				class="row row--wrapper"
+				data-section="hfg_header_layout_main" >
+				<div class="hfg-slot left"></div><div class="hfg-slot center"><div class="builder-item has-nav"><div class="item--inner builder-item--primary-menu has_menu"
+		data-section="header_menu_primary"
+		data-item-id="primary-menu">
+	<div class="nv-nav-wrap">
+	<div role="navigation" class="nav-menu-primary"
+			aria-label="Primary Menu (Desktop)">
+
+		<ul id="nv-primary-navigation-desktop-main" class="primary-menu-ul nav-ul menu-desktop"><li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-44 nv-active"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" aria-current="page">Top</a></div></li>
+<li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712"><div class="wrap"><a href="<?php echo esc_url( home_url( '/about-us/' ) ); ?>">About</a></div></li>
+<li id="menu-item-479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-479"><div class="wrap"><a href="<?php echo esc_url( home_url( '/news/' ) ); ?>">News</a></div></li>
+<li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-46 nv-active"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#class" aria-current="page">Class</a></div></li>
+<li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-48 nv-active"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#location" aria-current="page">Location</a></div></li>
+<li id="menu-item-1083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1083"><div class="wrap"><a href="#faq">FAQ</a></div></li>
+<li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-49 nv-active"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#contact" aria-current="page">Contact</a></div></li>
+</ul>	</div>
+</div>
+
+	</div>
+
+</div></div><div class="hfg-slot right"></div>							</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="header--row header-main hide-on-desktop layout-full-contained nv-navbar header--row"
+	data-row-id="main" data-show-on="mobile">
+
+	<div
+		class="header--row-inner header-main-inner">
+		<div class="container">
+			<div
+				class="row row--wrapper"
+				data-section="hfg_header_layout_main" >
+				<div class="hfg-slot left"><div class="builder-item tablet-left mobile-left"><div class="item--inner builder-item--logo"
+		data-section="title_tagline"
+		data-item-id="logo">
+	
+<div class="site-logo">
+	<a class="brand" href="<?php echo esc_url( home_url( '/' ) ); ?>" aria-label="TNT Private Boxing No.1 Boxing Gym in Los Angeles, Little Tokyo" rel="home"><img fetchpriority="high" width="750" height="673" src="<?php echo esc_url( content_url( 'uploads/2024/10/logo.png' ) ); ?>" class="neve-site-logo skip-lazy" alt="" data-variant="logo" decoding="async" srcset="<?php echo esc_url( content_url( 'uploads/2024/10/logo.png' ) ); ?> 750w, <?php echo esc_url( content_url( 'uploads/2024/10/logo-300x269.png' ) ); ?> 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></div>
+	</div>
+
+</div></div><div class="hfg-slot right"><div class="builder-item tablet-left mobile-left"><div class="item--inner builder-item--nav-icon"
+		data-section="header_menu_icon"
+		data-item-id="nav-icon">
+	<div class="menu-mobile-toggle item-button navbar-toggle-wrapper">
+	<button type="button" class=" navbar-toggle"
+		 aria-label="Navigation Menu"			aria-expanded="false" onclick="if('undefined' !== typeof toggleAriaClick ) { toggleAriaClick() }">
+					<span class="bars">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</span>
+					<span class="screen-reader-text">Navigation Menu</span>
+	</button>
+</div> <!--.navbar-toggle-wrapper-->
+
+
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</div>
+
+<div
+		id="header-menu-sidebar" class="header-menu-sidebar tcb menu-sidebar-panel slide_left hfg-pe"
+		data-row-id="sidebar">
+	<div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg">
+				<div class="close-sidebar-panel navbar-toggle-wrapper">
+			<button type="button" class="hamburger is-active  navbar-toggle active" 										aria-expanded="false" onclick="if('undefined' !== typeof toggleAriaClick ) { toggleAriaClick() }">
+								<span class="bars">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</span>
+								<span class="screen-reader-text">
+			Navigation Menu					</span>
+			</button>
+		</div>
+					<div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner tcb ">
+						<div class="builder-item has-nav"><div class="item--inner builder-item--primary-menu has_menu"
+		data-section="header_menu_primary"
+		data-item-id="primary-menu">
+	<div class="nv-nav-wrap">
+	<div role="navigation" class="nav-menu-primary"
+			aria-label="Primary Menu (Mobile)">
+
+		<ul id="nv-primary-navigation-mobile-sidebar" class="primary-menu-ul nav-ul menu-mobile"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-44 nv-active"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" aria-current="page">Top</a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712"><div class="wrap"><a href="<?php echo esc_url( home_url( '/about-us/' ) ); ?>">About</a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-479"><div class="wrap"><a href="<?php echo esc_url( home_url( '/news/' ) ); ?>">News</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-46 nv-active"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#class" aria-current="page">Class</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-48 nv-active"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#location" aria-current="page">Location</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1083"><div class="wrap"><a href="#faq">FAQ</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-49 nv-active"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#contact" aria-current="page">Contact</a></div></li>
+</ul>	</div>
+</div>
+
+	</div>
+
+</div>					</div>
+	</div>
+</div>
+<div class="header-menu-sidebar-overlay hfg-ov hfg-pe" onclick="if('undefined' !== typeof toggleAriaClick ) { toggleAriaClick() }"></div>
+</div>
+	</header>
+		
+	
+
+	
+	<main id="content" class="neve-main" tabindex="-1">
+
+		<div data-elementor-type="wp-page" data-elementor-id="2" class="elementor elementor-2">
+				<div class="elementor-element elementor-element-0ac2869 e-con-full video e-flex e-con e-parent" data-id="0ac2869" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-4b6941f elementor-widget elementor-widget-video" data-id="4b6941f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;autoplay&quot;:&quot;yes&quot;,&quot;play_on_mobile&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;hosted&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="<?php echo esc_url( content_url( 'uploads/2024/10/Boxing_Video_Ver1.mp4' ) ); ?>" autoplay="" loop="" muted="muted" playsinline="" controlsList="nodownload"></video>
+				</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-108a231 top e-flex e-con-boxed e-con e-parent" data-id="108a231" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6361705 elementor-widget elementor-widget-text-editor" data-id="6361705" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Best Boxing Gym in Los Angeles</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2822721 elementor-widget elementor-widget-heading" data-id="2822721" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">LA's No.1 <br>Boxing Gym</h1>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c63169c e-flex e-con-boxed e-con e-parent" data-id="c63169c" data-element_type="container" data-e-type="container" id="champion">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-e02b5b1 e-con-full e-flex e-con e-child" data-id="e02b5b1" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-bb707cd bgheading elementor-widget elementor-widget-heading" data-id="bb707cd" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Champions</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1c2336d txtovertxt elementor-widget elementor-widget-text-editor" data-id="1c2336d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>our champions</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-eed8e07 e-grid e-con-full e-con e-child" data-id="eed8e07" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-bac1e8a e-con-full e-flex e-con e-child" data-id="bac1e8a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-9dc9a7e elementor-widget elementor-widget-image" data-id="9dc9a7e" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1000" height="667" src="<?php echo esc_url( content_url( 'uploads/2024/10/DSC00187.jpg' ) ); ?>" class="attachment-large size-large wp-image-146" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2024/10/DSC00187.jpg' ) ); ?> 1000w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC00187-300x200.jpg' ) ); ?> 300w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC00187-768x512.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC00187-930x620.jpg' ) ); ?> 930w" sizes="(max-width: 1000px) 100vw, 1000px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-0b41414 elementor-widget elementor-widget-heading" data-id="0b41414" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Junto <br>Nakatani</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0206335 elementor-widget elementor-widget-text-editor" data-id="0206335" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Junto Nakatani, a rising star in Japanese boxing, is known for his impressive skills and undefeated record. With a professional record of 31 wins, including 24 by knockout, he has captured world titles in three weight divisions. Nakatani held the WBO flyweight title from 2020 to 2022, claimed the WBO super flyweight title in 2023, and currently reigns as the WBC bantamweight champion. Fighting with a southpaw stance, his technical prowess and knockout power have earned him recognition on the global stage, including The Ring magazine&#8217;s Knockout of the Year for his victory over Andrew Moloney in 2023.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1ebd8f8 e-con-full e-flex e-con e-child" data-id="1ebd8f8" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-b7e997c elementor-widget elementor-widget-image" data-id="b7e997c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="946" height="710" src="<?php echo esc_url( content_url( 'uploads/2024/10/DSC00230-e1728971391280.jpg' ) ); ?>" class="attachment-large size-large wp-image-147" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2024/10/DSC00230-e1728971391280.jpg' ) ); ?> 946w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC00230-e1728971391280-300x225.jpg' ) ); ?> 300w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC00230-e1728971391280-768x576.jpg' ) ); ?> 768w" sizes="(max-width: 946px) 100vw, 946px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-9726114 elementor-widget elementor-widget-heading" data-id="9726114" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Anthony <br>Olascuaga</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ee137b2 elementor-widget elementor-widget-text-editor" data-id="ee137b2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<div class="flex-shrink-0 flex flex-col relative items-end"><div><div class="pt-0"><div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full"><div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"> </div></div></div></div></div><div class="group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn"><div class="flex-col gap-1 md:gap-3"><div class="flex max-w-full flex-col flex-grow"><div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="d3e48cf1-a30b-42f3-aa16-45d51a05a383" data-message-model-slug="gpt-4o"><div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"><div class="markdown prose w-full break-words dark:prose-invert dark"><p>Anthony Olascuaga, known by his nickname &#8220;Princesa,&#8221; is a rising star in the flyweight division of professional boxing. With an impressive record of 9 wins, including 6 by knockout, and just 1 loss, he has quickly made a name for himself in the sport. Olascuaga captured the WBO flyweight title, showcasing his skill, power, and determination in the ring. As he continues to defend his title and climb the ranks, he is establishing himself as a formidable force in the boxing world.</p></div></div></div></div></div></div>								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e8bac59 e-con-full e-flex e-con e-parent" data-id="e8bac59" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-d26c26d elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel" data-id="d26c26d" data-element_type="widget" data-e-type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;autoplay_speed&quot;:4000,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;slides_to_show_tablet&quot;:&quot;3&quot;,&quot;slides_to_show_mobile&quot;:&quot;2&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 10"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="d26c26d" data-elementor-lightbox-title="Artboard 1" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTU2LCJ1cmwiOiJodHRwczpcL1wvbGFib3hpbmdneW0ubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMFwvQXJ0Ym9hcmQtMS5qcGciLCJzbGlkZXNob3ciOiJkMjZjMjZkIn0%3D" href="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-1.jpg' ) ); ?>"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-1.jpg' ) ); ?>" alt="Artboard 1" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 10"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="d26c26d" data-elementor-lightbox-title="Artboard 9" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTY0LCJ1cmwiOiJodHRwczpcL1wvbGFib3hpbmdneW0ubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMFwvQXJ0Ym9hcmQtOS5qcGciLCJzbGlkZXNob3ciOiJkMjZjMjZkIn0%3D" href="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-9.jpg' ) ); ?>"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-9.jpg' ) ); ?>" alt="Artboard 9" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 10"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="d26c26d" data-elementor-lightbox-title="Artboard 3" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTU4LCJ1cmwiOiJodHRwczpcL1wvbGFib3hpbmdneW0ubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMFwvQXJ0Ym9hcmQtMy5qcGciLCJzbGlkZXNob3ciOiJkMjZjMjZkIn0%3D" href="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-3.jpg' ) ); ?>"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-3.jpg' ) ); ?>" alt="Artboard 3" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 10"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="d26c26d" data-elementor-lightbox-title="Artboard 5" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTYwLCJ1cmwiOiJodHRwczpcL1wvbGFib3hpbmdneW0ubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMFwvQXJ0Ym9hcmQtNS5qcGciLCJzbGlkZXNob3ciOiJkMjZjMjZkIn0%3D" href="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-5.jpg' ) ); ?>"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-5.jpg' ) ); ?>" alt="Artboard 5" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 10"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="d26c26d" data-elementor-lightbox-title="Artboard 10" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTY1LCJ1cmwiOiJodHRwczpcL1wvbGFib3hpbmdneW0ubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMFwvQXJ0Ym9hcmQtMTAuanBnIiwic2xpZGVzaG93IjoiZDI2YzI2ZCJ9" href="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-10.jpg' ) ); ?>"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-10.jpg' ) ); ?>" alt="Artboard 10" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 10"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="d26c26d" data-elementor-lightbox-title="Artboard 2" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTU3LCJ1cmwiOiJodHRwczpcL1wvbGFib3hpbmdneW0ubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMFwvQXJ0Ym9hcmQtMi5qcGciLCJzbGlkZXNob3ciOiJkMjZjMjZkIn0%3D" href="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-2.jpg' ) ); ?>"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-2.jpg' ) ); ?>" alt="Artboard 2" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 of 10"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="d26c26d" data-elementor-lightbox-title="Artboard 6" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTYxLCJ1cmwiOiJodHRwczpcL1wvbGFib3hpbmdneW0ubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMFwvQXJ0Ym9hcmQtNi5qcGciLCJzbGlkZXNob3ciOiJkMjZjMjZkIn0%3D" href="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-6.jpg' ) ); ?>"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-6.jpg' ) ); ?>" alt="Artboard 6" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 of 10"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="d26c26d" data-elementor-lightbox-title="Artboard 8" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTYzLCJ1cmwiOiJodHRwczpcL1wvbGFib3hpbmdneW0ubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMFwvQXJ0Ym9hcmQtOC5qcGciLCJzbGlkZXNob3ciOiJkMjZjMjZkIn0%3D" href="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-8.jpg' ) ); ?>"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-8.jpg' ) ); ?>" alt="Artboard 8" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 of 10"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="d26c26d" data-elementor-lightbox-title="Artboard 7" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTYyLCJ1cmwiOiJodHRwczpcL1wvbGFib3hpbmdneW0ubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMFwvQXJ0Ym9hcmQtNy5qcGciLCJzbGlkZXNob3ciOiJkMjZjMjZkIn0%3D" href="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-7.jpg' ) ); ?>"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-7.jpg' ) ); ?>" alt="Artboard 7" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 of 10"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="d26c26d" data-elementor-lightbox-title="Artboard 4" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTU5LCJ1cmwiOiJodHRwczpcL1wvbGFib3hpbmdneW0ubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMFwvQXJ0Ym9hcmQtNC5qcGciLCJzbGlkZXNob3ciOiJkMjZjMjZkIn0%3D" href="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-4.jpg' ) ); ?>"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-4.jpg' ) ); ?>" alt="Artboard 4" /></figure></a></div>			</div>
+												<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>					</div>
+				
+									</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e31f7ba e-flex e-con-boxed e-con e-parent" data-id="e31f7ba" data-element_type="container" data-e-type="container" id="coach" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-a547d83 e-con-full e-flex e-con e-child" data-id="a547d83" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-95dd69a bgheading elementor-widget elementor-widget-heading" data-id="95dd69a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Coaches</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8444056 txtovertxt elementor-widget elementor-widget-text-editor" data-id="8444056" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>COACHES</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0fec72e e-grid e-con-full e-con e-child" data-id="0fec72e" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-5e7fde9 e-con-full e-flex e-con e-child" data-id="5e7fde9" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6a00fa7 elementor-widget elementor-widget-image" data-id="6a00fa7" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1707" height="2560" src="<?php echo esc_url( content_url( 'uploads/2025/01/DSC06624-scaled.jpg' ) ); ?>" class="attachment-full size-full wp-image-1061" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2025/01/DSC06624-scaled.jpg' ) ); ?> 1707w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06624-200x300.jpg' ) ); ?> 200w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06624-683x1024.jpg' ) ); ?> 683w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06624-768x1152.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06624-1024x1536.jpg' ) ); ?> 1024w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06624-1365x2048.jpg' ) ); ?> 1365w" sizes="(max-width: 1707px) 100vw, 1707px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9d36e72 e-con-full e-flex e-con e-child" data-id="9d36e72" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-3221f80 elementor-widget elementor-widget-heading" data-id="3221f80" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Rudy Hernandez
+</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ccf1cf6 elementor-widget elementor-widget-heading" data-id="ccf1cf6" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">World-Class Boxing Coach at TNT Private Boxing in Downtown Los Angeles</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-140d309 elementor-widget elementor-widget-text-editor" data-id="140d309" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="p1">Rudy Hernandez, a distinguished boxing coach with decades of experience, brings world-class expertise to TNT Private Boxing. Having trained world champions like Junto Nakatani and Anthony Olascuaga, Rudy is celebrated for his commitment to excellence and his skill in developing tailored training programs focused on power, precision, and endurance. In addition to private coaching, Rudy will lead group classes, providing members with elite instruction designed to enhance technique, build strength, and boost confidence. Whether you&#8217;re stepping into the ring for the first time or refining advanced techniques, Rudy’s coaching will help you reach your peak. Train with Rudy Hernandez at TNT Private Boxing in Downtown Los Angeles and experience the level of coaching that shapes champions!</p>								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4d520c2 e-grid e-con-full reverse e-con e-child" data-id="4d520c2" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-c95f9a8 e-con-full e-flex e-con e-child" data-id="c95f9a8" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-26cf474 elementor-widget elementor-widget-image" data-id="26cf474" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="2560" height="1707" src="<?php echo esc_url( content_url( 'uploads/2025/01/DSC06564-scaled.jpg' ) ); ?>" class="attachment-full size-full wp-image-1068" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2025/01/DSC06564-scaled.jpg' ) ); ?> 2560w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06564-300x200.jpg' ) ); ?> 300w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06564-1024x683.jpg' ) ); ?> 1024w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06564-768x512.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06564-1536x1024.jpg' ) ); ?> 1536w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06564-2048x1365.jpg' ) ); ?> 2048w, <?php echo esc_url( content_url( 'uploads/2025/01/DSC06564-930x620.jpg' ) ); ?> 930w" sizes="(max-width: 2560px) 100vw, 2560px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-afccb08 e-con-full e-flex e-con e-child" data-id="afccb08" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7b3837e elementor-widget elementor-widget-heading" data-id="7b3837e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Anthony Olascuaga  
+</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-22ec35e elementor-widget elementor-widget-heading" data-id="22ec35e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Current WBO Flyweight World Champion &amp; Boxing Coach in Los Angeles
+</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1ca90e8 elementor-widget elementor-widget-text-editor" data-id="1ca90e8" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="p1">Experience elite boxing training with Anthony Olascuaga, the current WBO Flyweight World Champion, offering private sessions in Los Angeles. With championship expertise and a deep commitment to skill development, Anthony provides one-on-one boxing and strength training tailored to each client’s needs. His focused coaching emphasizes technique, power, and endurance, helping athletes of all levels—beginners to advanced—reach peak performance. Whether you want to step into the ring or sharpen your competitive skills, training with a world champion like Anthony brings unparalleled expertise and results.</p>								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5506da5 e-grid e-con-full e-con e-child" data-id="5506da5" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-a115944 e-con-full e-flex e-con e-child" data-id="a115944" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7c8dff9 elementor-widget elementor-widget-image" data-id="7c8dff9" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="474" height="546" src="<?php echo esc_url( content_url( 'uploads/2024/11/Adrian-Alvarado0A.jpg' ) ); ?>" class="attachment-full size-full wp-image-600" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2024/11/Adrian-Alvarado0A.jpg' ) ); ?> 474w, <?php echo esc_url( content_url( 'uploads/2024/11/Adrian-Alvarado0A-260x300.jpg' ) ); ?> 260w" sizes="(max-width: 474px) 100vw, 474px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fdd0533 e-con-full e-flex e-con e-child" data-id="fdd0533" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-9af6186 elementor-widget elementor-widget-heading" data-id="9af6186" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Adrian Alvarado
+</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-90220de elementor-widget elementor-widget-heading" data-id="90220de" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Professional Boxer &amp; Coach at TNT Private Boxing in Downtown Los Angeles</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-136f103 elementor-widget elementor-widget-text-editor" data-id="136f103" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="p1">Adrian Alvarado, a current professional boxer and dedicated coach, brings his passion and expertise to TNT Private Boxing. Known for his high-energy coaching style and deep understanding of the sport, Adrian leads many of the gym&#8217;s group classes, focusing on developing power, technique, and endurance. With years of experience both in the ring and in training others, Adrian offers members an authentic, challenging workout experience that sharpens skills and builds confidence. Whether you’re starting your boxing journey or enhancing advanced skills, train with Adrian Alvarado at TNT Private Boxing in Downtown Los Angeles for world-class coaching that drives results.</p>								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5a2e864 e-grid e-con-full reverse e-con e-child" data-id="5a2e864" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-7ad56ff e-con-full e-flex e-con e-child" data-id="7ad56ff" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7dd922b elementor-widget elementor-widget-image" data-id="7dd922b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="768" height="1024" src="<?php echo esc_url( content_url( 'uploads/2025/01/IMG_7451-768x1024.jpg' ) ); ?>" class="attachment-large size-large wp-image-1049" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2025/01/IMG_7451-768x1024.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2025/01/IMG_7451-225x300.jpg' ) ); ?> 225w, <?php echo esc_url( content_url( 'uploads/2025/01/IMG_7451-1152x1536.jpg' ) ); ?> 1152w, <?php echo esc_url( content_url( 'uploads/2025/01/IMG_7451-1536x2048.jpg' ) ); ?> 1536w, <?php echo esc_url( content_url( 'uploads/2025/01/IMG_7451-scaled.jpg' ) ); ?> 1920w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-dc5dd3b e-con-full e-flex e-con e-child" data-id="dc5dd3b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-53a223e elementor-widget elementor-widget-heading" data-id="53a223e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Junior Alvarado
+</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-eaba42c elementor-widget elementor-widget-heading" data-id="eaba42c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Experienced Boxing Coach at TNT Private Boxing</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e000e4b elementor-widget elementor-widget-text-editor" data-id="e000e4b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="p1">Junior Alvarado is a skilled boxing coach known for his technical approach and dedication to helping fighters develop strength, speed, and precision. With years of experience in both competitive boxing and training athletes, Junior specializes in tailoring workouts to individual skill levels, focusing on technique, conditioning, and in-ring strategy. His coaching style is hands-on and supportive, guiding boxers to reach their peak performance while building confidence and resilience. Junior Alvarado&#8217;s commitment to excellence has made him a respected figure in the boxing community, trusted by athletes at all stages of their boxing journey.</p>								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ca8b6e4 e-grid e-con-full e-con e-child" data-id="ca8b6e4" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-16bf054 e-grid e-con-full e-con e-child" data-id="16bf054" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-0d10781 e-con-full e-flex e-con e-child" data-id="0d10781" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-a605d37 elementor-widget elementor-widget-image" data-id="a605d37" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1920" height="2560" src="<?php echo esc_url( content_url( 'uploads/2025/01/IMG_7372-2-scaled.jpg' ) ); ?>" class="attachment-full size-full wp-image-1043" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2025/01/IMG_7372-2-scaled.jpg' ) ); ?> 1920w, <?php echo esc_url( content_url( 'uploads/2025/01/IMG_7372-2-225x300.jpg' ) ); ?> 225w, <?php echo esc_url( content_url( 'uploads/2025/01/IMG_7372-2-768x1024.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2025/01/IMG_7372-2-1152x1536.jpg' ) ); ?> 1152w, <?php echo esc_url( content_url( 'uploads/2025/01/IMG_7372-2-1536x2048.jpg' ) ); ?> 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6ab9478 e-con-full e-flex e-con e-child" data-id="6ab9478" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-13edb0f elementor-widget elementor-widget-heading" data-id="13edb0f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Aymen Foughali
+</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c4113e7 elementor-widget elementor-widget-heading" data-id="c4113e7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Experienced Muay Thai &amp; Boxing Instructor at TNT Private Boxing </h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e6950a6 elementor-widget elementor-widget-text-editor" data-id="e6950a6" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="p1">Starting his kickboxing journey at the young age of 8, he quickly fell in love with the sport. His dedication and hard work paid off as he rose to become a three-time Tunisian Kickboxing Champion and a two-time African Champion under the World Kickboxing Federation (WKF). With an impressive professional fighting record of 17-4, his career has taken him around the globe, competing in countries like Tunisia, Morocco, Algeria, Egypt, Nigeria, Ivory Coast, Lebanon, Turkey, Spain, and France.</p>								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-20e5ee4 e-con-full e-flex e-con e-child" data-id="20e5ee4" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-38b4639 e-grid e-con-full e-con e-child" data-id="38b4639" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-97fd9b6 e-con-full e-flex e-con e-child" data-id="97fd9b6" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-ccf018c elementor-widget elementor-widget-image" data-id="ccf018c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1920" height="2560" src="<?php echo esc_url( content_url( 'uploads/2025/02/IMG_7466-scaled.jpg' ) ); ?>" class="attachment-full size-full wp-image-1293" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2025/02/IMG_7466-scaled.jpg' ) ); ?> 1920w, <?php echo esc_url( content_url( 'uploads/2025/02/IMG_7466-225x300.jpg' ) ); ?> 225w, <?php echo esc_url( content_url( 'uploads/2025/02/IMG_7466-768x1024.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2025/02/IMG_7466-1152x1536.jpg' ) ); ?> 1152w, <?php echo esc_url( content_url( 'uploads/2025/02/IMG_7466-1536x2048.jpg' ) ); ?> 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-dea88d6 e-con-full e-flex e-con e-child" data-id="dea88d6" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5f8c9fc elementor-widget elementor-widget-heading" data-id="5f8c9fc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Lee Garcia
+</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c6c58c8 elementor-widget elementor-widget-heading" data-id="c6c58c8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Experienced Muay Thai &amp; Boxing Instructor at TNT Private Boxing </h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9e276c0 elementor-widget elementor-widget-text-editor" data-id="9e276c0" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p data-start="41" data-end="369">With decades of experience in Muay Thai, Lee Garcia brings a wealth of knowledge and a passion for the art to every class. Whether you&#8217;re a beginner looking to build a strong foundation or an experienced fighter refining your technique, Lee’s structured and practical approach ensures that every student improves their skills.</p><p data-start="371" data-end="629">You can catch Lee bright and early at the 6:30 AM Early Bird class, where he helps students kick-start their day with high-energy training. He’s also available at 10 AM on Sundays, providing another opportunity to learn from his years of expertise.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a0fe49c e-grid e-con-full e-con e-child" data-id="a0fe49c" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-070456c e-grid e-con-full e-con e-child" data-id="070456c" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-2130b70 e-con-full e-flex e-con e-child" data-id="2130b70" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-d730296 elementor-widget elementor-widget-image" data-id="d730296" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1920" height="2560" src="<?php echo esc_url( content_url( 'uploads/2025/02/IMG_7629-scaled.jpg' ) ); ?>" class="attachment-full size-full wp-image-1288" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2025/02/IMG_7629-scaled.jpg' ) ); ?> 1920w, <?php echo esc_url( content_url( 'uploads/2025/02/IMG_7629-225x300.jpg' ) ); ?> 225w, <?php echo esc_url( content_url( 'uploads/2025/02/IMG_7629-768x1024.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2025/02/IMG_7629-1152x1536.jpg' ) ); ?> 1152w, <?php echo esc_url( content_url( 'uploads/2025/02/IMG_7629-1536x2048.jpg' ) ); ?> 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e7b8ec0 e-con-full e-flex e-con e-child" data-id="e7b8ec0" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-b3c10b2 elementor-widget elementor-widget-heading" data-id="b3c10b2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Mark Fulinara
+</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-772cbe4 elementor-widget elementor-widget-heading" data-id="772cbe4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Experienced Muay Thai Instructor at TNT Private Boxing </h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-32adc7e elementor-widget elementor-widget-text-editor" data-id="32adc7e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>A true student of the game, <span class="il">Mark</span> has been training Muay Thai for 25+ years and is always hungry to learn more about “The Art of Eight Limbs.”  He wants to help students perform techniques correctly, as well as teach them to think strategically and understand why something is effective in a given situation.  He believes that creating a safe and fun environment is the best way for a student to learn to unlock their potential and be as efficient and powerful as possible.</p><p> </p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-739c169 e-flex e-con-boxed e-con e-parent" data-id="739c169" data-element_type="container" data-e-type="container" id="class" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-50e2f99 e-con-full e-flex e-con e-child" data-id="50e2f99" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-a8183b1 bgheading elementor-widget elementor-widget-heading" data-id="a8183b1" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">class</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2cb783a txtovertxt elementor-widget elementor-widget-text-editor" data-id="2cb783a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>schedule</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-301405f e-con-full e-flex e-con e-child" data-id="301405f" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5cbcd95 elementor-widget elementor-widget-html" data-id="5cbcd95" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<iframe src='https://prd.wodify.com/WodifyCalendar/ClassSchedule?Token=ADADB8918AC8A102A25B17D141F49030895E52D99C40BA6DB075DC4978D4560531EF678006C58C687D8C903C2A040807FE9D5FEC3E276FC5AFD5D14FB42FA4D2E767A864F484A958AB8B4ACF87D23202' frameborder='0' width='100%' height='600' style='border-radius: 8px;'></iframe>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1db6533 e-flex e-con-boxed e-con e-parent" data-id="1db6533" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-878355c e-con-full e-flex e-con e-child" data-id="878355c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-b53b5a9 bgheading elementor-widget elementor-widget-heading" data-id="b53b5a9" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">facility</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-75c7a08 txtovertxt elementor-widget elementor-widget-text-editor" data-id="75c7a08" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>facility</p>								</div>
+				</div>
+		<div class="elementor-element elementor-element-afbd06d e-grid e-con-full membership e-con e-child" data-id="afbd06d" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-e6d2b0b e-con-full e-flex e-con e-child" data-id="e6d2b0b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-d00b28d elementor-widget elementor-widget-heading" data-id="d00b28d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">2 Hours Free Parking</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7248a08 elementor-widget elementor-widget-text-editor" data-id="7248a08" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Members may park in either of the garages located within the AVA apartment complex. Please remember to note your license plate number for smooth validation.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-113c856 e-con-full e-flex e-con e-child" data-id="113c856" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-f669ef2 elementor-widget elementor-widget-heading" data-id="f669ef2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Showers</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3c5cf5b elementor-widget elementor-widget-text-editor" data-id="3c5cf5b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Our facility includes clean and well-maintained showers, offering a comfortable space to refresh after your training session.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c9f3d02 e-con-full e-flex e-con e-child" data-id="c9f3d02" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-e392230 elementor-widget elementor-widget-heading" data-id="e392230" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Small Class Size</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5c6176e elementor-widget elementor-widget-text-editor" data-id="5c6176e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Our small class sizes ensure a personalized and focused training experience, allowing for individualized attention and optimal learning.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6dbb574 e-flex e-con-boxed e-con e-parent" data-id="6dbb574" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-1635657 e-con-full e-flex e-con e-child" data-id="1635657" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-f519091 bgheading elementor-widget elementor-widget-heading" data-id="f519091" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">membership</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-355eab2 txtovertxt elementor-widget elementor-widget-text-editor" data-id="355eab2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>options</p>								</div>
+				</div>
+		<div class="elementor-element elementor-element-bd26b16 e-grid e-con-full membership e-con e-child" data-id="bd26b16" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-d38fa19 e-con-full e-flex e-con e-child" data-id="d38fa19" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7c96d91 elementor-widget elementor-widget-heading" data-id="7c96d91" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">4 classes per month</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-33947b3 elementor-widget elementor-widget-text-editor" data-id="33947b3" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Perfect for those looking to dip their toes into boxing and Muay Thai on their schedule.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-071b290 e-con-full e-flex e-con e-child" data-id="071b290" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-9f61d38 elementor-widget elementor-widget-heading" data-id="9f61d38" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">8 classes per month</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3af2e54 elementor-widget elementor-widget-text-editor" data-id="3af2e54" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Choose any two days each week to sharpen your skills and reach your goals.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-190dfdd e-con-full e-flex e-con e-child" data-id="190dfdd" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-e93de2e elementor-widget elementor-widget-heading" data-id="e93de2e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Unlimited Access</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2225956 elementor-widget elementor-widget-text-editor" data-id="2225956" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>The ultimate package! Come anytime, take as many classes as you want, and immerse yourself fully in every punch and kick we offer!</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-98284a7 e-con-full e-flex e-con e-child" data-id="98284a7" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-621e94f elementor-widget elementor-widget-heading" data-id="621e94f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Kids membership</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b403f69 elementor-widget elementor-widget-text-editor" data-id="b403f69" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Unlimited access for children and teens aged 5 to 18.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4481a30 e-con-full e-flex e-con e-child" data-id="4481a30" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-bd14b51 elementor-widget elementor-widget-heading" data-id="bd14b51" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Open Gym</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c9333a6 elementor-widget elementor-widget-text-editor" data-id="c9333a6" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Use our facility during our non-class hours.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b87e11c e-con-full e-flex e-con e-child" data-id="b87e11c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-7176109 elementor-widget elementor-widget-heading" data-id="7176109" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">other</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7a0d656 elementor-widget elementor-widget-text-editor" data-id="7a0d656" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Please contact the gym below</p><p> </p><p>*All Membership auto-renew</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d98ee45 txtovertxt elementor-widget elementor-widget-text-editor" data-id="d98ee45" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p> </p><p> </p><h6><span style="font-family: var(--bodyfontfamily), var(--nv-fallback-ff); font-weight: var( --e-global-typography-text-font-weight ); letter-spacing: var(--bodyletterspacing);">2 months commitment</span></h6>								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9166193 e-flex e-con-boxed e-con e-parent" data-id="9166193" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-afeb911 e-con-full e-flex e-con e-child" data-id="afeb911" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-c4ab48e bgheading elementor-widget elementor-widget-heading" data-id="c4ab48e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Class</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-18d9fae txtovertxt elementor-widget elementor-widget-text-editor" data-id="18d9fae" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Packs</p>								</div>
+				</div>
+		<div class="elementor-element elementor-element-3f276bc e-grid e-con-full membership e-con e-child" data-id="3f276bc" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-6cd57a9 e-con-full e-flex e-con e-child" data-id="6cd57a9" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-243ef4e elementor-widget elementor-widget-heading" data-id="243ef4e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Day Pass</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ab0781c elementor-widget elementor-widget-text-editor" data-id="ab0781c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Get full access to our gym for a day! Enjoy top-notch equipment, expert facilities and train.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d0a442b e-con-full e-flex e-con e-child" data-id="d0a442b" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-49a08a6 elementor-widget elementor-widget-heading" data-id="49a08a6" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">3 Class Pack</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1406c31 elementor-widget elementor-widget-text-editor" data-id="1406c31" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Perfect for travelers or to just try it out. Enjoy three classes of your choice while you&#8217;re in town—no long-term commitment, just great workouts!</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6a0e266 e-con-full e-flex e-con e-child" data-id="6a0e266" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-114f82d elementor-widget elementor-widget-heading" data-id="114f82d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">5 Class Pack</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-cd08b56 elementor-widget elementor-widget-text-editor" data-id="cd08b56" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Stay active on your schedule with our 5-class pack! Perfect for travelers or those looking for flexibility—no commitment, just great workouts!</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-63c6537 e-con-full e-flex e-con e-child" data-id="63c6537" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-fa1e46a elementor-widget elementor-widget-heading" data-id="fa1e46a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">10 Class Pack</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7c6f6dc elementor-widget elementor-widget-text-editor" data-id="7c6f6dc" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Enjoy flexibility with our 10-class pack! No commitment—just great workouts on your schedule.</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-510757a e-con-full e-flex e-con e-child" data-id="510757a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-1dad7c6 elementor-widget elementor-widget-heading" data-id="1dad7c6" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Corporate Events</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-42b76a1 elementor-widget elementor-widget-text-editor" data-id="42b76a1" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Please contact the gym below</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9c46db8 e-con-full e-flex e-con e-child" data-id="9c46db8" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-585bf10 elementor-widget elementor-widget-heading" data-id="585bf10" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">other</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-21cadfc elementor-widget elementor-widget-text-editor" data-id="21cadfc" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Please contact the gym below</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b3b277c e-flex e-con-boxed e-con e-parent" data-id="b3b277c" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-2391e80 e-con-full e-flex e-con e-child" data-id="2391e80" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-87eb922 bgheading elementor-widget elementor-widget-heading" data-id="87eb922" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">instagram</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-851e3e4 txtovertxt elementor-widget elementor-widget-text-editor" data-id="851e3e4" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>follow us</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-645fb4c e-grid e-con-full e-con e-child" data-id="645fb4c" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-b8b24eb elementor-widget elementor-widget-html" data-id="b8b24eb" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<blockquote class="instagram-media" data-instgrm-permalink="#?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style="background:#000000; border:0; border-radius:0px; margin: 1px; max-width:100%; min-width:300px; padding:0; width:100%;"><div style="padding:16px;">
+    <a href="#?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:transparent; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> 
+    <div style=" display: flex; flex-direction: row; align-items: center;"> 
+    <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> 
+    <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> 
+    <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> 
+    <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div>
+    <div style="padding: 19% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a></div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
+
+<style>
+.instagram-media{
+    background: transparent !important;
+}
+#facebook body {
+        background: #ffffff00 !important;
+}
+.EmbedProfile {
+    background: #ffffff00 !important;
+}
+</style>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-98223a7 e-flex e-con-boxed e-con e-parent" data-id="98223a7" data-element_type="container" data-e-type="container" id="location" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-9c72e7c e-con-full e-flex e-con e-child" data-id="9c72e7c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-6dc932d bgheading elementor-widget elementor-widget-heading" data-id="6dc932d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Location</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d2975a4 txtovertxt elementor-widget elementor-widget-text-editor" data-id="d2975a4" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>location</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3fef050 e-grid e-con-full e-con e-child" data-id="3fef050" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-71a4837 e-grid e-con-full e-con e-child" data-id="71a4837" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-33b2223 e-con-full e-flex e-con e-child" data-id="33b2223" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-37da184 locationhd elementor-widget elementor-widget-text-editor" data-id="37da184" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h3>TNT Private Boxing</h3>								</div>
+				</div>
+				<div class="elementor-element elementor-element-77b2ef6 elementor-widget elementor-widget-text-editor" data-id="77b2ef6" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Address:</strong> 200 S Los Angeles St Suite C, Los Angeles, CA 90012 (Little Tokyo)</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-be653c9 elementor-shape-circle e-grid-align-left e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="be653c9" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e8e757c" href="#" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-b62c66c" href="#" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9ca0e99 elementor-widget elementor-widget-text-editor" data-id="9ca0e99" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Use <strong>#tntprivateboxing</strong> and share your experience!</p>								</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-97c2437 elementor-widget elementor-widget-google_maps" data-id="97c2437" data-element_type="widget" data-e-type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-custom-embed">
+			<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=200%20S%20Los%20Angeles%20St%20Suite%20C%2C%20Los%20Angeles%20CA%2090012&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near"
+					title="200 S Los Angeles St Suite C, Los Angeles CA 90012"
+					aria-label="200 S Los Angeles St Suite C, Los Angeles CA 90012"
+			></iframe>
+		</div>
+						</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-21cf46b elementor-widget elementor-widget-text-editor" data-id="21cf46b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>For details on how to join, come visit us at the gym! Our staff will be happy to assist you.</p>								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3c0401e e-flex e-con-boxed e-con e-parent" data-id="3c0401e" data-element_type="container" data-e-type="container" id="faq" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-c78adcf e-con-full e-flex e-con e-child" data-id="c78adcf" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-18723dc bgheading elementor-widget elementor-widget-heading" data-id="18723dc" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">FAQ</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9897e88 txtovertxt elementor-widget elementor-widget-text-editor" data-id="9897e88" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>FAQ</p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8f5d541 e-grid e-con-full e-con e-child" data-id="8f5d541" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-ca47614 elementor-widget elementor-widget-elementskit-faq" data-id="ca47614" data-element_type="widget" data-e-type="widget" data-widget_type="elementskit-faq.default">
+				<div class="elementor-widget-container">
+					<div class="ekit-wid-con" >
+                <div class="elementskit-single-faq elementor-repeater-item-c026537">
+           <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title">
+                    I don&#039;t have any gloves. Can I still attend the classes?                </h2>
+            </div>
+            <div class="elementskit-faq-body">
+                
+No worries! We provide wraps and gloves for free for your first three classes. After that, please bring your own or purchase them at our gym.            </div>
+        </div>
+                <div class="elementskit-single-faq elementor-repeater-item-80ddf51">
+           <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title">
+                    I don&#039;t have any martial arts experience. Can I still attend the class?                </h2>
+            </div>
+            <div class="elementskit-faq-body">
+                Of course! No experience? No problem! Our classes are beginner-friendly, and our expert coaches will guide you every step of the way. Just show up, have fun, and learn at your own pace!            </div>
+        </div>
+                <div class="elementskit-single-faq elementor-repeater-item-23a5c0c">
+           <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title">
+                    What should I wear?                </h2>
+            </div>
+            <div class="elementskit-faq-body">
+                Feel free to wear whatever makes you comfortable! Just a heads-up—Muay Thai classes are done barefoot.            </div>
+        </div>
+                <div class="elementskit-single-faq elementor-repeater-item-f840bef">
+           <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title">
+                    Is there sparring?                </h2>
+            </div>
+            <div class="elementskit-faq-body">
+                Sparring is completely optional. Just ask our trainers when the next sparring session is.            </div>
+        </div>
+                <div class="elementskit-single-faq elementor-repeater-item-abd25f4">
+           <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title">
+                    Can boxing help me get fit?                </h2>
+            </div>
+            <div class="elementskit-faq-body">
+                Absolutely! Boxing is a fantastic full-body workout that improves cardiovascular health, builds strength, enhances coordination, and helps with weight loss. It combines high-intensity movements with strength training, making it a great way to boost endurance, burn calories, and build lean muscle—all while having fun and relieving stress.            </div>
+        </div>
+                <div class="elementskit-single-faq elementor-repeater-item-0e6788b">
+           <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title">
+                    Will I get better at boxing/muay thai at TNT Private Boxing?                </h2>
+            </div>
+            <div class="elementskit-faq-body">
+                100%! At TNT Private Boxing, we have the best trainers dedicated to helping you improve your boxing and Muay Thai skills. Whether you're a beginner or an experienced fighter, our expert coaches provide personalized guidance and top-notch training to help you reach your goals and become the best version of yourself.            </div>
+        </div>
+                <div class="elementskit-single-faq elementor-repeater-item-682d6cc">
+           <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title">
+                    How can I sign up for my first class?                </h2>
+            </div>
+            <div class="elementskit-faq-body">
+                Come visit us during our open hours to sign up in person or send us an email below!            </div>
+        </div>
+                                <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"I don&#039;t have any gloves. Can I still attend the classes?","acceptedAnswer":{"@type":"Answer","text":"\nNo worries! We provide wraps and gloves for free for your first three classes. After that, please bring your own or purchase them at our gym."}},{"@type":"Question","name":"I don&#039;t have any martial arts experience. Can I still attend the class?","acceptedAnswer":{"@type":"Answer","text":"Of course! No experience? No problem! Our classes are beginner-friendly, and our expert coaches will guide you every step of the way. Just show up, have fun, and learn at your own pace!"}},{"@type":"Question","name":"What should I wear?","acceptedAnswer":{"@type":"Answer","text":"Feel free to wear whatever makes you comfortable! Just a heads-up—Muay Thai classes are done barefoot."}},{"@type":"Question","name":"Is there sparring?","acceptedAnswer":{"@type":"Answer","text":"Sparring is completely optional. Just ask our trainers when the next sparring session is."}},{"@type":"Question","name":"Can boxing help me get fit?","acceptedAnswer":{"@type":"Answer","text":"Absolutely! Boxing is a fantastic full-body workout that improves cardiovascular health, builds strength, enhances coordination, and helps with weight loss. It combines high-intensity movements with strength training, making it a great way to boost endurance, burn calories, and build lean muscle—all while having fun and relieving stress."}},{"@type":"Question","name":"Will I get better at boxing/muay thai at TNT Private Boxing?","acceptedAnswer":{"@type":"Answer","text":"100%! At TNT Private Boxing, we have the best trainers dedicated to helping you improve your boxing and Muay Thai skills. Whether you're a beginner or an experienced fighter, our expert coaches provide personalized guidance and top-notch training to help you reach your goals and become the best version of yourself."}},{"@type":"Question","name":"How can I sign up for my first class?","acceptedAnswer":{"@type":"Answer","text":"Come visit us during our open hours to sign up in person or send us an email below!"}}]}</script>
+                
+    </div>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d0b7376 e-flex e-con-boxed e-con e-parent" data-id="d0b7376" data-element_type="container" data-e-type="container" id="contact" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-99e2c96 e-con-full e-flex e-con e-child" data-id="99e2c96" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-e6b1059 txtovertxt elementor-widget elementor-widget-text-editor" data-id="e6b1059" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>contact</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-cf220e0 bgheading elementor-widget elementor-widget-heading" data-id="cf220e0" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Contact</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-84bddb5 e-grid e-con-full e-con e-child" data-id="84bddb5" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-329e53e elementor-widget elementor-widget-shortcode" data-id="329e53e" data-element_type="widget" data-e-type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode">
+<div class="wpcf7 no-js" id="wpcf7-f17-p2-o1" lang="en-US" dir="ltr" data-wpcf7-id="17">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="<?php echo esc_url( home_url( '/' ) ); ?>#wpcf7-f17-p2-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="17" /><input type="hidden" name="_wpcf7_version" value="6.2.5" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f17-p2-o1" /><input type="hidden" name="_wpcf7_container_post" value="2" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" /><input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</fieldset>
+<table class="inquiry">
+	<tr>
+		<td>
+			<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required textsp" aria-required="true" aria-invalid="false" placeholder="*Name" value="" type="text" name="your-name" /></span>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email mailsp" aria-required="true" aria-invalid="false" placeholder="*email" value="" type="email" name="your-email" /></span>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p><span class="wpcf7-form-control-wrap" data-name="tel"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel phonesp" aria-required="true" aria-invalid="false" placeholder="*Phone" value="" type="tel" name="tel" /></span>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p><span class="wpcf7-form-control-wrap" data-name="subject"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text textsp" aria-invalid="false" placeholder="Subject" value="" type="text" name="subject" /></span>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p><span class="wpcf7-form-control-wrap" data-name="message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required content" aria-required="true" aria-invalid="false" placeholder="*Write message..." name="message"></textarea></span>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p>By submitting this form, you agree to receive SMS text messages from TNT Private Boxing.<br />
+Messages may include class reminders, schedule updates, billing alerts, and important gym notifications.<br />
+Message & data rates may apply. Reply STOP to unsubscribe at any time.
+			</p>
+			<p><span class="wpcf7-form-control-wrap" data-name="sms-optin"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="sms-optin[]" value="I consent to receive SMS text messages from TNT Private Boxing." /><span class="wpcf7-list-item-label">I consent to receive SMS text messages from TNT Private Boxing.</span></span></span></span>
+			</p>
+		</td>
+	</tr>
+</table>
+<p style="text-align:center;">
+</p>
+<p><span id="wpcf7-6b0140ee3a1de-wrapper" class="wpcf7-form-control-wrap cf7apps-honeypot-wrap honeypot-953-wrap" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;"><input type="hidden" name="honeypot-953-time-start" value="1795244270"><input type="hidden" name="honeypot-953-time-check" value="10"><label for="wpcf7-6b0140ee3a1de-field" class="hp-message">Please leave this field empty.</label><input id="wpcf7-6b0140ee3a1de-field"  class="wpcf7-form-control wpcf7-text" type="text" name="honeypot-953" value="" autocomplete="new-password" tabindex="1000" data-cf7apps-tabindex="1000" /></span>
+</p>
+<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Submit" />
+</p><input type='hidden' class='wpcf7-pum' value='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		
+</main><!--/.neve-main-->
+
+		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'><style>.elementor-304 .elementor-element.elementor-element-5f0ebe0{--display:flex;--padding-top:50px;--padding-bottom:50px;--padding-left:20px;--padding-right:20px;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-304 .elementor-element.elementor-element-91cfb97 img{width:161px;max-width:100%;height:100%;}.elementor-widget-navigation-menu .menu-item a.hfe-menu-item.elementor-button{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-navigation-menu .menu-item a.hfe-menu-item.elementor-button:hover{background-color:var( --e-global-color-accent );}.elementor-widget-navigation-menu a.hfe-menu-item, .elementor-widget-navigation-menu a.hfe-sub-menu-item{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-navigation-menu .menu-item a.hfe-menu-item, .elementor-widget-navigation-menu .sub-menu a.hfe-sub-menu-item{color:var( --e-global-color-text );}.elementor-widget-navigation-menu .menu-item a.hfe-menu-item:hover,
+								.elementor-widget-navigation-menu .sub-menu a.hfe-sub-menu-item:hover,
+								.elementor-widget-navigation-menu .menu-item.current-menu-item a.hfe-menu-item,
+								.elementor-widget-navigation-menu .menu-item a.hfe-menu-item.highlighted,
+								.elementor-widget-navigation-menu .menu-item a.hfe-menu-item:focus{color:var( --e-global-color-accent );}.elementor-widget-navigation-menu .hfe-nav-menu-layout:not(.hfe-pointer__framed) .menu-item.parent a.hfe-menu-item:before,
+								.elementor-widget-navigation-menu .hfe-nav-menu-layout:not(.hfe-pointer__framed) .menu-item.parent a.hfe-menu-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-navigation-menu .hfe-nav-menu-layout:not(.hfe-pointer__framed) .menu-item.parent .sub-menu .hfe-has-submenu-container a:after{background-color:var( --e-global-color-accent );}.elementor-widget-navigation-menu .hfe-pointer__framed .menu-item.parent a.hfe-menu-item:before,
+								.elementor-widget-navigation-menu .hfe-pointer__framed .menu-item.parent a.hfe-menu-item:after{border-color:var( --e-global-color-accent );}
+							.elementor-widget-navigation-menu .sub-menu li a.hfe-sub-menu-item,
+							.elementor-widget-navigation-menu nav.hfe-dropdown li a.hfe-sub-menu-item,
+							.elementor-widget-navigation-menu nav.hfe-dropdown li a.hfe-menu-item,
+							.elementor-widget-navigation-menu nav.hfe-dropdown-expandible li a.hfe-menu-item,
+							.elementor-widget-navigation-menu nav.hfe-dropdown-expandible li a.hfe-sub-menu-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-304 .elementor-element.elementor-element-214be1b .menu-item a.hfe-menu-item{padding-left:15px;padding-right:15px;}.elementor-304 .elementor-element.elementor-element-214be1b .menu-item a.hfe-sub-menu-item{padding-left:calc( 15px + 20px );padding-right:15px;}.elementor-304 .elementor-element.elementor-element-214be1b .hfe-nav-menu__layout-vertical .menu-item ul ul a.hfe-sub-menu-item{padding-left:calc( 15px + 40px );padding-right:15px;}.elementor-304 .elementor-element.elementor-element-214be1b .hfe-nav-menu__layout-vertical .menu-item ul ul ul a.hfe-sub-menu-item{padding-left:calc( 15px + 60px );padding-right:15px;}.elementor-304 .elementor-element.elementor-element-214be1b .hfe-nav-menu__layout-vertical .menu-item ul ul ul ul a.hfe-sub-menu-item{padding-left:calc( 15px + 80px );padding-right:15px;}.elementor-304 .elementor-element.elementor-element-214be1b .menu-item a.hfe-menu-item, .elementor-304 .elementor-element.elementor-element-214be1b .menu-item a.hfe-sub-menu-item{padding-top:15px;padding-bottom:15px;}.elementor-304 .elementor-element.elementor-element-214be1b ul.sub-menu{width:220px;}.elementor-304 .elementor-element.elementor-element-214be1b .sub-menu a.hfe-sub-menu-item,
+						 .elementor-304 .elementor-element.elementor-element-214be1b nav.hfe-dropdown li a.hfe-menu-item,
+						 .elementor-304 .elementor-element.elementor-element-214be1b nav.hfe-dropdown li a.hfe-sub-menu-item,
+						 .elementor-304 .elementor-element.elementor-element-214be1b nav.hfe-dropdown-expandible li a.hfe-menu-item,
+						 .elementor-304 .elementor-element.elementor-element-214be1b nav.hfe-dropdown-expandible li a.hfe-sub-menu-item{padding-top:15px;padding-bottom:15px;}.elementor-304 .elementor-element.elementor-element-214be1b .menu-item a.hfe-menu-item, .elementor-304 .elementor-element.elementor-element-214be1b .sub-menu a.hfe-sub-menu-item{color:#FFFFFF;}.elementor-304 .elementor-element.elementor-element-214be1b .menu-item a.hfe-menu-item:hover,
+								.elementor-304 .elementor-element.elementor-element-214be1b .sub-menu a.hfe-sub-menu-item:hover,
+								.elementor-304 .elementor-element.elementor-element-214be1b .menu-item.current-menu-item a.hfe-menu-item,
+								.elementor-304 .elementor-element.elementor-element-214be1b .menu-item a.hfe-menu-item.highlighted,
+								.elementor-304 .elementor-element.elementor-element-214be1b .menu-item a.hfe-menu-item:focus{color:#9B9B9B;}.elementor-304 .elementor-element.elementor-element-214be1b .sub-menu,
+								.elementor-304 .elementor-element.elementor-element-214be1b nav.hfe-dropdown,
+								.elementor-304 .elementor-element.elementor-element-214be1b nav.hfe-dropdown-expandible,
+								.elementor-304 .elementor-element.elementor-element-214be1b nav.hfe-dropdown .menu-item a.hfe-menu-item,
+								.elementor-304 .elementor-element.elementor-element-214be1b nav.hfe-dropdown .menu-item a.hfe-sub-menu-item{background-color:#fff;}.elementor-304 .elementor-element.elementor-element-214be1b .sub-menu li.menu-item:not(:last-child),
+						.elementor-304 .elementor-element.elementor-element-214be1b nav.hfe-dropdown li.menu-item:not(:last-child),
+						.elementor-304 .elementor-element.elementor-element-214be1b nav.hfe-dropdown-expandible li.menu-item:not(:last-child){border-bottom-style:solid;border-bottom-color:#c4c4c4;border-bottom-width:1px;}.elementor-304 .elementor-element.elementor-element-22de2f1{--grid-template-columns:repeat(0, auto);--icon-size:30px;--grid-column-gap:0px;--grid-row-gap:0px;}.elementor-304 .elementor-element.elementor-element-22de2f1 .elementor-widget-container{text-align:center;}.elementor-304 .elementor-element.elementor-element-22de2f1 .elementor-social-icon{background-color:#FFFFFF00;--icon-padding:0.1em;}.elementor-304 .elementor-element.elementor-element-22de2f1 .elementor-social-icon i{color:#FFFFFF;}.elementor-304 .elementor-element.elementor-element-22de2f1 .elementor-social-icon svg{fill:#FFFFFF;}.elementor-widget-copyright .hfe-copyright-wrapper a, .elementor-widget-copyright .hfe-copyright-wrapper{color:var( --e-global-color-text );}.elementor-widget-copyright .hfe-copyright-wrapper, .elementor-widget-copyright .hfe-copyright-wrapper a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-304 .elementor-element.elementor-element-142d209 .hfe-copyright-wrapper{text-align:center;}</style>		<div data-elementor-type="wp-post" data-elementor-id="304" class="elementor elementor-304">
+				<div class="elementor-element elementor-element-5f0ebe0 footer e-flex e-con-boxed e-con e-parent" data-id="5f0ebe0" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-91cfb97 elementor-widget elementor-widget-image" data-id="91cfb97" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="750" height="673" src="<?php echo esc_url( content_url( 'uploads/2024/10/logo.png' ) ); ?>" class="attachment-large size-large wp-image-31" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2024/10/logo.png' ) ); ?> 750w, <?php echo esc_url( content_url( 'uploads/2024/10/logo-300x269.png' ) ); ?> 300w" sizes="(max-width: 750px) 100vw, 750px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-214be1b hfe-nav-menu__align-center hfe-nav-menu__breakpoint-none hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-link-redirect-child elementor-widget elementor-widget-navigation-menu" data-id="214be1b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;padding_horizontal_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_menu_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_row_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;dropdown_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;dropdown_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;width_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;220&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;width_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_horizontal_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:15,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;padding_vertical_dropdown_item_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;distance_from_menu_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_width_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_border_radius_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="navigation-menu.default">
+				<div class="elementor-widget-container">
+								<div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
+				<div role="button" class="hfe-nav-menu__toggle elementor-clickable" tabindex="0" aria-label="Menu Toggle">
+					<span class="screen-reader-text">Menu</span>
+					<div class="hfe-nav-menu-icon">
+											</div>
+				</div>
+				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="" data-close-icon="" data-full-width="">
+					<ul id="menu-1-214be1b" class="hfe-nav-menu"><li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" class = "hfe-menu-item">Top</a></li>
+<li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/about-us/' ) ); ?>" class = "hfe-menu-item">About</a></li>
+<li id="menu-item-479" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/news/' ) ); ?>" class = "hfe-menu-item">News</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#class" class = "hfe-menu-item">Class</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#location" class = "hfe-menu-item">Location</a></li>
+<li id="menu-item-1083" class="menu-item menu-item-type-custom menu-item-object-custom parent hfe-creative-menu"><a href="#faq" class = "hfe-menu-item">FAQ</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#contact" class = "hfe-menu-item">Contact</a></li>
+</ul> 
+				</nav>
+			</div>
+							</div>
+				</div>
+				<div class="elementor-element elementor-element-22de2f1 elementor-shape-circle elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="22de2f1" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-e8e757c" href="#" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-b62c66c" href="#" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-142d209 elementor-widget elementor-widget-copyright" data-id="142d209" data-element_type="widget" data-e-type="widget" data-settings="{&quot;align&quot;:&quot;center&quot;}" data-widget_type="copyright.default">
+				<div class="elementor-widget-container">
+							<div class="hfe-copyright-wrapper">
+							<span>2026 © All Rights Reserved<br>TNT Private Boxing</span>
+					</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div>		</footer>
+	
+</div><!--/.wrapper-->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/neve/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<span aria-hidden="true" id="to_top_scrollup" class="dashicons dashicons-arrow-up-alt2" style="color: #0a0a0a;background-color: #ffffff;-webkit-border-radius: 0%; -moz-border-radius: 0%; border-radius: 0%;"><span class="screen-reader-text">Scroll Up</span></span><button id="scroll-to-top" class="scroll-to-top scroll-to-top-right  scroll-show-mobile icon" aria-label="Scroll To Top"><svg class="scroll-to-top-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15"><rect width="15" height="15" fill="none"/><path fill="currentColor" d="M2,8.48l-.65-.65a.71.71,0,0,1,0-1L7,1.14a.72.72,0,0,1,1,0l5.69,5.7a.71.71,0,0,1,0,1L13,8.48a.71.71,0,0,1-1,0L8.67,4.94v8.42a.7.7,0,0,1-.7.7H7a.7.7,0,0,1-.7-.7V4.94L3,8.47a.7.7,0,0,1-1,0Z"/></svg></button>			<script>
+				( () => {
+					const lazyloadRunObserver = () => {
+						const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+						const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+							entries.forEach( ( entry ) => {
+								if ( entry.isIntersecting ) {
+									let lazyloadBackground = entry.target;
+									if( lazyloadBackground ) {
+										lazyloadBackground.classList.add( 'e-lazyloaded' );
+									}
+									lazyloadBackgroundObserver.unobserve( entry.target );
+								}
+							});
+						}, { rootMargin: '200px 0px 200px 0px' } );
+						lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+							lazyloadBackgroundObserver.observe( lazyloadBackground );
+						} );
+					};
+					const events = [
+						'DOMContentLoaded',
+						'elementor/lazyload/observe',
+					];
+					events.forEach( ( event ) => {
+						document.addEventListener( event, lazyloadRunObserver );
+					} );
+				} )();
+			</script>
+			<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='<?php echo esc_url( content_url( 'plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css' ) ); ?>' media='all' />
+<script id="wp-hooks-js" src="<?php echo esc_url( home_url( '/wp-includes/js/dist/hooks.min.js' ) ); ?>"></script>
+<script id="wp-i18n-js" src="<?php echo esc_url( home_url( '/wp-includes/js/dist/i18n.min.js' ) ); ?>"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="<?php echo esc_url( content_url( 'plugins/contact-form-7/includes/swv/js/index.js' ) ); ?>"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="<?php echo esc_url( content_url( 'plugins/contact-form-7/includes/js/index.js' ) ); ?>"></script>
+<script id="to-top-js-extra">
+var to_top_options = {"scroll_offset":"100","icon_opacity":"50","style":"icon","icon_type":"dashicons-arrow-up-alt2","icon_color":"#0a0a0a","icon_bg_color":"#ffffff","icon_size":"32","border_radius":"0","image":"<?php echo esc_url( content_url( 'plugins/to-top/admin/images/default.png' ) ); ?>","image_width":"65","image_alt":"","location":"bottom-right","margin_x":"20","margin_y":"20","show_on_admin":"0","enable_autohide":"0","autohide_time":"2","enable_hide_small_device":"0","small_device_max_width":"640","reset":"0"};
+//# sourceURL=to-top-js-extra
+</script>
+<script id="to-top-js" src="<?php echo esc_url( content_url( 'plugins/to-top/public/js/to-top-public.js' ) ); ?>"></script>
+<script id="elementor-webpack-runtime-js" src="<?php echo esc_url( content_url( 'plugins/elementor/assets/js/webpack.runtime.min.js' ) ); ?>"></script>
+<script id="elementor-frontend-modules-js" src="<?php echo esc_url( content_url( 'plugins/elementor/assets/js/frontend-modules.min.js' ) ); ?>"></script>
+<script id="jquery-ui-core-js-before">
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+</script>
+<script id="jquery-ui-core-js" src="<?php echo esc_url( home_url( '/wp-includes/js/jquery/ui/core.min.js' ) ); ?>"></script>
+<script id="elementor-frontend-js-extra">
+var PremiumSettings = {"ajaxurl":"/wp-admin/admin-ajax.php","nonce":"11edec088d"};
+//# sourceURL=elementor-frontend-js-extra
+</script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.4.1","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_mcp_revision_snapshots":true,"nested-elements":true,"import-export-customization":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"950d2f7938","atomicFormsSendForm":"9171cd9b14"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2,"title":"LA%20Boxing%20Gym%20-%20No.1%20Boxing%20Gym%20in%20Downtown%20Los%20Angeles","excerpt":"","featuredImage":"<?php echo esc_url( content_url( 'uploads/2024/10/image-1024x536.jpg' ) ); ?>"}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="<?php echo esc_url( content_url( 'plugins/elementor/assets/js/frontend.min.js' ) ); ?>"></script>
+<script id="swiper-js" src="<?php echo esc_url( content_url( 'plugins/elementor/assets/lib/swiper/v8/swiper.min.js' ) ); ?>"></script>
+<script id="linkprefetcher-js-before">
+window.LP_CONFIG = {"activeOnDesktop":true,"behavior":"mouseHover","hoverDelay":60,"instantClick":false,"activeOnMobile":true,"mobileBehavior":"viewport","ignoreKeywords":"#,?","isMobile":false}
+//# sourceURL=linkprefetcher-js-before
+</script>
+<script id="linkprefetcher-js" src="<?php echo esc_url( content_url( 'plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-performance/build/assets/link-prefetch.min.js' ) ); ?>" defer></script>
+<script id="neve-script-js-extra">
+var NeveProperties = {"ajaxurl":"/wp-admin/admin-ajax.php","nonce":"1baf2f9037","isRTL":"","isCustomize":""};
+//# sourceURL=neve-script-js-extra
+</script>
+<script id="neve-script-js" src="<?php echo esc_url( content_url( 'themes/neve/assets/js/build/modern/frontend.js' ) ); ?>" async></script>
+<script id="neve-script-js-after">
+	;(function () {
+	var htmlEl = document.documentElement;
+	var theme = htmlEl.getAttribute('data-neve-theme') || 'light';
+	var variants = {"logo":{"light":{"src":"<?php echo esc_url( content_url( 'uploads/2024/10/logo.png' ) ); ?>","srcset":"<?php echo esc_url( content_url( 'uploads/2024/10/logo.png' ) ); ?> 750w, <?php echo esc_url( content_url( 'uploads/2024/10/logo-300x269.png' ) ); ?> 300w","sizes":"(max-width: 750px) 100vw, 750px"},"dark":{"src":"<?php echo esc_url( content_url( 'uploads/2024/10/logo.png' ) ); ?>","srcset":"<?php echo esc_url( content_url( 'uploads/2024/10/logo.png' ) ); ?> 750w, <?php echo esc_url( content_url( 'uploads/2024/10/logo-300x269.png' ) ); ?> 300w","sizes":"(max-width: 750px) 100vw, 750px"},"same":true}};
+
+	function setCurrentTheme( theme ) {
+		var pictures = document.getElementsByClassName( 'neve-site-logo' );
+		for(var i = 0; i<pictures.length; i++) {
+			var picture = pictures.item(i);
+			if( ! picture ) {
+				continue;
+			};
+			var fileExt = picture.src.slice((Math.max(0, picture.src.lastIndexOf(".")) || Infinity) + 1);
+			if ( fileExt === 'svg' ) {
+				picture.removeAttribute('width');
+				picture.removeAttribute('height');
+				picture.style = 'width: var(--maxwidth)';
+			}
+			var compId = picture.getAttribute('data-variant');
+			if ( compId && variants[compId] ) {
+				var isConditional = variants[compId]['same'];
+				if ( theme === 'light' || isConditional || variants[compId]['dark']['src'] === false ) {
+					picture.src = variants[compId]['light']['src'];
+					picture.srcset = variants[compId]['light']['srcset'] || '';
+					picture.sizes = variants[compId]['light']['sizes'];
+					continue;
+				};
+				picture.src = variants[compId]['dark']['src'];
+				picture.srcset = variants[compId]['dark']['srcset'] || '';
+				picture.sizes = variants[compId]['dark']['sizes'];
+			};
+		};
+	};
+
+	var observer = new MutationObserver(function(mutations) {
+		mutations.forEach(function(mutation) {
+			if (mutation.type == 'attributes' && mutation.attributeName === 'data-neve-theme') {
+				theme = htmlEl.getAttribute('data-neve-theme');
+				setCurrentTheme(theme);
+			};
+		});
+	});
+
+	observer.observe(htmlEl, {
+		attributes: true,
+		attributeFilter: ['data-neve-theme']
+	});
+	})();
+function toggleAriaClick() { function toggleAriaExpanded(toggle = 'true') { document.querySelectorAll('button.navbar-toggle').forEach(function(el) { if ( el.classList.contains('caret-wrap') ) { return; } el.setAttribute('aria-expanded', 'true' === el.getAttribute('aria-expanded') ? 'false' : toggle); }); } toggleAriaExpanded(); if ( document.body.hasAttribute('data-ftrap-listener') ) { return; } document.body.setAttribute('data-ftrap-listener', 'true'); document.addEventListener('ftrap-end', function() { toggleAriaExpanded('false'); }); }
+//# sourceURL=neve-script-js-after
+</script>
+<script id="neve-scroll-to-top-js-extra">
+var neveScrollOffset = {"offset":"0"};
+//# sourceURL=neve-scroll-to-top-js-extra
+</script>
+<script id="neve-scroll-to-top-js" src="<?php echo esc_url( content_url( 'themes/neve/assets/js/build/modern/scroll-to-top.js' ) ); ?>" async></script>
+<script id="google-recaptcha-js" src="https://www.google.com/recaptcha/api.js?render=6Len_f8qAAAAANVao-HdzDVBFewlh4YCaqZT1Ogt&#038;ver=3.0"></script>
+<script id="wp-polyfill-js" src="<?php echo esc_url( home_url( '/wp-includes/js/dist/vendor/wp-polyfill.min.js' ) ); ?>"></script>
+<script id="wpcf7-recaptcha-js-before">
+var wpcf7_recaptcha = {
+    "sitekey": "6Len_f8qAAAAANVao-HdzDVBFewlh4YCaqZT1Ogt",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+//# sourceURL=wpcf7-recaptcha-js-before
+</script>
+<script id="wpcf7-recaptcha-js" src="<?php echo esc_url( content_url( 'plugins/contact-form-7/modules/recaptcha/index.js' ) ); ?>"></script>
+<script id="pa-elements-handler-js" src="<?php echo esc_url( content_url( 'plugins/premium-addons-for-elementor/assets/frontend/min-js/elements-handler.min.js' ) ); ?>"></script>
+<script id="hfe-frontend-js-js" src="<?php echo esc_url( content_url( 'plugins/header-footer-elementor/inc/js/frontend.js' ) ); ?>"></script>
+<?php wp_footer(); ?>
+</body>
+
+</html>
