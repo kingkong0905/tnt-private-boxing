@@ -7,6 +7,8 @@ Built from the static clone in `../html-backup/` (the backup, rebranded to TNT P
 - `wp-content/themes/tnt-private-boxing/`: the theme. One template per captured page:
   `front-page.php` (home), `page-about-us.php`, `page-contact.php`, `page-news.php`,
   `category-news.php`, and one `single-post-<slug>.php` per news post.
+  `page-sample-page.php` is WordPress's default "Sample Page" (`/sample-page/`). It uses the
+  About us layout, and its body text is edited in wp-admin.
 - `wp-content/` (everything else): images, video, and the CSS/JS from the original site
   (Neve theme and Elementor assets). The templates load these.
 - `docker-compose.yml`: WordPress 6 + MariaDB for local use.
