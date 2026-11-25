@@ -9,6 +9,7 @@ Each captured page becomes a complete WordPress template:
   contact/index.html        -> page-contact.php
   news/index.html           -> page-news.php
   category/news/index.html  -> category-news.php
+  about-us/index.html       -> page-sample-page.php   (WordPress "Sample Page", editable content)
   <post>/index.html         -> single-post-<post>.php
 
 Site-local links become home_url() calls and files under wp-content/ are loaded
@@ -157,6 +158,30 @@ def fix_markup(text, base_dir):
             # CSS first, so the attribute pass never sees the PHP it just wrote.
             out.append(fix_attrs(fix_css(part, base_dir), base_dir))
     return "".join(out)
+
+
+# Templates that keep a captured page's header and footer but take their main content from
+# the WordPress page, so the text is edited in wp-admin. The head title follows the page too.
+EDITABLE_TEMPLATES = {"page-sample-page.php"}
+MAIN_RE = re.compile(r'<main id="content"[^>]*>.*?</main>', re.S)
+EDITABLE_MAIN = (
+    '<main id="content" class="neve-main" tabindex="-1">\n'
+    "<?php while ( have_posts() ) : the_post(); ?>\n"
+    '<div style="max-width:748px;margin:0 auto;padding:60px 16px;">\n'
+    "<h1><?php the_title(); ?></h1>\n"
+    '<div class="entry-content"><?php the_content(); ?></div>\n'
+    "</div>\n"
+    "<?php endwhile; ?>\n"
+    "</main>"
+)
+TITLE_RE = re.compile(r"<title>.*?</title>", re.S | re.I)
+TITLE_PHP = "<title><?php echo esc_html( wp_get_document_title() ); ?></title>"
+
+
+def apply_editable_content(text):
+    """Replace the captured main content and head title with WordPress-driven output."""
+    text = MAIN_RE.sub(lambda m: EDITABLE_MAIN, text, count=1)
+    return TITLE_RE.sub(lambda m: TITLE_PHP, text, count=1)
 
 
 def replace_primary_nav(text):
@@ -560,15 +585,21 @@ def main():
     category_index = os.path.join(html_dir, CATEGORY_DIR, "index.html")
     if os.path.isfile(category_index):
         jobs.append((CATEGORY_TEMPLATE, CATEGORY_DIR + "/index.html", CATEGORY_DIR))
+    # WordPress's default "Sample Page" (/sample-page/) uses the About us layout.
+    jobs.append(("page-sample-page.php", "about-us/index.html", "about-us"))
 
     all_ok = True
     for template, rel_src, base_dir in jobs:
         src_path = os.path.join(html_dir, rel_src)
         src_text = read(src_path)
         out_text = build_template(src_path, rel_src, base_dir)
+        check_src = replace_primary_nav(src_text)
+        if template in EDITABLE_TEMPLATES:
+            out_text = apply_editable_content(out_text)
+            check_src = apply_editable_content(check_src)
         with open(os.path.join(theme_dir, template), "w", encoding="utf-8", newline="") as f:
             f.write(out_text)
-        all_ok &= check_template(template, replace_primary_nav(src_text), out_text)
+        all_ok &= check_template(template, check_src, out_text)
 
     pages_php = []
     for slug, (_, title) in PAGE_TEMPLATES.items():
