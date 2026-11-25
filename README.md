@@ -250,27 +250,77 @@ Boxing**. Then check **Appearance > Menus** as in Ubuntu step 8.
 
 More detail is in [`wordpress/README.md`](wordpress/README.md).
 
-## How the pieces fit together
+## Running the scripts
 
-1. **`scripts/mirror.py`** downloads the public pages and assets of the original site into a
-   folder, and rewrites site-local links to relative paths. It fetches from the live site, so it
-   needs network access.
-2. **`scripts/rebrand.py`** renames the old brand to "TNT Private Boxing" in that folder.
-   Real identifiers of the original business (social handles, email, domain) are replaced
-   with placeholders. This produced `html-backup/`.
-3. **`scripts/build_theme.py`** turns `html-backup/` into a WordPress theme at
-   `wordpress/wp-content/themes/tnt-private-boxing/`: one PHP template per captured page, plus
-   `functions.php`.
-
-To regenerate the theme, the WordPress stack must be running, because the script reads the
-featured images from it (Docker path, step 1):
+The scripts in [`scripts/`](scripts) use only the Python 3 standard library. Run them from the
+repository root with `python3 -I`, which is how each script's usage line shows them. The scripts
+were written for Python 3.9 and later, and the Ubuntu setup installs Python 3.12. Running a script
+with no arguments prints its usage:
 
 ```sh
-python3 scripts/build_theme.py html-backup wordpress/wp-content/themes/tnt-private-boxing
+python3 -I scripts/mirror.py        # usage
+python3 -I scripts/rebrand.py       # usage
+python3 -I scripts/build_theme.py   # usage
 ```
 
-The generated templates are overwritten on every run. Make changes in `scripts/build_theme.py`
-(or in WordPress itself, for content and menus), not by hand in the generated files.
+The three scripts form a pipeline: `mirror.py` downloads the original site, `rebrand.py` renames
+it, and `build_theme.py` turns the rebranded copy (`html-backup/`) into the theme.
+
+### 1. `build_theme.py`: rebuild the theme
+
+Use this after you change `build_theme.py` or update `html-backup/`. It needs the WordPress stack
+running, because it reads each post's featured image from WordPress.
+
+```sh
+cd wordpress && docker compose up -d && cd ..          # start WordPress (Docker path, step 1)
+python3 -I scripts/build_theme.py html-backup wordpress/wp-content/themes/tnt-private-boxing
+```
+
+It writes one template per captured page, plus `functions.php`, `index.php`, `404.php` and
+`style.css`, into the theme folder. It ends with the checks:
+
+- `All checks passed.` and `php -l: all files parse.` mean the output is ready to look at.
+- `CHECK:` lines name the problem. Fix it in `build_theme.py` or in `html-backup/`, then run
+  the script again.
+- `refusing to copy PHP tags` means a captured page contains PHP code. The script stops on
+  purpose, because that code would run on the site.
+- `could not reach the WordPress container` means the stack is not running. Start it and run
+  the script again.
+
+The generated files are overwritten on every run, so make changes in `build_theme.py` (or in
+WordPress itself, for content and menus), not by hand in the generated files.
+
+### 2. `rebrand.py`: rename the brand in a copy
+
+Renames "LA Boxing Gym" to "TNT Private Boxing". It also replaces the original business's social
+handles, email address and domain with placeholders. It edits files in place, so run it on a
+copy of the mirror, not on the reviewed `html-backup/`:
+
+```sh
+python3 -I scripts/rebrand.py ~/mirror-out
+```
+
+It prints `files changed: N`.
+
+### 3. `mirror.py`: download the original site
+
+Downloads the public pages and assets of the original gym site (`https://laboxinggym.net`) into a
+new folder, and rewrites its links to relative paths. It needs network access and waits 0.35
+seconds between requests. Only run it if you have the right to copy that site. It prints
+`SAVED pages=… assets=… failed=…` and lists any URLs that failed.
+
+```sh
+python3 -I scripts/mirror.py ~/mirror-out
+python3 -I scripts/rebrand.py ~/mirror-out
+```
+
+### Updating the theme from a new download
+
+1. Run `mirror.py` and `rebrand.py` into a new folder, as above.
+2. Compare that folder with `html-backup/` (for example with `diff -r`) and check the changes.
+3. Replace the captured files in `html-backup/` with the reviewed copy.
+4. Run `build_theme.py` (section 1), then check the site in the browser.
+5. Commit the changes with `git` (see Git setup step 5).
 
 ## Managing content
 
