@@ -47,8 +47,9 @@ Activation creates the About us, Contact and News pages and the news posts.
 
 - **Menus:** Appearance > Menus. The header and footer menus both read the menu assigned to the
   primary location.
-- **Page text:** the About us, Contact and News pages are generated templates, so their text is
-  edited in the theme files. The WordPress "Sample Page" (`/sample-page/`) uses the About us
+- **Page text:** the About us and Contact pages are generated templates, so their text is edited
+  in the theme files. The News page lists every published post, so new posts appear there
+  automatically. The WordPress "Sample Page" (`/sample-page/`) uses the About us
   layout with its body edited in wp-admin.
 
 ## Open items

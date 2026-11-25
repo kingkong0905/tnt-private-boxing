@@ -34,6 +34,13 @@ function tnt_pb_content_map() {
 		'categories' => array(
 			array( 'slug' => 'news', 'name' => 'News' ),
 		),
+		'thumbnails' => array(
+			'anthony-olascuaga-defends-his-wbo-flyweight-title' => '2025/03/DSC00794-1-scaled.jpg',
+			'grand-opening' => '2024/10/Artboard-9.jpg',
+			'grand-opening-discounts-referral-program' => '2024/10/DSC00114.jpg',
+			'gym-opening-soon' => '2024/10/DSC09151.jpg',
+			'introducing-boxercise-new-client-special-79-for-2-weeks-unlimited-classes' => '2025/02/DSC01309-scaled.jpg',
+		),
 	);
 }
 
@@ -87,6 +94,58 @@ function tnt_pb_setup_content() {
 	flush_rewrite_rules();
 }
 add_action( 'after_switch_theme', 'tnt_pb_setup_content' );
+
+/**
+ * Attach the captured news images to the seeded posts as featured images. Each image is an
+ * existing file in uploads/, registered in the media library without generating new sizes.
+ * Posts that already have an image are skipped.
+ */
+function tnt_pb_seed_featured_images() {
+	$map     = tnt_pb_content_map();
+	$uploads = wp_get_upload_dir();
+
+	foreach ( $map['thumbnails'] as $slug => $relative ) {
+		$post = get_page_by_path( $slug, OBJECT, 'post' );
+		if ( ! $post || has_post_thumbnail( $post->ID ) ) {
+			continue;
+		}
+		$file = path_join( $uploads['basedir'], $relative );
+		$size = file_exists( $file ) ? getimagesize( $file ) : false;
+		if ( ! $size ) {
+			continue;
+		}
+		$attachment_id = wp_insert_attachment(
+			array(
+				'post_mime_type' => $size['mime'],
+				'post_title'     => $post->post_title,
+				'post_status'    => 'inherit',
+			),
+			$file,
+			$post->ID,
+			true
+		);
+		if ( is_wp_error( $attachment_id ) ) {
+			continue;
+		}
+		wp_update_attachment_metadata(
+			$attachment_id,
+			array( 'width' => $size[0], 'height' => $size[1], 'file' => $relative )
+		);
+		set_post_thumbnail( $post->ID, $attachment_id );
+	}
+}
+
+/**
+ * Attach the news images once, on the first page load after the theme is active.
+ */
+function tnt_pb_maybe_seed_featured_images() {
+	if ( defined( 'TNT_PB_GENERATOR' ) || get_option( 'tnt_pb_images_seeded' ) ) {
+		return;
+	}
+	tnt_pb_seed_featured_images();
+	update_option( 'tnt_pb_images_seeded', 1 );
+}
+add_action( 'init', 'tnt_pb_maybe_seed_featured_images' );
 
 /**
  * Menu items seeded into the primary menu on activation. Pages are linked by
@@ -146,7 +205,7 @@ function tnt_pb_seed_primary_menu() {
  * before the menu was added get it without switching themes again.
  */
 function tnt_pb_maybe_seed_primary_menu() {
-	if ( get_option( 'tnt_pb_menu_seeded' ) ) {
+	if ( defined( 'TNT_PB_GENERATOR' ) || get_option( 'tnt_pb_menu_seeded' ) ) {
 		return;
 	}
 	tnt_pb_seed_primary_menu();

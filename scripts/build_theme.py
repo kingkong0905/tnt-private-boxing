@@ -7,7 +7,7 @@ Each captured page becomes a complete WordPress template:
   index.html                -> front-page.php         (homepage)
   about-us/index.html       -> page-about-us.php
   contact/index.html        -> page-contact.php
-  news/index.html           -> page-news.php
+  news/index.html           -> page-news.php          (cards loop over published posts)
   category/news/index.html  -> category-news.php
   about-us/index.html       -> page-sample-page.php   (WordPress "Sample Page", editable content)
   <post>/index.html         -> single-post-<post>.php
@@ -16,9 +16,11 @@ Site-local links become home_url() calls and files under wp-content/ are loaded
 with content_url(), so the theme works wherever WordPress is installed.
 Author archives are skipped because they need real WordPress users.
 
-Stdlib only. Re-running overwrites the generated files in theme_dir.
+Stdlib only, but reading the featured images needs the WordPress stack running
+(cd wordpress && docker compose up -d). Re-running overwrites the generated files in theme_dir.
 """
 import html
+import json
 import os
 import posixpath
 import re
@@ -160,9 +162,8 @@ def fix_markup(text, base_dir):
     return "".join(out)
 
 
-# Templates that keep a captured page's header and footer but take their main content from
-# the WordPress page, so the text is edited in wp-admin. The head title follows the page too.
-EDITABLE_TEMPLATES = {"page-sample-page.php"}
+# The main content of the "Sample Page" template comes from the WordPress page, so its text is
+# edited in wp-admin. The head title follows the page too.
 MAIN_RE = re.compile(r'<main id="content"[^>]*>.*?</main>', re.S)
 EDITABLE_MAIN = (
     '<main id="content" class="neve-main" tabindex="-1">\n'
@@ -182,6 +183,76 @@ def apply_editable_content(text):
     """Replace the captured main content and head title with WordPress-driven output."""
     text = MAIN_RE.sub(lambda m: EDITABLE_MAIN, text, count=1)
     return TITLE_RE.sub(lambda m: TITLE_PHP, text, count=1)
+
+
+# The news listing on /news/ is rebuilt from WordPress posts, so posts published in wp-admin
+# appear there. The card markup is the captured Premium Blog card, filled from each post.
+NEWS_WRAP_OPEN_RE = re.compile(r'<div class="premium-blog-wrap\b[^"]*"[^>]*>')
+DIV_TAG_RE = re.compile(r"</?div\b")
+NEWS_LOOP_OPEN = (
+    "<?php $tnt_news = new WP_Query( array( 'post_type' => 'post', "
+    "'post_status' => 'publish', 'nopaging' => true ) );\n"
+    "while ( $tnt_news->have_posts() ) : $tnt_news->the_post(); ?>\n"
+)
+NEWS_LOOP_CLOSE = "<?php endwhile; wp_reset_postdata(); ?>\n"
+NEWS_CARD = """<div class="premium-blog-post-outer-container" data-total="1">
+<div class="premium-blog-post-container premium-blog-skin-classic">
+<?php if ( has_post_thumbnail() ) : ?>
+<div class="premium-blog-thumb-effect-wrapper">
+<div class="premium-blog-thumbnail-container premium-blog-zoomin-effect">
+<?php the_post_thumbnail( 'full' ); ?>
+<div class="premium-blog-thumbnail-overlay">
+<a class="elementor-icon" href="<?php the_permalink(); ?>" target="_self">
+<span class="elementor-screen-only"><?php the_title(); ?></span>
+</a>
+</div>
+</div>
+</div>
+<?php endif; ?>
+<div class="premium-blog-content-wrapper">
+<div class="premium-blog-inner-container">
+<h2 class="premium-blog-entry-title">
+<a href="<?php the_permalink(); ?>" target="_self"><?php the_title(); ?></a>
+</h2>
+<div class="premium-blog-entry-meta">
+<span class="premium-blog-meta-separator">•</span>
+<div class="premium-blog-post-time premium-blog-meta-data">
+<i class="fa fa-calendar-alt" aria-hidden="true"></i>
+<span><?php echo esc_html( get_the_date() ); ?></span>
+</div>
+</div>
+</div>
+<div class="premium-blog-content-inner-wrapper">
+<p class="premium-blog-post-content"><?php echo esc_html( get_the_excerpt() ); ?></p>
+</div>
+</div>
+</div>
+</div>
+"""
+
+
+def apply_news_listing(text):
+    """Replace the captured news cards with a loop over the published WordPress posts."""
+    m = NEWS_WRAP_OPEN_RE.search(text)
+    if not m:
+        return text
+    depth, end = 0, None
+    for tag in DIV_TAG_RE.finditer(text, m.start()):
+        depth += -1 if tag.group(0).startswith("</") else 1
+        if depth == 0:
+            end = text.index(">", tag.start()) + 1
+            break
+    if end is None:
+        raise SystemExit("unbalanced <div> in the news listing")
+    close = text.rindex("</div>", m.end(), end)  # the wrapper's own closing tag
+    return text[: m.end()] + NEWS_LOOP_OPEN + NEWS_CARD + NEWS_LOOP_CLOSE + text[close:]
+
+
+# Per-template rewrites, applied to the generated output and to the source used for checks.
+TEMPLATE_TRANSFORMS = {
+    "page-sample-page.php": apply_editable_content,
+    "page-news.php": apply_news_listing,
+}
 
 
 def replace_primary_nav(text):
@@ -208,6 +279,9 @@ def strip_suffix(title):
 def build_template(src_path, rel_src, base_dir):
     """Return the full PHP template text for one captured page."""
     text = read(src_path)
+    if "<?" in text:
+        # Captured text is copied into .php files, so a PHP tag in it would run on the site.
+        raise SystemExit(f"refusing to copy PHP tags from html-backup/{rel_src}")
     m_head = re.search(r"<head\b[^>]*>(.*?)</head>", text, re.I | re.S)
     m_body = re.search(r"<body\b([^>]*)>", text, re.I)
     m_end = text.rfind("</body>")
@@ -293,6 +367,9 @@ __POSTS__
 		'categories' => array(
 			array( 'slug' => 'news', 'name' => 'News' ),
 		),
+		'thumbnails' => array(
+__THUMBS__
+		),
 	);
 }
 
@@ -346,6 +423,58 @@ function tnt_pb_setup_content() {
 	flush_rewrite_rules();
 }
 add_action( 'after_switch_theme', 'tnt_pb_setup_content' );
+
+/**
+ * Attach the captured news images to the seeded posts as featured images. Each image is an
+ * existing file in uploads/, registered in the media library without generating new sizes.
+ * Posts that already have an image are skipped.
+ */
+function tnt_pb_seed_featured_images() {
+	$map     = tnt_pb_content_map();
+	$uploads = wp_get_upload_dir();
+
+	foreach ( $map['thumbnails'] as $slug => $relative ) {
+		$post = get_page_by_path( $slug, OBJECT, 'post' );
+		if ( ! $post || has_post_thumbnail( $post->ID ) ) {
+			continue;
+		}
+		$file = path_join( $uploads['basedir'], $relative );
+		$size = file_exists( $file ) ? getimagesize( $file ) : false;
+		if ( ! $size ) {
+			continue;
+		}
+		$attachment_id = wp_insert_attachment(
+			array(
+				'post_mime_type' => $size['mime'],
+				'post_title'     => $post->post_title,
+				'post_status'    => 'inherit',
+			),
+			$file,
+			$post->ID,
+			true
+		);
+		if ( is_wp_error( $attachment_id ) ) {
+			continue;
+		}
+		wp_update_attachment_metadata(
+			$attachment_id,
+			array( 'width' => $size[0], 'height' => $size[1], 'file' => $relative )
+		);
+		set_post_thumbnail( $post->ID, $attachment_id );
+	}
+}
+
+/**
+ * Attach the news images once, on the first page load after the theme is active.
+ */
+function tnt_pb_maybe_seed_featured_images() {
+	if ( defined( 'TNT_PB_GENERATOR' ) || get_option( 'tnt_pb_images_seeded' ) ) {
+		return;
+	}
+	tnt_pb_seed_featured_images();
+	update_option( 'tnt_pb_images_seeded', 1 );
+}
+add_action( 'init', 'tnt_pb_maybe_seed_featured_images' );
 
 /**
  * Menu items seeded into the primary menu on activation. Pages are linked by
@@ -405,7 +534,7 @@ function tnt_pb_seed_primary_menu() {
  * before the menu was added get it without switching themes again.
  */
 function tnt_pb_maybe_seed_primary_menu() {
-	if ( get_option( 'tnt_pb_menu_seeded' ) ) {
+	if ( defined( 'TNT_PB_GENERATOR' ) || get_option( 'tnt_pb_menu_seeded' ) ) {
 		return;
 	}
 	tnt_pb_seed_primary_menu();
@@ -554,6 +683,77 @@ Text Domain: tnt-private-boxing
 """
 
 
+# Featured images are read from WordPress itself: a small script runs inside the WordPress
+# container, loads WordPress with wp-load.php, and asks get_post_thumbnail_id() for each post.
+WORDPRESS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "wordpress")
+COMPOSE_FILE = os.path.join(WORDPRESS_DIR, "docker-compose.yml")
+THUMBS_MARKER = "TNT_THUMBS:"
+# Paths and slugs read back from WordPress are checked before they are written into functions.php.
+SAFE_UPLOAD_PATH = re.compile(r"[A-Za-z0-9][A-Za-z0-9._/-]*")
+SAFE_SLUG = re.compile(r"[a-z0-9-]+")
+THUMBS_PHP = (
+    # TNT_PB_GENERATOR tells the theme's one-time seed hooks not to write to the database.
+    "define( 'TNT_PB_GENERATOR', true ); require '/var/www/html/wp-load.php'; "
+    "$out = array(); "
+    "foreach ( get_posts( array( 'post_type' => 'post', 'post_status' => 'publish', "
+    "'numberposts' => -1, 'orderby' => 'ID', 'order' => 'ASC' ) ) as $post ) { "
+    "$id = get_post_thumbnail_id( $post ); "
+    "if ( ! $id ) { continue; } "
+    "$file = get_post_meta( $id, '_wp_attached_file', true ); "
+    "if ( $file ) { $out[] = array( $post->post_name, $file ); } "
+    "} "
+    "echo '%s' . wp_json_encode( $out ) . PHP_EOL; " % THUMBS_MARKER
+)
+
+
+def compose_exec(service, args, user=None):
+    """Run a command inside a service container of the WordPress compose project."""
+    cmd = ["docker", "compose", "-f", COMPOSE_FILE, "exec", "-T"]
+    if user:
+        cmd += ["-u", user]
+    try:
+        return subprocess.run(cmd + [service, *args], capture_output=True, text=True, timeout=120)
+    except FileNotFoundError:
+        raise SystemExit("docker is not installed or not on PATH")
+    except subprocess.TimeoutExpired:
+        raise SystemExit("docker compose did not answer within 120 seconds")
+
+
+def wordpress_exec(args):
+    """Run a command in the WordPress container as www-data and return the completed process."""
+    res = compose_exec("wordpress", args, user="www-data")
+    if res.returncode != 0:
+        raise SystemExit(
+            "could not reach the WordPress container (is the stack running? "
+            "cd wordpress && docker compose up -d): " + res.stderr.strip()
+        )
+    return res
+
+
+def news_thumbnails():
+    """Return (post slug, image path under uploads/) for each published post with a featured image."""
+    out = wordpress_exec(["php", "-r", THUMBS_PHP]).stdout
+    for line in out.splitlines():
+        if line.startswith(THUMBS_MARKER):
+            try:
+                rows = json.loads(line[len(THUMBS_MARKER):])
+            except ValueError:
+                raise SystemExit("WordPress returned an unreadable thumbnail list")
+            thumbs = []
+            for slug, rel in rows:
+                if not (isinstance(slug, str) and isinstance(rel, str)):
+                    continue
+                if not SAFE_SLUG.fullmatch(slug):
+                    print(f"  skipped featured image: unexpected slug {slug!r}")
+                    continue
+                if not SAFE_UPLOAD_PATH.fullmatch(rel) or ".." in rel.split("/"):
+                    print(f"  skipped featured image for {slug}: unexpected path {rel!r}")
+                    continue
+                thumbs.append((slug, rel))
+            return thumbs
+    raise SystemExit("WordPress did not return the thumbnail list. Output was: " + out[-300:])
+
+
 def main():
     if len(sys.argv) != 3:
         sys.exit(__doc__)
@@ -594,9 +794,10 @@ def main():
         src_text = read(src_path)
         out_text = build_template(src_path, rel_src, base_dir)
         check_src = replace_primary_nav(src_text)
-        if template in EDITABLE_TEMPLATES:
-            out_text = apply_editable_content(out_text)
-            check_src = apply_editable_content(check_src)
+        transform = TEMPLATE_TRANSFORMS.get(template)
+        if transform:
+            out_text = transform(out_text)
+            check_src = transform(check_src)
         with open(os.path.join(theme_dir, template), "w", encoding="utf-8", newline="") as f:
             f.write(out_text)
         all_ok &= check_template(template, check_src, out_text)
@@ -608,9 +809,14 @@ def main():
         f"\t\t\tarray( 'slug' => {php_str(slug)}, 'title' => {php_str(title)} ),"
         for slug, title in posts
     ]
+    thumbs_php = [
+        f"\t\t\t{php_str(slug)} => {php_str(rel)},"
+        for slug, rel in news_thumbnails()
+    ]
     functions = (
         FUNCTIONS_PHP.replace("__PAGES__", "\n".join(pages_php))
         .replace("__POSTS__", "\n".join(posts_php))
+        .replace("__THUMBS__", "\n".join(thumbs_php))
     )
     with open(os.path.join(theme_dir, "functions.php"), "w", encoding="utf-8") as f:
         f.write(functions)

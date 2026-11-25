@@ -291,208 +291,43 @@ h1 {font-family: var(--h1fontfamily);}.is-menu-sidebar .header-menu-sidebar { vi
 					
 		
 
-				<div class="premium-blog-wrap  premium-blog-even" data-page="448">
-									<div class="premium-blog-post-outer-container" data-total="1">
-			<div class="premium-blog-post-container premium-blog-skin-classic">
-									<div class="premium-blog-thumb-effect-wrapper">
-						<div class="premium-blog-thumbnail-container premium-blog-zoomin-effect">
-							<img decoding="async" width="2560" height="1707" src="<?php echo esc_url( content_url( 'uploads/2025/03/DSC00794-1-scaled.jpg' ) ); ?>" class="attachment-full size-full wp-image-1541" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2025/03/DSC00794-1-scaled.jpg' ) ); ?> 2560w, <?php echo esc_url( content_url( 'uploads/2025/03/DSC00794-1-300x200.jpg' ) ); ?> 300w, <?php echo esc_url( content_url( 'uploads/2025/03/DSC00794-1-1024x683.jpg' ) ); ?> 1024w, <?php echo esc_url( content_url( 'uploads/2025/03/DSC00794-1-768x512.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2025/03/DSC00794-1-1536x1024.jpg' ) ); ?> 1536w, <?php echo esc_url( content_url( 'uploads/2025/03/DSC00794-1-2048x1365.jpg' ) ); ?> 2048w, <?php echo esc_url( content_url( 'uploads/2025/03/DSC00794-1-930x620.jpg' ) ); ?> 930w" sizes="(max-width: 2560px) 100vw, 2560px" />						</div>
-													<div class="premium-blog-thumbnail-overlay">
-								<a class="elementor-icon" href="<?php echo esc_url( home_url( '/anthony-olascuaga-defends-his-wbo-flyweight-title/' ) ); ?>" target="_self">
-									<span class="elementor-screen-only">Anthony Olascuaga Defends His WBO Flyweight Title</span>
-								</a>
-							</div>
-
-																		</div>
-												<div class="premium-blog-content-wrapper ">
-
-					<div class="premium-blog-inner-container">
-
-														<h2 class="premium-blog-entry-title">
-			<a href="<?php echo esc_url( home_url( '/anthony-olascuaga-defends-his-wbo-flyweight-title/' ) ); ?>" target="_self">
-				Anthony Olascuaga Defends His WBO Flyweight Title			</a>
-		</h2>
-				<div class="premium-blog-entry-meta">
-			
-							<span class="premium-blog-meta-separator">•</span>
-				<div class="premium-blog-post-time premium-blog-meta-data">
-					<i class="fa fa-calendar-alt" aria-hidden="true"></i>
-					<span>March 19, 2025</span>
-				</div>
-			
-			
-					</div>
-		
-					</div>
-
-							<div class="premium-blog-content-inner-wrapper">
-		<p class="premium-blog-post-content">ANTHONY &#8220;PRINCESA&#8221;  OLASCUAGA DEFENDS WBO FLYWEIGHT TITLE   ​On March 13, 2025, at Tokyo&#8217;s Ryogoku …</p>		</div>
-							
-				</div>
-			</div>
-		</div>
-
-				<div class="premium-blog-post-outer-container" data-total="1">
-			<div class="premium-blog-post-container premium-blog-skin-classic">
-									<div class="premium-blog-thumb-effect-wrapper">
-						<div class="premium-blog-thumbnail-container premium-blog-zoomin-effect">
-							<img decoding="async" width="2560" height="1707" src="<?php echo esc_url( content_url( 'uploads/2025/02/DSC01309-scaled.jpg' ) ); ?>" class="attachment-full size-full wp-image-1305" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2025/02/DSC01309-scaled.jpg' ) ); ?> 2560w, <?php echo esc_url( content_url( 'uploads/2025/02/DSC01309-300x200.jpg' ) ); ?> 300w, <?php echo esc_url( content_url( 'uploads/2025/02/DSC01309-1024x683.jpg' ) ); ?> 1024w, <?php echo esc_url( content_url( 'uploads/2025/02/DSC01309-768x512.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2025/02/DSC01309-1536x1024.jpg' ) ); ?> 1536w, <?php echo esc_url( content_url( 'uploads/2025/02/DSC01309-2048x1365.jpg' ) ); ?> 2048w, <?php echo esc_url( content_url( 'uploads/2025/02/DSC01309-930x620.jpg' ) ); ?> 930w" sizes="(max-width: 2560px) 100vw, 2560px" />						</div>
-													<div class="premium-blog-thumbnail-overlay">
-								<a class="elementor-icon" href="<?php echo esc_url( home_url( '/introducing-boxercise-new-client-special-79-for-2-weeks-unlimited-classes/' ) ); ?>" target="_self">
-									<span class="elementor-screen-only">New Client Special: $79 For 2 Weeks Unlimited Classes!</span>
-								</a>
-							</div>
-
-																		</div>
-												<div class="premium-blog-content-wrapper ">
-
-					<div class="premium-blog-inner-container">
-
-														<h2 class="premium-blog-entry-title">
-			<a href="<?php echo esc_url( home_url( '/introducing-boxercise-new-client-special-79-for-2-weeks-unlimited-classes/' ) ); ?>" target="_self">
-				New Client Special: $79 For 2 Weeks Unlimited Classes!			</a>
-		</h2>
-				<div class="premium-blog-entry-meta">
-			
-							<span class="premium-blog-meta-separator">•</span>
-				<div class="premium-blog-post-time premium-blog-meta-data">
-					<i class="fa fa-calendar-alt" aria-hidden="true"></i>
-					<span>February 13, 2025</span>
-				</div>
-			
-			
-					</div>
-		
-					</div>
-
-							<div class="premium-blog-content-inner-wrapper">
-		<p class="premium-blog-post-content">New Class: Boxercise Are you ready to break a sweat, have fun, and unleash your …</p>		</div>
-							
-				</div>
-			</div>
-		</div>
-
-				<div class="premium-blog-post-outer-container" data-total="1">
-			<div class="premium-blog-post-container premium-blog-skin-classic">
-									<div class="premium-blog-thumb-effect-wrapper">
-						<div class="premium-blog-thumbnail-container premium-blog-zoomin-effect">
-							<img loading="lazy" decoding="async" width="1200" height="800" src="<?php echo esc_url( content_url( 'uploads/2024/10/DSC00114.jpg' ) ); ?>" class="attachment-full size-full wp-image-260" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2024/10/DSC00114.jpg' ) ); ?> 1200w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC00114-300x200.jpg' ) ); ?> 300w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC00114-1024x683.jpg' ) ); ?> 1024w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC00114-768x512.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC00114-930x620.jpg' ) ); ?> 930w" sizes="(max-width: 1200px) 100vw, 1200px" />						</div>
-													<div class="premium-blog-thumbnail-overlay">
-								<a class="elementor-icon" href="<?php echo esc_url( home_url( '/grand-opening-discounts-referral-program/' ) ); ?>" target="_self">
-									<span class="elementor-screen-only">Grand Opening Discounts &#038; Referral Program</span>
-								</a>
-							</div>
-
-																		</div>
-												<div class="premium-blog-content-wrapper ">
-
-					<div class="premium-blog-inner-container">
-
-														<h2 class="premium-blog-entry-title">
-			<a href="<?php echo esc_url( home_url( '/grand-opening-discounts-referral-program/' ) ); ?>" target="_self">
-				Grand Opening Discounts &#038; Referral Program			</a>
-		</h2>
-				<div class="premium-blog-entry-meta">
-			
-							<span class="premium-blog-meta-separator">•</span>
-				<div class="premium-blog-post-time premium-blog-meta-data">
-					<i class="fa fa-calendar-alt" aria-hidden="true"></i>
-					<span>November 21, 2024</span>
-				</div>
-			
-			
-					</div>
-		
-					</div>
-
-							<div class="premium-blog-content-inner-wrapper">
-		<p class="premium-blog-post-content">We’re thrilled to announce the grand opening of TNT Private Boxing, located in the heart …</p>		</div>
-							
-				</div>
-			</div>
-		</div>
-
-				<div class="premium-blog-post-outer-container" data-total="1">
-			<div class="premium-blog-post-container premium-blog-skin-classic">
-									<div class="premium-blog-thumb-effect-wrapper">
-						<div class="premium-blog-thumbnail-container premium-blog-zoomin-effect">
-							<img loading="lazy" decoding="async" width="800" height="533" src="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-9.jpg' ) ); ?>" class="attachment-full size-full wp-image-164" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2024/10/Artboard-9.jpg' ) ); ?> 800w, <?php echo esc_url( content_url( 'uploads/2024/10/Artboard-9-300x200.jpg' ) ); ?> 300w, <?php echo esc_url( content_url( 'uploads/2024/10/Artboard-9-768x512.jpg' ) ); ?> 768w" sizes="(max-width: 800px) 100vw, 800px" />						</div>
-													<div class="premium-blog-thumbnail-overlay">
-								<a class="elementor-icon" href="<?php echo esc_url( home_url( '/grand-opening/' ) ); ?>" target="_self">
-									<span class="elementor-screen-only">GRAND OPENING</span>
-								</a>
-							</div>
-
-																		</div>
-												<div class="premium-blog-content-wrapper ">
-
-					<div class="premium-blog-inner-container">
-
-														<h2 class="premium-blog-entry-title">
-			<a href="<?php echo esc_url( home_url( '/grand-opening/' ) ); ?>" target="_self">
-				GRAND OPENING			</a>
-		</h2>
-				<div class="premium-blog-entry-meta">
-			
-							<span class="premium-blog-meta-separator">•</span>
-				<div class="premium-blog-post-time premium-blog-meta-data">
-					<i class="fa fa-calendar-alt" aria-hidden="true"></i>
-					<span>October 29, 2024</span>
-				</div>
-			
-			
-					</div>
-		
-					</div>
-
-							<div class="premium-blog-content-inner-wrapper">
-		<p class="premium-blog-post-content">TNT Private Boxing Grand Opening! Sign up now and get up to 2 months FREE! …</p>		</div>
-							
-				</div>
-			</div>
-		</div>
-
-				<div class="premium-blog-post-outer-container" data-total="1">
-			<div class="premium-blog-post-container premium-blog-skin-classic">
-									<div class="premium-blog-thumb-effect-wrapper">
-						<div class="premium-blog-thumbnail-container premium-blog-zoomin-effect">
-							<img loading="lazy" decoding="async" width="1200" height="800" src="<?php echo esc_url( content_url( 'uploads/2024/10/DSC09151.jpg' ) ); ?>" class="attachment-full size-full wp-image-154" alt="" srcset="<?php echo esc_url( content_url( 'uploads/2024/10/DSC09151.jpg' ) ); ?> 1200w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC09151-300x200.jpg' ) ); ?> 300w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC09151-1024x683.jpg' ) ); ?> 1024w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC09151-768x512.jpg' ) ); ?> 768w, <?php echo esc_url( content_url( 'uploads/2024/10/DSC09151-930x620.jpg' ) ); ?> 930w" sizes="(max-width: 1200px) 100vw, 1200px" />						</div>
-													<div class="premium-blog-thumbnail-overlay">
-								<a class="elementor-icon" href="<?php echo esc_url( home_url( '/gym-opening-soon/' ) ); ?>" target="_self">
-									<span class="elementor-screen-only">GYM opening soon</span>
-								</a>
-							</div>
-
-																		</div>
-												<div class="premium-blog-content-wrapper ">
-
-					<div class="premium-blog-inner-container">
-
-														<h2 class="premium-blog-entry-title">
-			<a href="<?php echo esc_url( home_url( '/gym-opening-soon/' ) ); ?>" target="_self">
-				GYM opening soon			</a>
-		</h2>
-				<div class="premium-blog-entry-meta">
-			
-							<span class="premium-blog-meta-separator">•</span>
-				<div class="premium-blog-post-time premium-blog-meta-data">
-					<i class="fa fa-calendar-alt" aria-hidden="true"></i>
-					<span>October 5, 2024</span>
-				</div>
-			
-			
-					</div>
-		
-					</div>
-
-							<div class="premium-blog-content-inner-wrapper">
-		<p class="premium-blog-post-content">TNT Private Boxing is grand opening soon in Little Tokyo, Los Angeles. 200 S Los …</p>		</div>
-							
-				</div>
-			</div>
-		</div>
-
-							</div>
+				<div class="premium-blog-wrap  premium-blog-even" data-page="448"><?php $tnt_news = new WP_Query( array( 'post_type' => 'post', 'post_status' => 'publish', 'nopaging' => true ) );
+while ( $tnt_news->have_posts() ) : $tnt_news->the_post(); ?>
+<div class="premium-blog-post-outer-container" data-total="1">
+<div class="premium-blog-post-container premium-blog-skin-classic">
+<?php if ( has_post_thumbnail() ) : ?>
+<div class="premium-blog-thumb-effect-wrapper">
+<div class="premium-blog-thumbnail-container premium-blog-zoomin-effect">
+<?php the_post_thumbnail( 'full' ); ?>
+<div class="premium-blog-thumbnail-overlay">
+<a class="elementor-icon" href="<?php the_permalink(); ?>" target="_self">
+<span class="elementor-screen-only"><?php the_title(); ?></span>
+</a>
+</div>
+</div>
+</div>
+<?php endif; ?>
+<div class="premium-blog-content-wrapper">
+<div class="premium-blog-inner-container">
+<h2 class="premium-blog-entry-title">
+<a href="<?php the_permalink(); ?>" target="_self"><?php the_title(); ?></a>
+</h2>
+<div class="premium-blog-entry-meta">
+<span class="premium-blog-meta-separator">•</span>
+<div class="premium-blog-post-time premium-blog-meta-data">
+<i class="fa fa-calendar-alt" aria-hidden="true"></i>
+<span><?php echo esc_html( get_the_date() ); ?></span>
+</div>
+</div>
+</div>
+<div class="premium-blog-content-inner-wrapper">
+<p class="premium-blog-post-content"><?php echo esc_html( get_the_excerpt() ); ?></p>
+</div>
+</div>
+</div>
+</div>
+<?php endwhile; wp_reset_postdata(); ?>
+</div>
 
 		
 		

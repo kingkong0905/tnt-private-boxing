@@ -47,5 +47,8 @@ This overwrites the generated template files. Edits made by hand in the theme wi
 - **Themes list.** `wp-content/themes/neve/` holds only the Neve CSS that the templates load.
   It shows in WordPress's theme list. Don't activate it.
 - **Editing.** The pages are static templates. Text changes go into the theme's PHP files,
-  not the WordPress page editor.
+  not the WordPress page editor. Two exceptions: the news listing (`page-news.php`) shows every
+  published post, so posts added in wp-admin appear there, and the Sample Page body is edited in
+  wp-admin. New posts open with the basic fallback template (`index.php`) until a single-post
+  template is added for them.
 - **Size.** The copied video (`Boxing_Video_Ver1.mp4`) is about 49 MB.
