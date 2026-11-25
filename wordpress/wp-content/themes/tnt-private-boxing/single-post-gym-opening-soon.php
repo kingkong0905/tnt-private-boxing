@@ -187,14 +187,7 @@ h1 {font-family: var(--h1fontfamily);}.is-menu-sidebar .header-menu-sidebar { vi
 	<div role="navigation" class="nav-menu-primary"
 			aria-label="Primary Menu (Desktop)">
 
-		<ul id="nv-primary-navigation-desktop-main" class="primary-menu-ul nav-ul menu-desktop"><li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-44"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>">Top</a></div></li>
-<li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712"><div class="wrap"><a href="<?php echo esc_url( home_url( '/about-us/' ) ); ?>">About</a></div></li>
-<li id="menu-item-479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-479"><div class="wrap"><a href="<?php echo esc_url( home_url( '/news/' ) ); ?>">News</a></div></li>
-<li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-46"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#class">Class</a></div></li>
-<li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-48"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#location">Location</a></div></li>
-<li id="menu-item-1083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1083"><div class="wrap"><a href="#faq">FAQ</a></div></li>
-<li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-49"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#contact">Contact</a></div></li>
-</ul>	</div>
+		<?php tnt_pb_primary_menu( 'header' ); ?>	</div>
 </div>
 
 	</div>
@@ -268,14 +261,7 @@ h1 {font-family: var(--h1fontfamily);}.is-menu-sidebar .header-menu-sidebar { vi
 	<div role="navigation" class="nav-menu-primary"
 			aria-label="Primary Menu (Mobile)">
 
-		<ul id="nv-primary-navigation-mobile-sidebar" class="primary-menu-ul nav-ul menu-mobile"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-44"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>">Top</a></div></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712"><div class="wrap"><a href="<?php echo esc_url( home_url( '/about-us/' ) ); ?>">About</a></div></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-479"><div class="wrap"><a href="<?php echo esc_url( home_url( '/news/' ) ); ?>">News</a></div></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-46"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#class">Class</a></div></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-48"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#location">Location</a></div></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1083"><div class="wrap"><a href="#faq">FAQ</a></div></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-49"><div class="wrap"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#contact">Contact</a></div></li>
-</ul>	</div>
+		<?php tnt_pb_primary_menu( 'mobile' ); ?>	</div>
 </div>
 
 	</div>
@@ -354,14 +340,7 @@ h1 {font-family: var(--h1fontfamily);}.is-menu-sidebar .header-menu-sidebar { vi
 											</div>
 				</div>
 				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="" data-close-icon="" data-full-width="">
-					<ul id="menu-1-214be1b" class="hfe-nav-menu"><li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" class = "hfe-menu-item">Top</a></li>
-<li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/about-us/' ) ); ?>" class = "hfe-menu-item">About</a></li>
-<li id="menu-item-479" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/news/' ) ); ?>" class = "hfe-menu-item">News</a></li>
-<li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#class" class = "hfe-menu-item">Class</a></li>
-<li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#location" class = "hfe-menu-item">Location</a></li>
-<li id="menu-item-1083" class="menu-item menu-item-type-custom menu-item-object-custom parent hfe-creative-menu"><a href="#faq" class = "hfe-menu-item">FAQ</a></li>
-<li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home parent hfe-creative-menu"><a href="<?php echo esc_url( home_url( '/' ) ); ?>#contact" class = "hfe-menu-item">Contact</a></li>
-</ul> 
+					<?php tnt_pb_primary_menu( 'footer' ); ?> 
 				</nav>
 			</div>
 							</div>

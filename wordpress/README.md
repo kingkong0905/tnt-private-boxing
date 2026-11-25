@@ -19,6 +19,8 @@ Built from the static clone in `../html-backup/` (the backup, rebranded to TNT P
 4. Go to **Appearance > Themes** and activate **TNT Private Boxing**.
    Activation creates the About us, Contact and News pages, the five news posts,
    and the News category, and sets the homepage to show latest posts (which uses `front-page.php`).
+   It also creates a **Primary menu** (Top, About, News, Class, Location, FAQ, Contact).
+   Edit its items in **Appearance > Menus**. The header shows whatever menu is assigned to the Primary location.
 5. Stop with `docker compose down`. Add `-v` to also delete the database.
 
 ## Regenerate the theme from the clone
