@@ -13,6 +13,89 @@ existing gym site, which was rebranded and then turned into a WordPress theme.
 | `setup-ubuntu.sh` | Installs git, PHP, Python and MySQL on Ubuntu, clones the project, and creates the database. |
 | `setup-web-ubuntu.sh` | Serves the site on Ubuntu for a domain: Apache, WordPress core, and the project's `wp-content`. |
 
+## Git setup
+
+Git gets the code, and it pushes your changes back to GitHub. Do this once per computer.
+The Ubuntu setup script installs git for you (step 2 of path A below), so you only need the
+steps for installing git on a machine where you don't run that script.
+
+**Step 1. Install git.**
+
+- **Ubuntu:** `sudo apt-get update && sudo apt-get install -y git`
+- **macOS:** run `xcode-select --install`, or `brew install git` if you use Homebrew.
+
+Check it works:
+
+```sh
+git --version
+```
+
+**Step 2. Tell git who you are.** Use the name and the email address of your GitHub account.
+These appear on your commits.
+
+```sh
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+```
+
+**Step 3. Connect git to GitHub.** The repository is private, so cloning and pushing both need a
+GitHub login. You need read access to clone and write access to push
+`kingkong0905/tnt-private-boxing`. Choose one method:
+
+- **GitHub CLI (HTTPS, the simplest option).** Install `gh` from
+  [cli.github.com](https://cli.github.com) (on macOS, `brew install gh`), then run:
+
+  ```sh
+  gh auth login          # choose GitHub.com, HTTPS, and sign in through the browser
+  gh auth setup-git      # lets git use that login
+  ```
+
+- **SSH key.** Create a key and add it to your GitHub account:
+
+  ```sh
+  ssh-keygen -t ed25519 -C "you@example.com"    # press Enter to accept the defaults
+  cat ~/.ssh/id_ed25519.pub                     # copy this output
+  ```
+
+  On GitHub, open **Settings > SSH and GPG keys > New SSH key** and paste the key. Then test it:
+
+  ```sh
+  ssh -T git@github.com
+  ```
+
+  To use SSH, clone with `git@github.com:kingkong0905/tnt-private-boxing.git` instead of the
+  HTTPS address below.
+
+**Step 4. Get the project.**
+
+```sh
+git clone https://github.com/kingkong0905/tnt-private-boxing.git
+cd tnt-private-boxing
+git status
+```
+
+The `main` branch is the one to work from. A server that clones or pulls also needs a login:
+use the GitHub CLI login from step 3, or a read-only deploy key (see the Ubuntu server path).
+If git asks for a username, you are not logged in yet, so finish step 3 first.
+
+**Step 5. Day-to-day use.**
+
+- Get the latest changes: `git pull --ff-only` on `main`. The `--ff-only` flag stops the pull if
+  your local copy has changes that would need a merge.
+- For a change you want reviewed, create a branch, commit, push, and open a pull request:
+
+  ```sh
+  git checkout -b feat/short-description
+  git add path/to/changed-file other-changed-file     # add the files you changed, by name
+  git commit -m "feat(scope): what changed"
+  git push -u origin feat/short-description
+  gh pr create --base main                             # or open the PR on GitHub
+  ```
+
+- Do not add these to a commit: `.DS_Store`, and the WordPress folders that the Docker setup
+  creates in `wordpress/wp-content/` (`akismet/`, `hello.php`, `twentytwenty*/`, and the
+  `index.php` files in those folders). `git status` lists them as untracked. Check the list before you commit.
+
 ## Setup guide
 
 Pick one path:
@@ -25,6 +108,11 @@ Pick one path:
 You need Ubuntu 24.04, `sudo` access, and internet access. The scripts tell you if something
 is missing.
 
+The repository is private, so the server needs a GitHub login before step 1. Install git and
+log in on the server with Git setup steps 1 and 3. A read-only deploy key also works: add the
+server's public key under the repository's **Settings > Deploy keys**, then set
+`REPO_URL=git@github.com:kingkong0905/tnt-private-boxing.git` when you run the setup script.
+
 **Step 1. Get the setup script and run it.** Either clone the repository and run the script
 from it, or download only the script. The script clones the project into `~/tnt-private-boxing`
 when it is not run from a checkout.
@@ -34,8 +122,9 @@ when it is not run from a checkout.
 git clone https://github.com/kingkong0905/tnt-private-boxing.git
 cd tnt-private-boxing
 
-# Option 2: download only the script
-curl -fsSLO https://raw.githubusercontent.com/kingkong0905/tnt-private-boxing/main/setup-ubuntu.sh
+# Option 2: download only the script (uses the GitHub CLI login)
+gh api repos/kingkong0905/tnt-private-boxing/contents/setup-ubuntu.sh \
+  -H "Accept: application/vnd.github.raw" > setup-ubuntu.sh
 ```
 
 **Step 2. Install PHP, Python, MySQL and create the database.**
@@ -129,6 +218,9 @@ found", go to **Settings > Permalinks** and click **Save Changes** without chang
 
 **Troubleshooting**
 
+- `could not read Username` or `Repository not found` during the clone: the server has no
+  GitHub login with access to the repository. Finish Git setup step 3 on the server, then run
+  the script again.
 - `could not connect as 'wordpress'`: run `setup-ubuntu.sh` first, and use the same
   `DB_PASSWORD` for both scripts.
 - `www-data cannot read ...`: see the `chmod o+x "$HOME"` note in step 4.
